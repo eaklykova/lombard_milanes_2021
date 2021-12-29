@@ -1,1 +1,1 @@
-# lombard_milanes
+# West Lombard (Milanese dialect)
