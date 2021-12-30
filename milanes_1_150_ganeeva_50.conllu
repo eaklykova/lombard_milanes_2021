@@ -1,0 +1,1278 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = italian-isdt-ud-2.6-200830
+# udpipe_model_licence = CC BY-NC-SA
+
+# newdoc id = lmo-mil-wiki-doc1
+# sent_id = lmo-mil-wiki-doc1-s1
+# text = El Max Pezzali, a l'anagrafe Massimo Pezzali (Pavia, 14 november 1967) a l’è on cantautor italian.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=0:2
+2	Max	Max	PROPN	SP	_	21	nsubj	_	TokenRange=3:6
+3	Pezzali	Pezzali	PROPN	SP	_	2	flat:name	_	SpaceAfter=No|TokenRange=7:14
+4	,	,	PUNCT	FF	_	2	punct	_	TokenRange=14:15
+5	a	a	ADP	E	_	7	case	_	TokenRange=16:17
+6	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|TokenRange=18:20
+7	anagrafe	anagrafe	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	TokenRange=20:28
+8	Massimo	Massimo	PROPN	SP	_	2	appos	_	TokenRange=29:36
+9	Pezzali	Pezzali	PROPN	SP	_	8	flat:name	_	TokenRange=37:44
+10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No|TokenRange=45:46
+11	Pavia	Pavia	PROPN	SP	_	8	nmod	_	SpaceAfter=No|TokenRange=46:51
+12	,	,	PUNCT	FF	_	11	punct	_	TokenRange=51:52
+13	14	14	NUM	N	NumType=Card	11	nmod	_	TokenRange=53:55
+14	november	november	NOUN	S	Gender=Masc|Number=Sing	13	flat	_	TokenRange=56:64
+15	1967	1967	NUM	N	NumType=Card	13	flat	_	SpaceAfter=No|TokenRange=65:69
+16	)	)	PUNCT	FB	_	11	punct	_	SpacesAfter=\s\s|TokenRange=69:70
+17	a	a	ADP	E	_	21	case	_	TokenRange=72:73
+18	l’	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	21	expl	_	SpaceAfter=No|TokenRange=74:76
+19	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	TokenRange=76:77
+20	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	TokenRange=78:80
+21	cantautor	cantautor	NOUN	S	Gender=Masc	0	root	_	TokenRange=81:90
+22	italian	italian	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	SpacesAfter=\r\n|TokenRange=91:98
+23	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\r\n|TokenRange=99:100
+
+# sent_id = lmo-mil-wiki-doc1-s2
+# text = Vegnùu famós come la vos di 883, grupp fondàa insemma a l’amis Mauro Repetto in del 1991, dal 2004 el Pezzali el s’è miss adrèe ind ona carriera de solista, quand che l’ha bandonàa a la definitiva i "883".
+1	Vegnùu	vegnì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=101:107
+2	famós	famós	NOUN	S	_	1	xcomp	_	TokenRange=108:113
+3	come	come	ADP	E	_	5	case	_	TokenRange=114:118
+4	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=119:121
+5	vos	vos	NOUN	S	Gender=Fem	1	obl	_	TokenRange=122:125
+6	di	di	ADP	E	_	7	case	_	TokenRange=126:128
+7	883	883	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No|TokenRange=129:132
+8	,	,	PUNCT	FF	_	5	punct	_	TokenRange=132:133
+9	grupp	grupp	NOUN	S	Gender=Masc	5	appos	_	TokenRange=134:139
+10	fondàa	fondà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	TokenRange=140:146
+11	insemma	insemma	ADV	B	_	10	advmod	_	TokenRange=147:154
+12	a	a	ADP	E	_	14	case	_	TokenRange=155:156
+13	l’	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No|TokenRange=157:159
+14	amis	amis	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	TokenRange=159:163
+15	Mauro	Mauro	PROPN	SP	_	14	nmod	_	TokenRange=164:169
+16	Repetto	Repetto	PROPN	SP	_	15	flat:name	_	TokenRange=170:177
+17	in	in	ADP	E	_	20	case	_	TokenRange=178:180
+18-19	del	_	_	_	_	_	_	_	TokenRange=181:184
+18	di	di	ADP	E	_	17	fixed	_	_
+19	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	1991	1991	NUM	N	NumType=Card	10	obl	_	SpaceAfter=No|TokenRange=185:189
+21	,	,	PUNCT	FF	_	1	punct	_	TokenRange=189:190
+22-23	dal	_	_	_	_	_	_	_	TokenRange=191:194
+22	da	da	ADP	E	_	24	case	_	_
+23	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	2004	2004	NUM	N	NumType=Card	30	obl	_	TokenRange=195:199
+25	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	TokenRange=200:202
+26	Pezzali	Pezzali	PROPN	SP	_	30	nsubj	_	TokenRange=203:210
+27	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obj	_	TokenRange=211:213
+28	s’	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	30	expl	_	SpaceAfter=No|TokenRange=214:216
+29	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	TokenRange=216:217
+30	miss	mètt	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	TokenRange=218:222
+31	adrèe	adrèe	X	S	Gender=Fem|Number=Plur	30	obj	_	TokenRange=223:228
+32	ind	ind	ADP	E	_	34	case	_	TokenRange=229:232
+33	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	34	det	_	TokenRange=233:236
+34	carriera	carriera	NOUN	S	Gender=Fem|Number=Sing	30	obl	_	TokenRange=237:245
+35	de	de	ADP	E	_	36	case	_	TokenRange=246:248
+36	solista	solista	NOUN	S	Number=Sing	34	nmod	_	SpaceAfter=No|TokenRange=249:256
+37	,	,	PUNCT	FF	_	30	punct	_	TokenRange=256:257
+38	quand	quand	SCONJ	CS	_	42	mark	_	TokenRange=258:263
+39	che	che	SCONJ	CS	_	42	mark	_	TokenRange=264:267
+40	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	42	obj	_	SpaceAfter=No|TokenRange=268:270
+41	ha	avè	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	aux	_	TokenRange=270:272
+42	bandonàa	bandunär	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	30	advcl	_	TokenRange=273:281
+43	a	a	ADP	E	_	45	case	_	TokenRange=282:283
+44	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	TokenRange=284:286
+45	definitiva	definitivo	ADJ	A	Gender=Fem|Number=Sing	42	obl	_	TokenRange=287:297
+46	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	48	det	_	TokenRange=298:299
+47	"	"	PUNCT	FB	_	48	punct	_	SpaceAfter=No|TokenRange=300:301
+48	883	883	NUM	N	NumType=Card	42	obj	_	SpaceAfter=No|TokenRange=301:304
+49	"	"	PUNCT	FB	_	48	punct	_	SpaceAfter=No|TokenRange=304:305
+50	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\r\n|TokenRange=305:306
+
+# sent_id = lmo-mil-wiki-doc1-s3
+# text = El sò primm album de solista a l’è stàa Il mondo insieme a te, l’è vegnuda adrèe in del 2005 la raccòlta di grand succèss (disco de diamant in Italia) TuttoMax, che’l gh’ha denter i singój del disco vegnùu prima e i succèss pussée grand di 883.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	TokenRange=308:310
+2	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	TokenRange=311:313
+3	primm	primm	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	TokenRange=314:319
+4	album	album	NOUN	S	Gender=Masc	12	nsubj	_	TokenRange=320:325
+5	de	de	ADP	E	_	6	case	_	TokenRange=326:328
+6	solista	solista	NOUN	S	Number=Sing	4	nmod	_	TokenRange=329:336
+7	a	a	ADP	E	_	12	case	_	TokenRange=337:338
+8	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	12	det	_	SpaceAfter=No|TokenRange=339:341
+9	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	TokenRange=341:342
+10	stàa	stà	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	cop	_	TokenRange=343:347
+11	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	TokenRange=348:350
+12	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	TokenRange=351:356
+13	insieme	insieme	ADV	B	_	15	case	_	TokenRange=357:364
+14	a	a	ADP	E	_	13	fixed	_	TokenRange=365:366
+15	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	12	obl	_	SpaceAfter=No|TokenRange=367:369
+16	,	,	PUNCT	FF	_	12	punct	_	TokenRange=369:370
+17	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	19	obj	_	SpaceAfter=No|TokenRange=371:373
+18	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	TokenRange=373:374
+19	vegnuda	vegnì	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	TokenRange=375:382
+20	adrèe	adrèe	ADV	B	_	19	advmod	_	TokenRange=383:388
+21	in	in	ADP	E	_	24	case	_	TokenRange=389:391
+22-23	del	_	_	_	_	_	_	_	TokenRange=392:395
+22	di	di	ADP	E	_	13	fixed	_	_
+23	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	2005	2005	NUM	N	NumType=Card	19	obl	_	TokenRange=396:400
+25	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	TokenRange=401:403
+26	raccòlta	raccòlta	NOUN	S	Gender=Fem|Number=Sing	19	nsubj	_	TokenRange=404:412
+27	di	di	ADP	E	_	29	case	_	TokenRange=413:415
+28	grand	grand	ADJ	A	_	29	amod	_	TokenRange=416:421
+29	succèss	succèss	NOUN	S	Gender=Masc	26	nmod	_	TokenRange=422:429
+30	(	(	PUNCT	FB	_	31	punct	_	SpaceAfter=No|TokenRange=430:431
+31	disco	disco	NOUN	S	Gender=Masc|Number=Sing	26	appos	_	TokenRange=431:436
+32	de	de	ADP	E	_	33	case	_	TokenRange=437:439
+33	diamant	diamant	NOUN	S	Gender=Masc	31	nmod	_	TokenRange=440:447
+34	in	in	ADP	E	_	35	case	_	TokenRange=448:450
+35	Italia	Italia	PROPN	SP	_	31	nmod	_	SpaceAfter=No|TokenRange=451:457
+36	)	)	PUNCT	FB	_	31	punct	_	TokenRange=457:458
+37	TuttoMax	Tuttomax	PROPN	SP	_	26	nmod	_	SpaceAfter=No|TokenRange=459:467
+38	,	,	PUNCT	FF	_	26	punct	_	TokenRange=467:468
+39	che	che	PRON	PR	PronType=Rel	43	nsubj	_	SpaceAfter=No|TokenRange=469:472
+40	’	’	PUNCT	FB	_	39	punct	_	SpaceAfter=No|TokenRange=472:473
+41	l	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	43	obj	_	TokenRange=473:474
+42	gh’	gh’	X	SW	_	43	obj	_	SpaceAfter=No|TokenRange=475:478
+43	ha	avè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	acl:relcl	_	TokenRange=478:480
+44	denter	denter	X	V	_	43	ccomp	_	TokenRange=481:487
+45	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	46	det	_	TokenRange=488:489
+46	singój	singój	NOUN	S	_	44	obj	_	TokenRange=490:496
+47-48	del	_	_	_	_	_	_	_	TokenRange=497:500
+47	di	di	ADP	E	_	49	case	_	_
+48	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	_
+49	disco	disco	NOUN	S	Gender=Masc|Number=Sing	46	nmod	_	TokenRange=501:506
+50	vegnùu	vegnì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	46	acl	_	TokenRange=507:513
+51	prima	prima	ADV	B	_	50	advmod	_	TokenRange=514:519
+52	e	e	CCONJ	CC	_	54	cc	_	TokenRange=520:521
+53	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	54	det	_	TokenRange=522:523
+54	succèss	succèss	NOUN	S	Gender=Masc	46	conj	_	TokenRange=524:531
+55	pussée	pussée	ADV	B	_	56	advmod	_	TokenRange=532:538
+56	grand	grand	ADJ	A	Number=Plur	54	amod	_	TokenRange=539:544
+57	di	di	ADP	E	_	58	case	_	TokenRange=545:547
+58	883	883	NUM	N	NumType=Card	54	nummod	_	SpaceAfter=No|TokenRange=548:551
+59	.	.	PUNCT	FS	_	12	punct	_	TokenRange=551:552
+
+# sent_id = lmo-mil-wiki-doc1-s5
+# text = chi du album chì i gh’hann denter i vègg succèss di 883 in ona quaj noueva versión cantàda insemma de differént artisti dela mùsega italiana.
+1	chi	chi	PRON	PR	Number=Sing|PronType=Rel	8	nsubj	_	TokenRange=749:752
+2	du	du	DET	DI	_	3	det	_	TokenRange=753:755
+3	album	album	NOUN	S	Gender=Masc	1	nmod	_	TokenRange=756:761
+4	chì	chì	ADV	B	_	3	advmod	_	TokenRange=762:765
+5	i	i	PRON	PC	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	obj	_	TokenRange=766:767
+6	gh’	gh’	X	SW	_	1	acl:relcl	_	SpaceAfter=No|TokenRange=768:771
+7	hann	vere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	TokenRange=771:775
+8	denter	dent	VERB	V	VerbForm=Inf	0	root	_	TokenRange=776:782
+9	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	TokenRange=783:784
+10	vègg	vègg	ADJ	A	_	11	amod	_	TokenRange=785:789
+11	succèss	succèss	NOUN	S	Gender=Masc	8	obj	_	TokenRange=790:797
+12	di	di	ADP	E	_	13	case	_	TokenRange=798:800
+13	883	883	NUM	N	NumType=Card	11	nummod	_	TokenRange=801:804
+14	in	in	ADP	E	_	18	case	_	TokenRange=805:807
+15	ona	ona	DET	RI	Gender=Fem|Number=Sing|PronType=Ind	18	det	_	TokenRange=808:811
+16	quaj	quaj	ADV	B	_	18	advmod	_	TokenRange=812:816
+17	noueva	nouevo	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	TokenRange=817:823
+18	versión	versión	NOUN	S	_	8	obl	_	TokenRange=824:831
+19	cantàda	cantà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	18	acl	_	TokenRange=832:839
+20	insemma	insemma	ADV	B	_	19	advmod	_	TokenRange=840:847
+21	de	de	ADP	E	_	23	case	_	TokenRange=848:850
+22	differént	differént	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	23	det	_	TokenRange=851:860
+23	artisti	artista	NOUN	S	Gender=Masc|Number=Plur	19	obl	_	TokenRange=861:868
+24	dela	dela	DET	E	_	25	det	_	TokenRange=869:873
+25	mùsega	mùsega	NOUN	S	Gender=Fem|Number=Sing	23	nmod	_	TokenRange=874:880
+26	italiana	italiano	ADJ	A	Gender=Fem|Number=Sing	25	amod	_	SpaceAfter=No|TokenRange=881:889
+27	.	.	PUNCT	FS	_	8	punct	_	TokenRange=889:890
+
+# sent_id = lmo-mil-wiki-doc1-s6
+# text = El 2015 el ved la sortida del sò quart album de inedit, Astronave Max.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=891:893
+2	2015	2015	NUM	N	NumType=Card	4	nummod	_	TokenRange=894:898
+3	el	el	PRON	PC	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	obj	_	TokenRange=899:901
+4	ved	ved	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=902:905
+5	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=906:908
+6	sortida	sortida	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	TokenRange=909:916
+7-8	del	_	_	_	_	_	_	_	TokenRange=917:920
+7	di	di	ADP	E	_	11	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+9	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	TokenRange=921:923
+10	quart	quart	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	TokenRange=924:929
+11	album	album	NOUN	S	Gender=Masc	6	nmod	_	TokenRange=930:935
+12	de	de	ADP	E	_	13	case	_	TokenRange=936:938
+13	inedit	inedit	NOUN	S	_	11	nmod	_	SpaceAfter=No|TokenRange=939:945
+14	,	,	PUNCT	FF	_	11	punct	_	TokenRange=945:946
+15	Astronave	Astronave	PROPN	SP	_	11	appos	_	TokenRange=947:956
+16	Max	Max	PROPN	SP	_	15	flat:name	_	SpaceAfter=No|TokenRange=957:960
+17	.	.	PUNCT	FS	_	4	punct	_	TokenRange=960:961
+
+# sent_id = lmo-mil-wiki-doc1-s7
+# text = In del 2017, de celebrà i 25 ann di carriera l’è pubblicada la raccòlta
+1	In	in	ADP	E	_	4	case	_	TokenRange=962:964
+2-3	del	_	_	_	_	_	_	_	TokenRange=965:968
+2	di	di	ADP	E	_	1	fixed	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	2017	2017	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No|TokenRange=969:973
+5	,	,	PUNCT	FF	_	4	punct	_	TokenRange=973:974
+6	de	de	SCONJ	CS	_	7	mark	_	TokenRange=975:977
+7	celebrà	celebrär	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	advcl	_	TokenRange=978:985
+8	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	TokenRange=986:987
+9	25	25	NUM	N	NumType=Card	10	nummod	_	TokenRange=988:990
+10	ann	ann	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	TokenRange=991:994
+11	di	di	ADP	E	_	12	case	_	TokenRange=995:997
+12	carriera	carriera	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	TokenRange=998:1006
+13	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	15	obj	_	SpaceAfter=No|TokenRange=1007:1009
+14	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	TokenRange=1009:1010
+15	pubblicada	pubblic	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=1011:1021
+16	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	TokenRange=1022:1024
+17	raccòlta	raccòlta	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	TokenRange=1025:1033
+
+# sent_id = lmo-mil-wiki-doc1-s8
+# text = Le canzoni alla radio.
+1	Le	el	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	TokenRange=1034:1036
+2	canzoni	canzone	NOUN	S	Gender=Fem|Number=Plur	0	root	_	TokenRange=1037:1044
+3-4	alla	_	_	_	_	_	_	_	TokenRange=1045:1049
+3	a	a	ADP	E	_	5	case	_	_
+4	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	radio	radio	NOUN	S	Gender=Fem	2	nmod	_	SpaceAfter=No|TokenRange=1050:1055
+6	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\r\n|TokenRange=1055:1056
+
+# sent_id = lmo-mil-wiki-doc1-s13
+# text = Adrèe al princìpi cont el nòmm provvisori I
+1	Adrèe	adrèe	NOUN	S	Gender=Fem|Number=Plur	0	root	_	TokenRange=2165:2170
+2-3	al	_	_	_	_	_	_	_	TokenRange=2171:2173
+2	a	a	ADP	E	_	4	case	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	princìpi	princìpi	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	TokenRange=2174:2182
+5	cont	cont	ADP	E	_	7	case	_	TokenRange=2183:2187
+6	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=2188:2190
+7	nòmm	nòmm	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	TokenRange=2191:2195
+8	provvisori	provvisorio	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	TokenRange=2196:2206
+9	I	I	ADJ	NO	Number=Sing|NumType=Ord	1	amod	_	TokenRange=2207:2208
+
+# sent_id = lmo-mil-wiki-doc1-s17
+# text = L'album Nord sud ovest est el venderà pussée de 1.300.000 còpi.
+1	L'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|TokenRange=2848:2850
+2	album	album	NOUN	S	Gender=Masc	8	nsubj	_	TokenRange=2850:2855
+3	Nord	Nord	X	SW	Foreign=Yes	2	nmod	_	TokenRange=2856:2860
+4	sud	sud	X	SW	Foreign=Yes	3	flat:foreign	_	TokenRange=2861:2864
+5	ovest	ovest	X	SW	Foreign=Yes	3	flat:foreign	_	TokenRange=2865:2870
+6	est	est	X	SW	Foreign=Yes	3	flat:foreign	_	TokenRange=2871:2874
+7	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	TokenRange=2875:2877
+8	venderà	vend	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	TokenRange=2878:2885
+9	pussée	pussée	ADV	B	_	8	advmod	_	TokenRange=2886:2892
+10	de	de	ADP	E	_	12	case	_	TokenRange=2893:2895
+11	1.300.000	1.300.000	NUM	N	NumType=Card	12	nummod	_	SpacesAfter=\s\s|TokenRange=2896:2905
+12	còpi	còpo	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No|TokenRange=2907:2911
+13	.	.	PUNCT	FS	_	8	punct	_	TokenRange=2911:2912
+
+# sent_id = lmo-mil-wiki-doc1-s19
+# text = I 883 i metteràn foeura, poeu
+1	I	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=3072:3073
+2	883	883	NUM	N	NumType=Card	4	nummod	_	TokenRange=3074:3077
+3	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	TokenRange=3078:3079
+4	metteràn	metteràn	NOUN	S	Gender=Masc	0	root	_	TokenRange=3080:3088
+5	foeura	foeura	NOUN	S	Gender=Fem|Number=Sing	4	compound	_	SpaceAfter=No|TokenRange=3089:3095
+6	,	,	PUNCT	FF	_	4	punct	_	TokenRange=3095:3096
+7	poeu	poeu	ADV	B	_	4	advmod	_	TokenRange=3097:3101
+
+# sent_id = lmo-mil-wiki-doc1-s20
+# text = La donna il sogno & il grande incubo in del 1995, La dura legge del gol!
+1	La	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=3102:3104
+2	donna	donna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	TokenRange=3105:3110
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	TokenRange=3111:3113
+4	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	TokenRange=3114:3119
+5	&	&	SYM	SYM	_	8	cc	_	TokenRange=3120:3121
+6	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=3122:3124
+7	grande	grande	ADJ	A	Number=Sing	8	amod	_	TokenRange=3125:3131
+8	incubo	incubo	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	TokenRange=3132:3138
+9	in	in	ADP	E	_	12	case	_	TokenRange=3139:3141
+10-11	del	_	_	_	_	_	_	_	TokenRange=3142:3145
+10	di	di	ADP	E	_	9	fixed	_	_
+11	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	1995	1995	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No|TokenRange=3146:3150
+13	,	,	PUNCT	FF	_	16	punct	_	TokenRange=3150:3151
+14	La	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	TokenRange=3152:3154
+15	dura	duro	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	TokenRange=3155:3159
+16	legge	legge	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	TokenRange=3160:3165
+17-18	del	_	_	_	_	_	_	_	TokenRange=3166:3169
+17	di	di	ADP	E	_	19	case	_	_
+18	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	gol	gol	NOUN	S	Gender=Masc	16	nmod	_	SpaceAfter=No|TokenRange=3170:3173
+20	!	!	PUNCT	FS	_	2	punct	_	TokenRange=3173:3174
+
+# sent_id = lmo-mil-wiki-doc1-s30
+# text = Tucc e du i inedit hinn sortìi ‘me singoj.
+1	Tucc	tucc	X	PI	_	7	nsubj	_	TokenRange=4847:4851
+2	e	e	CCONJ	CC	_	3	cc	_	TokenRange=4852:4853
+3	du	du	NUM	N	NumType=Card	1	conj	_	TokenRange=4854:4856
+4	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	TokenRange=4857:4858
+5	inedit	inedit	NOUN	S	_	7	nsubj	_	TokenRange=4859:4865
+6	hinn	vere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	TokenRange=4866:4870
+7	sortìi	sortì	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	TokenRange=4871:4877
+8	‘me	‘me	ADP	E	_	9	case	_	TokenRange=4878:4881
+9	singoj	singoj	NOUN	S	Gender=Masc	7	obl	_	SpaceAfter=No|TokenRange=4882:4888
+10	.	.	PUNCT	FS	_	7	punct	_	TokenRange=4888:4889
+
+# sent_id = lmo-mil-wiki-doc1-s32
+# text = In del 2004 el Max el decid, donca, de lassàa el stòrich marchio di 883.
+1	In	in	ADP	E	_	4	case	_	TokenRange=5180:5182
+2-3	del	_	_	_	_	_	_	_	TokenRange=5183:5186
+2	di	di	ADP	E	_	1	fixed	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	2004	2004	NUM	N	NumType=Card	8	obl	_	TokenRange=5187:5191
+5	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=5192:5194
+6	Max	Max	PROPN	SP	_	8	nsubj	_	TokenRange=5195:5198
+7	el	el	PROPN	SP	_	8	nsubj	_	TokenRange=5199:5201
+8	decid	decid	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=5202:5207
+9	,	,	PUNCT	FF	_	8	punct	_	TokenRange=5207:5208
+10	donca	donca	ADV	B	_	8	advmod	_	SpaceAfter=No|TokenRange=5209:5214
+11	,	,	PUNCT	FF	_	10	punct	_	TokenRange=5214:5215
+12	de	de	ADP	E	_	13	mark	_	TokenRange=5216:5218
+13	lassàa	lassà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	TokenRange=5219:5225
+14	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	TokenRange=5226:5228
+15	stòrich	stòrich	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	TokenRange=5229:5236
+16	marchio	marchio	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	TokenRange=5237:5244
+17	di	di	ADP	E	_	18	case	_	TokenRange=5245:5247
+18	883	883	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No|TokenRange=5248:5251
+19	.	.	PUNCT	FS	_	8	punct	_	TokenRange=5251:5252
+
+# sent_id = lmo-mil-wiki-doc1-s33
+# text = In del 2004 el realizza l'album Il mondo insieme a te, che a l’è miss foeura in dò versión:
+1	In	in	ADP	E	_	4	case	_	TokenRange=5253:5255
+2-3	del	_	_	_	_	_	_	_	TokenRange=5256:5259
+2	di	di	ADP	E	_	1	fixed	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	2004	2004	NUM	N	NumType=Card	6	nummod	_	TokenRange=5260:5264
+5	el	el	PROPN	SP	_	6	nsubj	_	TokenRange=5265:5267
+6	realizza	realizär	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=5268:5276
+7	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|TokenRange=5277:5279
+8	album	album	NOUN	S	Gender=Masc	6	obj	_	TokenRange=5279:5284
+9	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=5285:5287
+10	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	TokenRange=5288:5293
+11	insieme	insieme	ADV	B	_	13	case	_	TokenRange=5294:5301
+12	a	a	ADP	E	_	11	fixed	_	TokenRange=5302:5303
+13	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	10	nmod	_	SpaceAfter=No|TokenRange=5304:5306
+14	,	,	PUNCT	FF	_	8	punct	_	TokenRange=5306:5307
+15	che	che	PRON	PR	PronType=Rel	19	nsubj	_	TokenRange=5308:5311
+16	a	a	ADP	E	_	19	case	_	TokenRange=5312:5313
+17	l’	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No|TokenRange=5314:5316
+18	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	TokenRange=5316:5317
+19	miss	miss	X	SW	Foreign=Yes	8	acl:relcl	_	TokenRange=5318:5322
+20	foeura	foeura	X	SW	Foreign=Yes	19	flat:foreign	_	TokenRange=5323:5329
+21	in	in	ADP	E	_	19	case	_	TokenRange=5330:5332
+22	dò	dò	X	SW	Foreign=Yes	19	flat:foreign	_	TokenRange=5333:5335
+23	versión	versión	X	SW	Foreign=Yes	19	flat:foreign	_	SpaceAfter=No|TokenRange=5336:5343
+24	:	:	PUNCT	FC	_	6	punct	_	TokenRange=5343:5344
+
+# sent_id = lmo-mil-wiki-doc1-s35
+# text = L'album l’è on succèss e ’l ricèv du dischi de platin grazie ai sò 200.000 copi vendùu.
+1	L'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|TokenRange=5519:5521
+2	album	album	NOUN	S	Gender=Masc	6	nsubj	_	TokenRange=5521:5526
+3	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No|TokenRange=5527:5529
+4	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	TokenRange=5529:5530
+5	on	on	DET	RI	_	6	det	_	TokenRange=5531:5533
+6	succèss	succèss	NOUN	S	Gender=Masc|Number=Sing	0	root	_	TokenRange=5534:5541
+7	e	e	CCONJ	CC	_	10	cc	_	TokenRange=5542:5543
+8	’	’	PUNCT	FB	_	10	punct	_	SpaceAfter=No|TokenRange=5544:5545
+9	l	l	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	TokenRange=5545:5546
+10	ricèv	ricè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	TokenRange=5547:5552
+11	du	du	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	TokenRange=5553:5555
+12	dischi	disco	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	TokenRange=5556:5562
+13	de	de	ADP	E	_	14	case	_	TokenRange=5563:5565
+14	platin	platin	NOUN	S	Gender=Masc	12	nmod	_	TokenRange=5566:5572
+15	grazie	grazie	NOUN	S	_	20	case	_	TokenRange=5573:5579
+16-17	ai	_	_	_	_	_	_	_	TokenRange=5580:5582
+16	a	a	ADP	E	_	15	fixed	_	_
+17	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+18	sò	sò	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	20	det:poss	_	SpacesAfter=\s\s|TokenRange=5583:5585
+19	200.000	200.000	NUM	N	NumType=Card	20	nummod	_	TokenRange=5587:5594
+20	copi	copo	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	TokenRange=5595:5599
+21	vendùu	vendùu	ADJ	A	_	20	amod	_	SpaceAfter=No|TokenRange=5600:5606
+22	.	.	PUNCT	FS	_	6	punct	_	TokenRange=5606:5607
+
+# sent_id = lmo-mil-wiki-doc1-s36
+# text = De chesstchì a hinn tràa foeura cinch sìngoj:
+1	De	de	ADP	E	_	2	case	_	TokenRange=5608:5610
+2	chesstchì	chesstchì	NOUN	S	Gender=Masc	5	obl	_	TokenRange=5611:5620
+3	a	a	ADP	E	_	5	mark	_	TokenRange=5621:5622
+4	hinn	vere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=5623:5627
+5	tràa	trà	VERB	B	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=5628:5632
+6	foeura	foeura	ADV	B	Gender=Fem|Number=Sing	5	advmod	_	TokenRange=5633:5639
+7	cinch	cinch	NUM	N	NumType=Card	8	nummod	_	TokenRange=5640:5645
+8	sìngoj	sìngoj	NOUN	S	Gender=Masc	5	obj	_	SpaceAfter=No|TokenRange=5646:5652
+9	:	:	PUNCT	FC	_	5	punct	_	TokenRange=5652:5653
+
+# sent_id = lmo-mil-wiki-doc1-s39
+# text = In quest perìod chi el Max Pezzali l’è arènt de vèra ai sò fan e attiv comè in sul Internet.
+1	In	in	ADP	E	_	3	case	_	TokenRange=5884:5886
+2	quest	quest	DET	DD	Number=Sing|PronType=Dem	3	det	_	TokenRange=5887:5892
+3	perìod	perìod	NOUN	S	Gender=Masc	10	obl	_	TokenRange=5893:5899
+4	chi	chi	PRON	PR	Number=Sing|PronType=Rel	10	nsubj	_	TokenRange=5900:5903
+5	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=5904:5906
+6	Max	Max	PROPN	SP	_	10	nsubj	_	TokenRange=5907:5910
+7	Pezzali	Pezzali	PROPN	SP	_	6	flat:name	_	TokenRange=5911:5918
+8	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No|TokenRange=5919:5921
+9	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	TokenRange=5921:5922
+10	arènt	arènt	VERB	V	_	0	root	_	TokenRange=5923:5928
+11	de	de	ADP	E	_	12	case	_	TokenRange=5929:5931
+12	vèra	vèra	ADJ	A	Gender=Fem|Number=Sing	10	obl	_	TokenRange=5932:5936
+13-14	ai	_	_	_	_	_	_	_	TokenRange=5937:5939
+13	a	a	ADP	E	_	16	case	_	_
+14	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	sò	sò	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	TokenRange=5940:5942
+16	fan	fan	NOUN	S	_	10	obl	_	TokenRange=5943:5946
+17	e	e	CCONJ	CC	_	18	cc	_	TokenRange=5947:5948
+18	attiv	attiv	NOUN	S	Gender=Fem|Number=Plur	16	conj	_	TokenRange=5949:5954
+19	comè	comè	ADV	B	_	23	advmod	_	TokenRange=5955:5959
+20	in	in	ADP	E	_	23	case	_	TokenRange=5960:5962
+21-22	sul	_	_	_	_	_	_	_	TokenRange=5963:5966
+21	su	su	ADP	E	_	23	case	_	_
+22	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	Internet	Internet	PROPN	SP	_	10	obl	_	SpaceAfter=No|TokenRange=5967:5975
+24	.	.	PUNCT	FS	_	10	punct	_	TokenRange=5975:5976
+
+# sent_id = lmo-mil-wiki-doc1-s41
+# text = Nel luglio 2004 inizia il Max Live Tour 2004.
+1-2	Nel	_	_	_	_	_	_	_	TokenRange=6177:6180
+1	In	in	ADP	E	_	3	case	_	_
+2	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	luglio	luglio	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	TokenRange=6181:6187
+4	2004	2004	NUM	N	NumType=Card	3	flat	_	TokenRange=6188:6192
+5	inizia	inizià	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=6193:6199
+6	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=6200:6202
+7	Max	Max	PROPN	SP	_	5	nsubj	_	TokenRange=6203:6206
+8	Live	Live	PROPN	SP	_	7	flat:name	_	TokenRange=6207:6211
+9	Tour	Tour	NOUN	SP	_	7	flat:name	_	TokenRange=6212:6216
+10	2004	2004	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No|TokenRange=6217:6221
+11	.	.	PUNCT	FS	_	5	punct	_	TokenRange=6221:6222
+
+# sent_id = lmo-mil-wiki-doc1-s43
+# text = In del 2005 la ven foeura vuna raccòlta di succèss sò e di 883, che la gh’ha ‘me titól TuttoMax.
+1	In	in	ADP	E	_	4	case	_	TokenRange=6349:6351
+2-3	del	_	_	_	_	_	_	_	SpacesAfter=\s\s|TokenRange=6352:6355
+2	di	di	ADP	E	_	1	fixed	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	2005	2005	NUM	N	NumType=Card	6	obl	_	TokenRange=6357:6361
+5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	TokenRange=6362:6364
+6	ven	ven	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=6365:6368
+7	foeura	foeura	X	SW	Gender=Fem|Number=Sing	6	xcomp	_	TokenRange=6369:6375
+8	vuna	vuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	SpacesAfter=\s\s|TokenRange=6376:6380
+9	raccòlta	raccòlta	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	TokenRange=6382:6390
+10	di	di	ADP	E	_	11	case	_	TokenRange=6391:6393
+11	succèss	succèss	NOUN	S	Gender=Masc	9	nmod	_	TokenRange=6394:6401
+12	sò	sò	VERB	V	_	11	amod	_	TokenRange=6402:6404
+13	e	e	CCONJ	CC	_	15	cc	_	TokenRange=6405:6406
+14	di	di	ADP	E	_	15	case	_	TokenRange=6407:6409
+15	883	883	NUM	N	NumType=Card	12	conj	_	SpaceAfter=No|TokenRange=6410:6413
+16	,	,	PUNCT	FF	_	9	punct	_	TokenRange=6413:6414
+17	che	che	PRON	PR	PronType=Rel	20	nsubj	_	TokenRange=6415:6418
+18	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obj	_	TokenRange=6419:6421
+19	gh’	gh’	X	SW	_	20	obj	_	SpaceAfter=No|TokenRange=6422:6425
+20	ha	avè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	TokenRange=6425:6427
+21	‘me	‘me	X	SW	_	20	obj	_	TokenRange=6428:6431
+22	titól	titól	X	SW	Foreign=Yes	20	obj	_	TokenRange=6432:6437
+23	TuttoMax	Tuttomax	PROPN	SP	_	22	nmod	_	SpaceAfter=No|TokenRange=6438:6446
+24	.	.	PUNCT	FS	_	6	punct	_	TokenRange=6446:6447
+
+# sent_id = lmo-mil-wiki-doc1-s54
+# text = In ottober el taca con el Max Live Tour 2005.
+1	In	in	ADP	E	_	2	case	_	TokenRange=8231:8233
+2	ottober	ottober	NOUN	SP	_	4	nmod	_	TokenRange=8234:8241
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	TokenRange=8242:8244
+4	taca	taca	NOUN	S	_	0	root	_	TokenRange=8245:8249
+5	con	con	ADP	E	_	7	case	_	TokenRange=8250:8253
+6	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=8254:8256
+7	Max	Max	PROPN	SP	_	4	nmod	_	TokenRange=8257:8260
+8	Live	Live	PROPN	SP	_	7	flat:name	_	TokenRange=8261:8265
+9	Tour	Tour	PROPN	SP	_	7	flat:name	_	TokenRange=8266:8270
+10	2005	2005	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No|TokenRange=8271:8275
+11	.	.	PUNCT	FS	_	4	punct	_	TokenRange=8275:8276
+
+# sent_id = lmo-mil-wiki-doc1-s57
+# text = Max Pezzali el partecipa anca in di Venice Music Awards, indova el ricév el premi per l’album miglior grazie a TuttoMax.
+1	Max	Max	PROPN	SP	_	4	nsubj	_	TokenRange=8760:8763
+2	Pezzali	Pezzali	PROPN	SP	_	1	flat:name	_	TokenRange=8764:8771
+3	el	el	PRON	PC	_	4	obj	_	TokenRange=8772:8774
+4	partecipa	partecipà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=8775:8784
+5	anca	anca	ADV	B	_	4	advmod	_	TokenRange=8785:8789
+6	in	in	ADP	E	_	8	case	_	TokenRange=8790:8792
+7	di	di	ADP	E	_	6	fixed	_	TokenRange=8793:8795
+8	Venice	Venice	PROPN	SP	_	4	obl	_	TokenRange=8796:8802
+9	Music	Music	PROPN	SP	_	8	flat:name	_	TokenRange=8803:8808
+10	Awards	Awards	PROPN	SP	_	8	flat:name	_	SpaceAfter=No|TokenRange=8809:8815
+11	,	,	PUNCT	FF	_	10	punct	_	TokenRange=8815:8816
+12	indova	indova	ADV	B	_	14	advmod	_	TokenRange=8817:8823
+13	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	TokenRange=8824:8826
+14	ricév	ricé	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	TokenRange=8827:8832
+15	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	TokenRange=8833:8835
+16	premi	premio	NOUN	S	Gender=Masc|Number=Plur	14	obj	_	TokenRange=8836:8841
+17	per	per	ADP	E	_	19	case	_	TokenRange=8842:8845
+18	l’	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No|TokenRange=8846:8848
+19	album	album	NOUN	S	Gender=Masc	16	nmod	_	TokenRange=8848:8853
+20	miglior	migliore	ADJ	A	Degree=Cmp|Number=Sing	19	amod	_	TokenRange=8854:8861
+21	grazie	grazie	NOUN	S	_	23	case	_	TokenRange=8862:8868
+22	a	a	ADP	E	_	21	fixed	_	SpacesAfter=\s\s|TokenRange=8869:8870
+23	TuttoMax	Tuttomax	PROPN	SP	_	19	nmod	_	SpaceAfter=No|TokenRange=8872:8880
+24	.	.	PUNCT	FS	_	4	punct	_	TokenRange=8880:8881
+
+# sent_id = lmo-mil-wiki-doc1-s58
+# text = Poeu el ricev, per el stèss album, anca el premi Telegatto.
+1	Poeu	poeu	ADV	B	_	3	advmod	_	TokenRange=8882:8886
+2	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	TokenRange=8887:8889
+3	ricev	rice	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=8890:8895
+4	,	,	PUNCT	FF	_	3	punct	_	TokenRange=8895:8896
+5	per	per	ADP	E	_	8	case	_	TokenRange=8897:8900
+6	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=8901:8903
+7	stèss	stèss	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	TokenRange=8904:8909
+8	album	album	NOUN	S	Gender=Masc	3	obl	_	SpaceAfter=No|TokenRange=8910:8915
+9	,	,	PUNCT	FF	_	3	punct	_	TokenRange=8915:8916
+10	anca	anca	ADV	B	_	12	advmod	_	TokenRange=8917:8921
+11	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	TokenRange=8922:8924
+12	premi	premio	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	TokenRange=8925:8930
+13	Telegatto	Telegatto	PROPN	SP	_	12	nmod	_	SpaceAfter=No|TokenRange=8931:8940
+14	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\r\n|TokenRange=8940:8941
+
+# sent_id = lmo-mil-wiki-doc1-s60
+# text = L'album l’è andà subit al primm post dela classifica italiana di dischi pussée vendùu.
+1	L'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|TokenRange=9132:9134
+2	album	album	NOUN	S	Gender=Masc	5	nsubj	_	TokenRange=9134:9139
+3	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No|TokenRange=9140:9142
+4	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=9142:9143
+5	andà	andà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=9144:9148
+6	subit	subit	ADV	B	_	5	advmod	_	TokenRange=9149:9154
+7-8	al	_	_	_	_	_	_	_	TokenRange=9155:9157
+7	a	a	ADP	E	_	10	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	primm	primm	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	10	amod	_	TokenRange=9158:9163
+10	post	post	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	TokenRange=9164:9168
+11	dela	dela	DET	DI	Gender=Fem|Number=Sing	12	det	_	TokenRange=9169:9173
+12	classifica	classifica	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	TokenRange=9174:9184
+13	italiana	italiano	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	TokenRange=9185:9193
+14	di	di	ADP	E	_	15	case	_	TokenRange=9194:9196
+15	dischi	disco	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	TokenRange=9197:9203
+16	pussée	pussée	ADV	B	_	17	advmod	_	TokenRange=9204:9210
+17	vendùu	vendùu	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No|TokenRange=9211:9217
+18	.	.	PUNCT	FS	_	5	punct	_	TokenRange=9217:9218
+
+# sent_id = lmo-mil-wiki-doc1-s61
+# text = El singolo de slanz, Torno subito, a l’è stàa vun di tormentoni del estàa del 2007.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=9219:9221
+2	singolo	singolo	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	TokenRange=9222:9229
+3	de	de	ADP	E	_	4	case	_	TokenRange=9230:9232
+4	slanz	slanz	NOUN	S	_	2	nmod	_	SpaceAfter=No|TokenRange=9233:9238
+5	,	,	PUNCT	FF	_	2	punct	_	TokenRange=9238:9239
+6	Torno	turnär	VERB	V	Foreign=Yes	2	appos	_	TokenRange=9240:9245
+7	subito	subito	ADV	B	_	6	advmod	_	SpaceAfter=No|TokenRange=9246:9252
+8	,	,	PUNCT	FF	_	2	punct	_	TokenRange=9252:9253
+9	a	a	ADP	E	_	13	case	_	TokenRange=9254:9255
+10	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	13	det	_	SpaceAfter=No|TokenRange=9256:9258
+11	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	TokenRange=9258:9259
+12	stàa	stà	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	cop	_	TokenRange=9260:9264
+13	vun	vuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	TokenRange=9265:9268
+14	di	di	ADP	E	_	15	case	_	TokenRange=9269:9271
+15	tormentoni	tormentone	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	TokenRange=9272:9282
+16-17	del	_	_	_	_	_	_	_	TokenRange=9283:9286
+16	di	di	ADP	E	_	18	case	_	_
+17	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	estàa	estàa	NOUN	S	Gender=Masc	15	nmod	_	TokenRange=9287:9292
+19-20	del	_	_	_	_	_	_	_	TokenRange=9293:9296
+19	di	di	ADP	E	_	21	case	_	_
+20	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	2007	2007	NUM	N	NumType=Card	18	nmod	_	SpaceAfter=No|TokenRange=9297:9301
+22	.	.	PUNCT	FS	_	13	punct	_	TokenRange=9301:9302
+
+# sent_id = lmo-mil-wiki-doc1-s63
+# text = Proppi cont el singol de slanz del noeuv album el Max Pezzali el partecipa in del Festivalbar 2007.
+1	Proppi	proppio	ADV	B	_	15	advmod	_	TokenRange=9475:9481
+2	cont	cont	X	E	_	1	fixed	_	TokenRange=9482:9486
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	TokenRange=9487:9489
+4	singol	singol	X	SW	Foreign=Yes	1	obl	_	TokenRange=9490:9496
+5	de	de	X	SW	Foreign=Yes	4	case	_	TokenRange=9497:9499
+6	slanz	slanz	X	SW	Foreign=Yes	1	flat:foreign	_	TokenRange=9500:9505
+7-8	del	_	_	_	_	_	_	_	TokenRange=9506:9509
+7	di	di	ADP	E	_	10	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	noeuv	noeuv	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	TokenRange=9510:9515
+10	album	album	NOUN	S	Gender=Masc	4	nmod	_	TokenRange=9516:9521
+11	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	TokenRange=9522:9524
+12	Max	Max	PROPN	SP	_	15	nsubj	_	TokenRange=9525:9528
+13	Pezzali	Pezzali	PROPN	SP	_	12	flat:name	_	TokenRange=9529:9536
+14	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	TokenRange=9537:9539
+15	partecipa	partecipa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=9540:9549
+16	in	in	ADP	E	_	19	case	_	TokenRange=9550:9552
+17-18	del	_	_	_	_	_	_	_	TokenRange=9553:9556
+17	di	di	ADP	E	_	16	fixed	_	_
+18	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	Festivalbar	Festivalbar	PROPN	SP	_	15	obl	_	TokenRange=9557:9568
+20	2007	2007	NUM	N	NumType=Card	19	nummod	_	SpaceAfter=No|TokenRange=9569:9573
+21	.	.	PUNCT	FS	_	15	punct	_	TokenRange=9573:9574
+
+# sent_id = lmo-mil-wiki-doc1-s65
+# text = El brano el ved la partecipazion del’ Eros Ramazzotti, esecutór dell'assòlo di ghitara ala fin.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=9683:9685
+2	brano	brano	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	TokenRange=9686:9691
+3	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	TokenRange=9692:9694
+4	ved	ved	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=9695:9698
+5	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=9699:9701
+6	partecipazion	partecipazion	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	TokenRange=9702:9715
+7-8	del’	_	_	_	_	_	_	_	TokenRange=9716:9720
+7	di	di	ADP	E	_	14	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+9	Eros	Eros	PROPN	SP	_	6	nmod	_	TokenRange=9721:9725
+10	Ramazzotti	Ramazzotti	PROPN	SP	_	8	flat:name	_	SpaceAfter=No|TokenRange=9726:9736
+11	,	,	PUNCT	FF	_	8	punct	_	TokenRange=9736:9737
+12	esecutór	esecutór	NOUN	S	Gender=Masc|Number=Sing	8	appos	_	TokenRange=9738:9746
+13-14	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9747:9752
+13	di	di	ADP	E	_	14	case	_	_
+14	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+15	assòlo	assòlo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	TokenRange=9752:9758
+16	di	di	ADP	E	_	16	case	_	TokenRange=9759:9761
+17	ghitara	ghitara	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	TokenRange=9762:9769
+18	ala	ala	ADV	B	Gender=Fem|Number=Sing	11	nmod	_	TokenRange=9770:9773
+19	fin	fino	ADV	B	_	17	advmod	_	SpaceAfter=No|TokenRange=9774:9777
+20	.	.	PUNCT	FS	_	4	punct	_	TokenRange=9777:9778
+
+# sent_id = lmo-mil-wiki-doc1-s66
+# text = In del album gh’hinn anca ater laô insemma ala Syria e al Tiziano Ferro.
+1	In	in	ADP	E	_	4	case	_	TokenRange=9779:9781
+2-3	del	_	_	_	_	_	_	_	TokenRange=9782:9785
+2	di	di	ADP	E	_	1	fixed	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	album	album	NOUN	S	Gender=Masc	6	obl	_	TokenRange=9786:9791
+5	gh’	gh’	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	SpaceAfter=No|TokenRange=9792:9795
+6	hinn	vere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=9795:9799
+7	anca	anca	ADV	B	_	6	advmod	_	TokenRange=9800:9804
+8	ater	ater	NOUN	S	_	6	nsubj	_	TokenRange=9805:9809
+9	laô	laô	X	SW	_	8	compound	_	TokenRange=9810:9813
+10	insemma	insemma	ADV	B	_	11	advmod	_	TokenRange=9814:9821
+11	ala	ala	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	TokenRange=9822:9825
+12	Syria	Syria	PROPN	SP	_	11	nmod	_	TokenRange=9826:9831
+13	e	e	CCONJ	CC	_	16	cc	_	TokenRange=9832:9833
+14-15	al	_	_	_	_	_	_	_	TokenRange=9834:9836
+14	a	a	ADP	E	_	16	case	_	_
+15	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Tiziano	Tiziano	PROPN	SP	_	11	conj	_	TokenRange=9837:9844
+17	Ferro	Ferro	PROPN	SP	_	16	flat:name	_	SpaceAfter=No|TokenRange=9845:9850
+18	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\r\n|TokenRange=9850:9851
+
+# sent_id = lmo-mil-wiki-doc1-s67
+# text = El 12 de ottober el comenza el Max Pezzali 2007 Tour, in gir per i palazzitt d'Italia.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=9853:9855
+2	12	12	NUM	N	NumType=Card	6	obl	_	TokenRange=9856:9858
+3	de	de	ADP	E	_	4	case	_	TokenRange=9859:9861
+4	ottober	ottober	NOUN	S	Gender=Masc	2	nmod	_	TokenRange=9862:9869
+5	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	TokenRange=9870:9872
+6	comenza	comenza	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=9873:9880
+7	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=9881:9883
+8	Max	Max	PROPN	SP	_	6	obj	_	TokenRange=9884:9887
+9	Pezzali	Pezzali	PROPN	SP	_	8	flat:name	_	TokenRange=9888:9895
+10	2007	2007	NUM	N	NumType=Card	11	nummod	_	TokenRange=9896:9900
+11	Tour	Tour	PROPN	SP	_	8	nmod	_	SpaceAfter=No|TokenRange=9901:9905
+12	,	,	PUNCT	FF	_	8	punct	_	TokenRange=9905:9906
+13	in	in	ADP	E	_	14	case	_	TokenRange=9907:9909
+14	gir	gir	NOUN	S	Gender=Masc	8	nmod	_	TokenRange=9910:9913
+15	per	per	ADP	E	_	17	case	_	TokenRange=9914:9917
+16	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	TokenRange=9918:9919
+17	palazzitt	palazzitt	NOUN	S	Gender=Masc	14	nmod	_	TokenRange=9920:9929
+18	d'	di	ADP	E	_	19	case	_	SpaceAfter=No|TokenRange=9930:9932
+19	Italia	Italia	PROPN	SP	_	17	nmod	_	SpaceAfter=No|TokenRange=9932:9938
+20	.	.	PUNCT	FS	_	6	punct	_	TokenRange=9938:9939
+
+# sent_id = lmo-mil-wiki-doc1-s72
+# text = El cantant el pubblica link, fotografij, scattàa de lu medèmm e video de condividej cont i sò fan.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=10484:10486
+2	cantant	cantant	NOUN	S	_	4	nsubj	_	TokenRange=10487:10494
+3	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	TokenRange=10495:10497
+4	pubblica	pubblicà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=10498:10506
+5	link	link	NOUN	S	Gender=Masc	4	obj	_	SpaceAfter=No|TokenRange=10507:10511
+6	,	,	PUNCT	FF	_	7	punct	_	TokenRange=10511:10512
+7	fotografij	fotografij	NOUN	S	Gender=Masc	5	conj	_	SpaceAfter=No|TokenRange=10513:10523
+8	,	,	PUNCT	FF	_	9	punct	_	TokenRange=10523:10524
+9	scattàa	scattàa	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	TokenRange=10525:10532
+10	de	de	ADP	E	_	12	case	_	TokenRange=10533:10535
+11	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	TokenRange=10536:10538
+12	medèmm	medèmm	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	TokenRange=10539:10545
+13	e	e	CCONJ	CC	_	14	cc	_	TokenRange=10546:10547
+14	video	video	NOUN	S	Gender=Masc	5	conj	_	TokenRange=10548:10553
+15	de	de	ADP	E	_	16	mark	_	TokenRange=10554:10556
+16	condividej	condivid	VERB	V	_	14	acl	_	TokenRange=10557:10567
+17	cont	cont	ADP	E	_	20	case	_	TokenRange=10568:10572
+18	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	TokenRange=10573:10574
+19	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	TokenRange=10575:10577
+20	fan	fan	NOUN	S	Gender=Masc	16	obl	_	SpaceAfter=No|TokenRange=10578:10581
+21	.	.	PUNCT	FS	_	4	punct	_	TokenRange=10581:10582
+
+# sent_id = lmo-mil-wiki-doc1-s78
+# text = El 23 de magg l’è sortìi, de fàtt, el Max Live 2008, el primm CD+DVD Live dela soa carriera.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpacesAfter=\s\s|TokenRange=11363:11365
+2	23	23	NUM	N	NumType=Card	7	obl	_	TokenRange=11367:11369
+3	de	de	ADP	E	_	4	case	_	TokenRange=11370:11372
+4	magg	magg	NOUN	S	Gender=Masc	2	nmod	_	TokenRange=11373:11377
+5	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No|TokenRange=11378:11380
+6	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	TokenRange=11380:11381
+7	sortìi	sortì	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|TokenRange=11382:11388
+8	,	,	PUNCT	FF	_	7	punct	_	TokenRange=11388:11389
+9	de	de	ADP	E	_	10	case	_	TokenRange=11390:11392
+10	fàtt	fàtt	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=11393:11397
+11	,	,	PUNCT	FF	_	7	punct	_	SpacesAfter=\s\s|TokenRange=11397:11398
+12	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	TokenRange=11400:11402
+13	Max	Max	PROPN	SP	_	7	nsubj	_	TokenRange=11403:11406
+14	Live	Live	PROPN	SP	_	13	flat:name	_	TokenRange=11407:11411
+15	2008	2008	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No|TokenRange=11412:11416
+16	,	,	PUNCT	FF	_	13	punct	_	TokenRange=11416:11417
+17	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	TokenRange=11418:11420
+18	primm	primm	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	19	amod	_	TokenRange=11421:11426
+19	CD	CD	NOUN	S	_	13	appos	_	SpaceAfter=No|TokenRange=11427:11429
+20	+	+	SYM	SYM	_	21	cc	_	SpaceAfter=No|TokenRange=11429:11430
+21	DVD	dvd	NOUN	S	_	19	nmod	_	TokenRange=11430:11433
+22	Live	live	ADJ	A	Foreign=Yes	19	amod	_	TokenRange=11434:11438
+23	dela	dela	ADP	E	_	25	case	_	TokenRange=11439:11443
+24	soa	soo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	25	det:poss	_	TokenRange=11444:11447
+25	carriera	carriera	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No|TokenRange=11448:11456
+26	.	.	PUNCT	FS	_	7	punct	_	TokenRange=11456:11457
+
+# sent_id = lmo-mil-wiki-doc1-s80
+# text = El DVD inveci el gh’ha denter el video del concèrt de Treviso del tour 2007 (tutt esaurìi).
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=11585:11587
+2	DVD	dvd	NOUN	S	Gender=Masc	7	nsubj	_	TokenRange=11588:11591
+3	inveci	inveci	ADV	B	_	2	advmod	_	TokenRange=11592:11598
+4	el	el	X	SW	Foreign=Yes	7	obj	_	TokenRange=11599:11601
+5	gh’	gh’	X	SW	Foreign=Yes	7	obj	_	SpaceAfter=No|TokenRange=11602:11605
+6	ha	avè	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	TokenRange=11605:11607
+7	denter	dent	VERB	V	VerbForm=Inf	0	root	_	TokenRange=11608:11614
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	TokenRange=11615:11617
+9	video	video	NOUN	S	Gender=Masc	7	obj	_	TokenRange=11618:11623
+10-11	del	_	_	_	_	_	_	_	TokenRange=11624:11627
+10	di	di	ADP	E	_	12	case	_	_
+11	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	concèrt	concèrt	NOUN	S	Gender=Masc	9	nmod	_	SpacesAfter=\s\s|TokenRange=11628:11635
+13	de	de	ADP	E	_	14	case	_	TokenRange=11637:11639
+14	Treviso	Treviso	PROPN	SP	_	12	nmod	_	TokenRange=11640:11647
+15-16	del	_	_	_	_	_	_	_	TokenRange=11648:11651
+15	di	di	ADP	E	_	17	case	_	_
+16	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	tour	tour	NOUN	S	Gender=Masc	12	nmod	_	TokenRange=11652:11656
+18	2007	2007	NUM	N	NumType=Card	17	nummod	_	TokenRange=11657:11661
+19	(	(	PUNCT	FB	_	21	punct	_	SpaceAfter=No|TokenRange=11662:11663
+20	tutt	tuto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	21	obl	_	TokenRange=11663:11667
+21	esaurìi	esaurìi	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	SpaceAfter=No|TokenRange=11668:11675
+22	)	)	PUNCT	FB	_	21	punct	_	SpaceAfter=No|TokenRange=11675:11676
+23	.	.	PUNCT	FS	_	7	punct	_	TokenRange=11676:11677
+
+# sent_id = lmo-mil-wiki-doc1-s82
+# text = El second inedito el gh’ha me titol Ritornerò, ona ballada passada in radio del 29 de agost.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=11882:11884
+2	second	second	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	nsubj	_	TokenRange=11885:11891
+3	inedito	inedito	NOUN	S	Gender=Masc|Number=Sing	2	compound	_	TokenRange=11892:11899
+4	el	el	X	SW	Foreign=Yes	3	det	_	TokenRange=11900:11902
+5	gh’	gh’	X	SW	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No|TokenRange=11903:11906
+6	ha	avè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=11906:11908
+7	me	me	X	SW	Foreign=Yes	6	iobj	_	TokenRange=11909:11911
+8	titol	titol	X	SW	Foreign=Yes	6	obj	_	TokenRange=11912:11917
+9	Ritornerò	Ritornerò	X	SW	_	8	nmod	_	SpaceAfter=No|TokenRange=11918:11927
+10	,	,	PUNCT	FF	_	8	punct	_	TokenRange=11927:11928
+11	ona	ona	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	TokenRange=11929:11932
+12	ballada	ballada	NOUN	S	Gender=Fem|Number=Sing	8	appos	_	TokenRange=11933:11940
+13	passada	pass	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	TokenRange=11941:11948
+14	in	in	ADP	E	_	15	case	_	TokenRange=11949:11951
+15	radio	radio	NOUN	S	Gender=Fem	13	obl	_	TokenRange=11952:11957
+16-17	del	_	_	_	_	_	_	_	TokenRange=11958:11961
+16	di	di	ADP	E	_	18	case	_	_
+17	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	29	29	NUM	N	NumType=Card	15	nmod	_	TokenRange=11962:11964
+19	de	de	ADP	E	_	18	case	_	TokenRange=11965:11967
+20	agost	agost	NOUN	S	Gender=Masc|Number=Sing	18	flat	_	SpaceAfter=No|TokenRange=11968:11973
+21	.	.	PUNCT	FS	_	6	punct	_	TokenRange=11973:11974
+
+# sent_id = lmo-mil-wiki-doc1-s83
+# text = In l’estàa del 2008 al taca el Max Live Tour 2008:
+1	In	in	ADP	E	_	3	case	_	TokenRange=11975:11977
+2	l’	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|TokenRange=11978:11980
+3	estàa	estàa	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	TokenRange=11980:11985
+4-5	del	_	_	_	_	_	_	_	TokenRange=11986:11989
+4	di	di	ADP	E	_	6	case	_	_
+5	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	2008	2008	NUM	N	NumType=Card	3	nmod	_	TokenRange=11990:11994
+7-8	al	_	_	_	_	_	_	_	TokenRange=11995:11997
+7	a	a	ADP	E	_	9	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	taca	taca	NOUN	S	_	0	root	_	TokenRange=11998:12002
+10	el	el	PROPN	SP	_	9	nmod	_	TokenRange=12003:12005
+11	Max	Max	PROPN	SP	_	10	flat:name	_	TokenRange=12006:12009
+12	Live	Live	PROPN	SP	_	10	flat:name	_	TokenRange=12010:12014
+13	Tour	Tour	PROPN	SP	_	10	flat:name	_	TokenRange=12015:12019
+14	2008	2008	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No|TokenRange=12020:12024
+15	:	:	PUNCT	FC	_	9	punct	_	TokenRange=12024:12025
+
+# sent_id = lmo-mil-wiki-doc1-s84
+# text = el tour el part a giugn e passa de pussée de 25 cità italiàn.
+1	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=12026:12028
+2	tour	tour	NOUN	S	Gender=Masc	4	nsubj	_	TokenRange=12029:12033
+3	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	TokenRange=12034:12036
+4	part	part	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=12037:12041
+5	a	a	ADP	E	_	6	case	_	TokenRange=12042:12043
+6	giugn	giugno	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	TokenRange=12044:12049
+7	e	e	CCONJ	CC	_	8	cc	_	TokenRange=12050:12051
+8	passa	passa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=12052:12057
+9	de	de	ADP	E	_	10	case	_	TokenRange=12058:12060
+10	pussée	pussée	PRON	PI	Gender=Fem|Number=Plur	8	obl	_	TokenRange=12061:12067
+11	de	de	ADP	E	_	13	case	_	TokenRange=12068:12070
+12	25	25	NUM	N	NumType=Card	13	nummod	_	TokenRange=12071:12073
+13	cità	cità	NOUN	S	Gender=Fem	10	nmod	_	TokenRange=12074:12078
+14	italiàn	italiàn	ADJ	A	Gender=Fem	13	amod	_	SpaceAfter=No|TokenRange=12079:12086
+15	.	.	PUNCT	FS	_	4	punct	_	TokenRange=12086:12087
+
+# sent_id = lmo-mil-wiki-doc1-s86
+# text = In la stèssa estàa el ricev ai Venice Music Awards el premi Assomela Mela d'oro.
+1	In	in	ADP	E	_	4	case	_	TokenRange=12488:12490
+2	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	TokenRange=12491:12493
+3	stèssa	stèsso	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	TokenRange=12494:12500
+4	estàa	estàa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	TokenRange=12501:12506
+5	el	el	PRON	PC	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	obj	_	TokenRange=12507:12509
+6	ricev	ricev	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=12510:12515
+7-8	ai	_	_	_	_	_	_	_	TokenRange=12516:12518
+7	a	a	ADP	E	_	9	case	_	_
+8	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	Venice	Venice	PROPN	SP	_	6	obl	_	TokenRange=12519:12525
+10	Music	Music	PROPN	SP	_	9	flat:name	_	TokenRange=12526:12531
+11	Awards	Awards	PROPN	SP	_	9	flat:name	_	TokenRange=12532:12538
+12	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	TokenRange=12539:12541
+13	premi	premio	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	TokenRange=12542:12547
+14	Assomela	Assomela	PROPN	SP	_	13	nmod	_	TokenRange=12548:12556
+15	Mela	Mela	PROPN	SP	_	14	flat:name	_	TokenRange=12557:12561
+16	d'	di	ADP	E	_	17	case	_	SpaceAfter=No|TokenRange=12562:12564
+17	oro	oro	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No|TokenRange=12564:12567
+18	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\r\n|TokenRange=12567:12568
+
+# sent_id = lmo-mil-wiki-doc1-s90
+# text = A marz, el ghe laora insemma cont i dARI, grupp gioin emo de Aosta, per el singol Non pensavo.
+1	A	a	ADP	E	_	2	case	_	TokenRange=13258:13259
+2	marz	marz	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=13260:13264
+3	,	,	PUNCT	FF	_	2	punct	_	TokenRange=13264:13265
+4	el	el	PRON	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	obj	_	TokenRange=13266:13268
+5	ghe	ghe	PRON	PC	_	6	nsubj	_	TokenRange=13269:13272
+6	laora	laora	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=13273:13278
+7	insemma	insemma	ADV	B	_	6	advmod	_	TokenRange=13279:13286
+8	cont	cont	ADP	E	_	10	case	_	TokenRange=13287:13291
+9	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	TokenRange=13292:13293
+10	dARI	dari	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No|TokenRange=13294:13298
+11	,	,	PUNCT	FF	_	10	punct	_	SpacesAfter=\s\s|TokenRange=13298:13299
+12	grupp	grupp	NOUN	S	Gender=Masc	10	appos	_	TokenRange=13301:13306
+13	gioin	gioin	NOUN	S	Gender=Masc|Number=Sing	12	compound	_	TokenRange=13307:13312
+14	emo	emo	NOUN	S	Gender=Masc|Number=Sing	13	compound	_	TokenRange=13313:13316
+15	de	de	ADP	E	_	16	case	_	TokenRange=13317:13319
+16	Aosta	Aosta	PROPN	SP	_	12	nmod	_	SpaceAfter=No|TokenRange=13320:13325
+17	,	,	PUNCT	FF	_	10	punct	_	TokenRange=13325:13326
+18	per	per	ADP	E	_	20	case	_	TokenRange=13327:13330
+19	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	TokenRange=13331:13333
+20	singol	singol	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	TokenRange=13334:13340
+21	Non	non	ADV	BN	PronType=Neg	22	advmod	_	TokenRange=13341:13344
+22	pensavo	pensa	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	10	acl	_	SpaceAfter=No|TokenRange=13345:13352
+23	.	.	PUNCT	FS	_	6	punct	_	TokenRange=13352:13353
+
+# sent_id = lmo-mil-wiki-doc1-s91
+# text = La versión original dela canzon, cantada di dARI, la fa part del so ( di Dari) album de debùtt;
+1	La	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=13354:13356
+2	versión	versión	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	TokenRange=13357:13364
+3	original	original	ADJ	A	Number=Sing	2	amod	_	TokenRange=13365:13373
+4	dela	dela	X	A	_	2	amod	_	TokenRange=13374:13378
+5	canzon	canzon	X	SW	_	2	nmod	_	SpaceAfter=No|TokenRange=13379:13385
+6	,	,	PUNCT	FF	_	2	punct	_	TokenRange=13385:13386
+7	cantada	cantà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	TokenRange=13387:13394
+8	di	di	ADP	E	_	9	case	_	TokenRange=13395:13397
+9	dARI	DARI	PROPN	SP	_	7	obl	_	SpaceAfter=No|TokenRange=13398:13402
+10	,	,	PUNCT	FF	_	2	punct	_	TokenRange=13402:13403
+11	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	TokenRange=13404:13406
+12	fa	far	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=13407:13409
+13	part	part	NOUN	S	_	12	obj	_	TokenRange=13410:13414
+14-15	del	_	_	_	_	_	_	_	TokenRange=13415:13418
+14	di	di	ADP	E	_	16	case	_	_
+15	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	so	so	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	TokenRange=13419:13421
+17	(	(	PUNCT	FB	_	19	punct	_	TokenRange=13422:13423
+18	di	di	ADP	E	_	19	case	_	TokenRange=13424:13426
+19	Dari	Dari	PROPN	SP	_	16	nmod	_	SpaceAfter=No|TokenRange=13427:13431
+20	)	)	PUNCT	FB	_	19	punct	_	TokenRange=13431:13432
+21	album	album	NOUN	S	Gender=Masc	16	nmod	_	TokenRange=13433:13438
+22	de	de	ADP	E	_	23	case	_	TokenRange=13439:13441
+23	debùtt	debùtt	NOUN	S	Foreign=Yes	21	nmod	_	SpaceAfter=No|TokenRange=13442:13448
+24	;	;	PUNCT	FC	_	12	punct	_	TokenRange=13448:13449
+
+# sent_id = lmo-mil-wiki-doc1-s95
+# text = El Max, in del mes di giugn.
+1	El	El	PROPN	SP	_	0	root	_	TokenRange=13971:13973
+2	Max	Max	PROPN	SP	_	1	flat:name	_	SpaceAfter=No|TokenRange=13974:13977
+3	,	,	PUNCT	FF	_	1	punct	_	TokenRange=13977:13978
+4	in	in	ADP	E	_	7	case	_	TokenRange=13979:13981
+5-6	del	_	_	_	_	_	_	_	TokenRange=13982:13985
+5	di	di	ADP	E	_	4	fixed	_	_
+6	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mes	mes	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	TokenRange=13986:13989
+8	di	di	ADP	E	_	9	case	_	TokenRange=13990:13992
+9	giugn	giugno	NOUN	S	Gender=Masc	7	nmod	_	SpaceAfter=No|TokenRange=13993:13998
+10	.	.	PUNCT	FS	_	1	punct	_	TokenRange=13998:13999
+
+# sent_id = lmo-mil-wiki-doc1-s100
+# text = In la stèssa estàa el ricev ai Venice Music Awards el premi ala carriera.
+1	In	in	ADP	E	_	4	case	_	TokenRange=14664:14666
+2	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	TokenRange=14667:14669
+3	stèssa	stèsso	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	TokenRange=14670:14676
+4	estàa	estàa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	TokenRange=14677:14682
+5	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	TokenRange=14683:14685
+6	ricev	ricev	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=14686:14691
+7-8	ai	_	_	_	_	_	_	_	TokenRange=14692:14694
+7	a	a	ADP	E	_	9	case	_	_
+8	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	Venice	Venice	PROPN	SP	_	6	obl	_	TokenRange=14695:14701
+10	Music	Music	PROPN	SP	_	9	flat:name	_	TokenRange=14702:14707
+11	Awards	Awards	PROPN	SP	_	9	flat:name	_	TokenRange=14708:14714
+12	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	TokenRange=14715:14717
+13	premi	premio	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	TokenRange=14718:14723
+14	ala	ala	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	TokenRange=14724:14727
+15	carriera	carriera	NOUN	S	Gender=Fem|Number=Sing	14	compound	_	SpaceAfter=No|TokenRange=14728:14736
+16	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\r\n|TokenRange=14736:14737
+
+# sent_id = lmo-mil-wiki-doc1-s112
+# text = El Max l’è anca vun di cinch finalisti del Premio Mogol cont Il mio secondo tempo.
+1	El	El	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=16592:16594
+2	Max	Max	PROPN	SP	_	6	nsubj	_	TokenRange=16595:16598
+3	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No|TokenRange=16599:16601
+4	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	TokenRange=16601:16602
+5	anca	anca	ADV	B	_	6	advmod	_	TokenRange=16603:16607
+6	vun	vuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	TokenRange=16608:16611
+7	di	di	ADP	E	_	9	case	_	TokenRange=16612:16614
+8	cinch	cinch	NUM	N	NumType=Card	9	nummod	_	TokenRange=16615:16620
+9	finalisti	finalista	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	TokenRange=16621:16630
+10-11	del	_	_	_	_	_	_	_	TokenRange=16631:16634
+10	di	di	ADP	E	_	12	case	_	_
+11	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Premio	premio	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	TokenRange=16635:16641
+13	Mogol	Mogol	PROPN	SP	_	12	nmod	_	TokenRange=16642:16647
+14	cont	cont	ADP	E	_	18	case	_	TokenRange=16648:16652
+15	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	TokenRange=16653:16655
+16	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	TokenRange=16656:16659
+17	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	18	amod	_	TokenRange=16660:16667
+18	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No|TokenRange=16668:16673
+19	.	.	PUNCT	FS	_	6	punct	_	TokenRange=16673:16674
+
+# sent_id = lmo-mil-wiki-doc1-s113
+# text = El Max Pezzali el partecipa ai MTV Days ala fin di giugn.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=16675:16677
+2	Max	Max	PROPN	SP	_	5	nsubj	_	TokenRange=16678:16681
+3	Pezzali	Pezzali	PROPN	SP	_	2	flat:name	_	TokenRange=16682:16689
+4	el	el	PRON	SP	_	5	obj	_	TokenRange=16690:16692
+5	partecipa	partecipà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=16693:16702
+6-7	ai	_	_	_	_	_	_	_	TokenRange=16703:16705
+6	a	a	ADP	E	_	8	case	_	_
+7	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	MTV	MTV	PROPN	SP	_	5	obl	_	TokenRange=16706:16709
+9	Days	Days	PROPN	SP	_	8	flat:name	_	TokenRange=16710:16714
+10	ala	ala	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	TokenRange=16715:16718
+11	fin	fino	ADV	B	_	13	case	_	TokenRange=16719:16722
+12	di	di	ADP	E	_	11	fixed	_	TokenRange=16723:16725
+13	giugn	giugno	NOUN	S	Gender=Masc	10	nmod	_	SpaceAfter=No|TokenRange=16726:16731
+14	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\r\n|TokenRange=16731:16732
+
+# sent_id = lmo-mil-wiki-doc1-s115
+# text = El Max el se esibirà a Note italiane nel mondo a Trento.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=17012:17014
+2	Max	Max	PROPN	SP	_	5	nsubj	_	TokenRange=17015:17018
+3	el	el	PRON	PC	_	2	flat:name	_	TokenRange=17019:17021
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	SpacesAfter=\s\s|TokenRange=17022:17024
+5	esibirà	esibirà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	TokenRange=17026:17033
+6	a	a	ADP	E	_	7	case	_	TokenRange=17034:17035
+7	Note	Note	PROPN	SP	Gender=Fem|Number=Plur	5	obl	_	TokenRange=17036:17040
+8	italiane	italiano	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	TokenRange=17041:17049
+9-10	nel	_	_	_	_	_	_	_	TokenRange=17050:17053
+9	in	in	ADP	E	_	11	case	_	_
+10	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	TokenRange=17054:17059
+12	a	a	ADP	E	_	13	case	_	TokenRange=17060:17061
+13	Trento	Trento	PROPN	SP	_	5	obl	_	SpaceAfter=No|TokenRange=17062:17068
+14	.	.	PUNCT	FS	_	5	punct	_	TokenRange=17068:17069
+
+# sent_id = lmo-mil-wiki-doc1-s116
+# text = A Lampedusa el partecipa in del mes di settember, al festival O' Scià, ciamà del Claudio Baglioni.
+1	A	a	ADP	E	_	2	case	_	TokenRange=17070:17071
+2	Lampedusa	Lampedusa	PROPN	SP	_	4	obl	_	TokenRange=17072:17081
+3	el	el	PRON	SP	_	4	nsubj	_	TokenRange=17082:17084
+4	partecipa	partecipa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s|TokenRange=17085:17094
+5	in	in	ADP	E	_	8	case	_	TokenRange=17096:17098
+6-7	del	_	_	_	_	_	_	_	TokenRange=17099:17102
+6	di	di	ADP	E	_	5	fixed	_	_
+7	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	mes	mes	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	TokenRange=17103:17106
+9	di	di	ADP	E	_	10	case	_	TokenRange=17107:17109
+10	settember	settember	NOUN	S	Gender=Masc	8	nmod	_	SpaceAfter=No|TokenRange=17110:17119
+11	,	,	PUNCT	FF	_	14	punct	_	TokenRange=17119:17120
+12-13	al	_	_	_	_	_	_	_	TokenRange=17121:17123
+12	a	a	ADP	E	_	14	case	_	_
+13	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	festival	festival	NOUN	S	Gender=Masc	4	conj	_	TokenRange=17124:17132
+15	O'	O'	PROPN	SP	_	14	nmod	_	TokenRange=17133:17135
+16	Scià	Scià	PROPN	SP	_	15	flat:name	_	SpaceAfter=No|TokenRange=17136:17140
+17	,	,	PUNCT	FF	_	14	punct	_	TokenRange=17140:17141
+18	ciamà	ciamà	NOUN	S	Gender=Fem	14	nmod	_	TokenRange=17142:17147
+19-20	del	_	_	_	_	_	_	_	TokenRange=17148:17151
+19	di	di	ADP	E	_	21	case	_	_
+20	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	Claudio	Claudio	PROPN	SP	_	18	nmod	_	TokenRange=17152:17159
+22	Baglioni	Baglioni	PROPN	SP	_	21	flat:name	_	SpaceAfter=No|TokenRange=17160:17168
+23	.	.	PUNCT	FS	_	4	punct	_	TokenRange=17168:17169
+
+# sent_id = lmo-mil-wiki-doc1-s121
+# text = El Max a l’è anca ospit ind la prima pontada de Non sparate sul pianista.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=17811:17813
+2	Max	Max	PROPN	SP	_	7	nsubj	_	TokenRange=17814:17817
+3	a	a	ADP	E	_	5	case	_	TokenRange=17818:17819
+4	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No|TokenRange=17820:17822
+5	è	vess	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	TokenRange=17822:17823
+6	anca	anca	ADV	B	_	7	advmod	_	TokenRange=17824:17828
+7	ospit	ospit	ADJ	S	Gender=Masc|Number=Sing	0	root	_	TokenRange=17829:17834
+8	ind	ind	ADP	E	_	11	case	_	TokenRange=17835:17838
+9	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	TokenRange=17839:17841
+10	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	11	amod	_	TokenRange=17842:17847
+11	pontada	pontada	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	TokenRange=17848:17855
+12	de	de	ADP	E	_	14	mark	_	TokenRange=17856:17858
+13	Non	non	ADV	BN	PronType=Neg	14	advmod	_	TokenRange=17859:17862
+14	sparate	sparär	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	acl	_	TokenRange=17863:17870
+15-16	sul	_	_	_	_	_	_	_	TokenRange=17871:17874
+15	su	su	ADP	E	_	17	case	_	_
+16	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	pianista	pianista	NOUN	S	Number=Sing	14	obl	_	SpaceAfter=No|TokenRange=17875:17883
+18	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\r\n|TokenRange=17883:17884
+
+# sent_id = lmo-mil-wiki-doc1-s122
+# text = Ancasì el 27 de april 2012 a l’è ospit a MTV Spit ‘me giùdes special.
+1	Ancasì	ancasì	ADV	B	_	10	advmod	_	TokenRange=17886:17892
+2	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=17893:17895
+3	27	27	NUM	N	NumType=Card	10	obl	_	TokenRange=17896:17898
+4	de	de	ADP	E	_	3	case	_	TokenRange=17899:17901
+5	april	april	NOUN	S	Gender=Masc|Number=Sing	3	flat	_	TokenRange=17902:17907
+6	2012	2012	NUM	N	NumType=Card	3	flat	_	TokenRange=17908:17912
+7	a	a	ADP	E	_	9	case	_	TokenRange=17913:17914
+8	l’	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No|TokenRange=17915:17917
+9	è	vess	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	TokenRange=17917:17918
+10	ospit	ospit	NOUN	S	Gender=Masc|Number=Sing	0	root	_	TokenRange=17919:17924
+11	a	a	ADP	E	_	12	case	_	TokenRange=17925:17926
+12	MTV	MTV	PROPN	SP	_	10	obl	_	TokenRange=17927:17930
+13	Spit	Spit	PROPN	SP	_	12	flat:name	_	TokenRange=17931:17935
+14	‘me	‘me	X	SW	Foreign=Yes	12	nmod	_	TokenRange=17936:17939
+15	giùdes	giùdes	X	SW	Foreign=Yes	12	nmod	_	TokenRange=17940:17946
+16	special	special	NOUN	S	Foreign=Yes	12	nmod	_	SpaceAfter=No|TokenRange=17947:17954
+17	.	.	PUNCT	FS	_	10	punct	_	TokenRange=17954:17955
+
+# sent_id = lmo-mil-wiki-doc1-s123
+# text = El 14 de magg el se esibis ala festa di 30 ann dela Radio Italia ind la piazza del Dòmm a Milan.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=17956:17958
+2	14	14	NUM	N	NumType=Card	7	obl	_	TokenRange=17959:17961
+3	de	de	ADP	E	_	4	case	_	TokenRange=17962:17964
+4	magg	magg	NOUN	S	Gender=Masc	2	flat	_	TokenRange=17965:17969
+5	el	el	PRON	SW	_	7	nsubj	_	TokenRange=17970:17972
+6	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	SpacesAfter=\s\s|TokenRange=17973:17975
+7	esibis	esibi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=17977:17983
+8	ala	ala	ADJ	A	Gender=Fem|Number=Sing	7	xcomp	_	TokenRange=17984:17987
+9	festa	festa	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	TokenRange=17988:17993
+10	di	di	ADP	E	_	12	case	_	TokenRange=17994:17996
+11	30	30	NUM	N	NumType=Card	12	nummod	_	TokenRange=17997:17999
+12	ann	ann	NOUN	S	Gender=Masc	9	nmod	_	TokenRange=18000:18003
+13	dela	dela	ADP	E	_	14	case	_	TokenRange=18004:18008
+14	Radio	Radio	PROPN	SP	_	9	nmod	_	TokenRange=18009:18014
+15	Italia	Italia	PROPN	SP	_	14	flat:name	_	TokenRange=18015:18021
+16	ind	ind	ADP	E	_	18	case	_	TokenRange=18022:18025
+17	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	TokenRange=18026:18028
+18	piazza	piazza	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	TokenRange=18029:18035
+19-20	del	_	_	_	_	_	_	_	TokenRange=18036:18039
+19	di	di	ADP	E	_	21	case	_	_
+20	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	Dòmm	Dòmm	PROPN	SP	_	18	nmod	_	TokenRange=18040:18044
+22	a	a	ADP	E	_	23	case	_	TokenRange=18045:18046
+23	Milan	Milan	PROPN	SP	_	18	nmod	_	SpaceAfter=No|TokenRange=18047:18052
+24	.	.	PUNCT	FS	_	7	punct	_	TokenRange=18052:18053
+
+# sent_id = lmo-mil-wiki-doc1-s124
+# text = In del stèss period el sortis anca Con due deca, la prima compilation officiàl de cover dedicàda ai 883 che la po vèss scaregata a gratis in sul Rockit.
+1	In	in	ADP	E	_	5	case	_	TokenRange=18054:18056
+2-3	del	_	_	_	_	_	_	_	TokenRange=18057:18060
+2	di	di	ADP	E	_	1	fixed	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	stèss	stèss	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	TokenRange=18061:18066
+5	period	period	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	TokenRange=18067:18073
+6	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	TokenRange=18074:18076
+7	sortis	sorti	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=18077:18083
+8	anca	anca	ADV	B	_	7	advmod	_	SpacesAfter=\s\s|TokenRange=18084:18088
+9	Con	con	ADP	E	_	11	case	_	TokenRange=18090:18093
+10	due	due	NUM	N	NumType=Card	11	nummod	_	TokenRange=18094:18097
+11	deca	deca	NOUN	S	_	7	obl	_	SpaceAfter=No|TokenRange=18098:18102
+12	,	,	PUNCT	FF	_	7	punct	_	TokenRange=18102:18103
+13	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	TokenRange=18104:18106
+14	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	15	amod	_	TokenRange=18107:18112
+15	compilation	compilation	NOUN	S	Gender=Fem	7	nsubj	_	TokenRange=18113:18124
+16	officiàl	officiàl	ADJ	A	_	15	amod	_	TokenRange=18125:18133
+17	de	de	ADP	E	_	18	case	_	TokenRange=18134:18136
+18	cover	cover	NOUN	S	_	15	nmod	_	TokenRange=18137:18142
+19	dedicàda	dedicàdere	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	TokenRange=18143:18151
+20-21	ai	_	_	_	_	_	_	_	TokenRange=18152:18154
+20	a	a	ADP	E	_	22	case	_	_
+21	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	883	883	NUM	N	NumType=Card	19	obl	_	TokenRange=18155:18158
+23	che	che	PRON	PR	PronType=Rel	27	nsubj:pass	_	TokenRange=18159:18162
+24	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	obj	_	TokenRange=18163:18165
+25	po	po'	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	TokenRange=18166:18168
+26	vèss	vèss	AUX	VA	VerbForm=Inf	27	aux:pass	_	TokenRange=18169:18173
+27	scaregata	scaregà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	acl:relcl	_	TokenRange=18174:18183
+28	a	a	ADP	E	_	29	case	_	TokenRange=18184:18185
+29	gratis	gratis	ADV	B	_	27	advmod	_	TokenRange=18186:18192
+30	in	in	ADP	E	_	33	case	_	TokenRange=18193:18195
+31-32	sul	_	_	_	_	_	_	_	TokenRange=18196:18199
+31	su	su	ADP	E	_	33	case	_	_
+32	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	Rockit	Rockit	PROPN	SP	_	27	obl	_	SpaceAfter=No|TokenRange=18200:18206
+34	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\r\n|TokenRange=18206:18207
+
+# sent_id = lmo-mil-wiki-doc1-s130
+# text = Dòpo Sempre noi, l’è catàa foeura come sìngol del'album anca 6/1/sfigato 2012, in radio dal 20 de luj.
+1	Dòpo	dòpo	ADP	E	_	3	case	_	TokenRange=19227:19231
+2	Sempre	sempre	ADV	B	_	1	fixed	_	TokenRange=19232:19238
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|TokenRange=19239:19242
+4	,	,	PUNCT	FF	_	3	punct	_	TokenRange=19242:19243
+5	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No|TokenRange=19244:19246
+6	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	TokenRange=19246:19247
+7	catàa	catà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=19248:19253
+8	foeura	foeura	ADV	B	Gender=Fem|Number=Sing	7	advmod	_	TokenRange=19254:19260
+9	come	come	ADP	E	_	10	case	_	SpacesAfter=\s\s|TokenRange=19261:19265
+10	sìngol	sìngol	NOUN	S	Gender=Masc	7	obl	_	TokenRange=19267:19273
+11-12	del'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=19274:19278
+11	de	de	ADP	E	_	13	case	_	_
+12	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	album	album	NOUN	S	Gender=Masc	10	nmod	_	TokenRange=19278:19283
+14	anca	anca	ADV	B	_	15	advmod	_	TokenRange=19284:19288
+15	6	6	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No|TokenRange=19289:19290
+16	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No|TokenRange=19290:19291
+17	1	1	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No|TokenRange=19291:19292
+18	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No|TokenRange=19292:19293
+19	sfigato	sfigato	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	TokenRange=19293:19300
+20	2012	2012	NUM	N	NumType=Card	15	flat	_	SpaceAfter=No|TokenRange=19301:19305
+21	,	,	PUNCT	FF	_	15	punct	_	TokenRange=19305:19306
+22	in	in	ADP	E	_	23	case	_	TokenRange=19307:19309
+23	radio	radio	NOUN	S	Gender=Fem	7	obl	_	TokenRange=19310:19315
+24-25	dal	_	_	_	_	_	_	_	TokenRange=19316:19319
+24	da	da	ADP	E	_	26	case	_	_
+25	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	20	20	NUM	N	NumType=Card	23	nmod	_	TokenRange=19320:19322
+27	de	de	ADP	E	_	28	case	_	TokenRange=19323:19325
+28	luj	luj	NOUN	S	Gender=Masc	26	nmod	_	SpaceAfter=No|TokenRange=19326:19329
+29	.	.	PUNCT	FS	_	7	punct	_	TokenRange=19329:19330
+
+# sent_id = lmo-mil-wiki-doc1-s134
+# text = Del 19 de febbrar 2013 el Max el condùs el programma dela television Le strade di Max.
+1-2	Del	_	_	_	_	_	_	_	TokenRange=19754:19757
+1	Di	di	ADP	E	_	3	case	_	_
+2	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	19	19	NUM	N	NumType=Card	10	obl	_	TokenRange=19758:19760
+4	de	de	ADP	E	_	5	case	_	SpacesAfter=\s\s|TokenRange=19761:19763
+5	febbrar	febbrar	NOUN	S	Gender=Masc	3	nmod	_	TokenRange=19765:19772
+6	2013	2013	NUM	N	NumType=Card	3	flat	_	TokenRange=19773:19777
+7	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=19778:19780
+8	Max	Max	PROPN	SP	_	10	nsubj	_	TokenRange=19781:19784
+9	el	el	AUX	VA	_	10	aux	_	TokenRange=19785:19787
+10	condùs	condù	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=19788:19794
+11	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	TokenRange=19795:19797
+12	programma	programma	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	TokenRange=19798:19807
+13	dela	dela	X	SW	_	14	case	_	TokenRange=19808:19812
+14	television	television	X	SW	Gender=Fem	12	nmod	_	TokenRange=19813:19823
+15	Le	Le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	TokenRange=19824:19826
+16	strade	strada	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	TokenRange=19827:19833
+17	di	di	ADP	E	_	18	case	_	TokenRange=19834:19836
+18	Max	Max	PROPN	SP	_	16	nmod	_	SpaceAfter=No|TokenRange=19837:19840
+19	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\r\n|TokenRange=19840:19841
+
+# sent_id = lmo-mil-wiki-doc1-s140
+# text = In del stèss periòd el lavora anca al cinema come doppiador:
+1	In	in	ADP	E	_	5	case	_	TokenRange=20655:20657
+2-3	del	_	_	_	_	_	_	_	TokenRange=20658:20661
+2	di	di	ADP	E	_	1	fixed	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	stèss	stèss	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	TokenRange=20662:20667
+5	periòd	periòd	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	TokenRange=20668:20674
+6	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	TokenRange=20675:20677
+7	lavora	lavorà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=20678:20684
+8	anca	anca	ADV	B	_	7	advmod	_	TokenRange=20685:20689
+9-10	al	_	_	_	_	_	_	_	TokenRange=20690:20692
+9	a	a	ADP	E	_	11	case	_	_
+10	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	cinema	cinema	NOUN	S	Gender=Masc	7	obl	_	TokenRange=20693:20699
+12	come	come	ADP	E	_	13	case	_	TokenRange=20700:20704
+13	doppiador	doppiador	NOUN	S	Gender=Masc	7	obl	_	SpaceAfter=No|TokenRange=20705:20714
+14	:	:	PUNCT	FC	_	7	punct	_	TokenRange=20714:20715
+
+# sent_id = lmo-mil-wiki-doc1-s145
+# text = A settember el torna de noeuv in radio con Ragazzo inadeguato, el second singol catà foeura de Max 20.
+1	A	a	ADP	E	_	2	case	_	TokenRange=21804:21805
+2	settember	settember	NOUN	S	Gender=Masc	4	obl	_	TokenRange=21806:21815
+3	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	TokenRange=21816:21818
+4	torna	tornà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=21819:21824
+5	de	de	ADP	E	_	6	case	_	TokenRange=21825:21827
+6	noeuv	noeuv	NOUN	S	_	4	obl	_	TokenRange=21828:21833
+7	in	in	ADP	E	_	8	case	_	TokenRange=21834:21836
+8	radio	radio	NOUN	S	Gender=Fem	4	obl	_	TokenRange=21837:21842
+9	con	con	ADP	E	_	10	case	_	TokenRange=21843:21846
+10	Ragazzo	Ragazzo	NOUN	SP	_	4	obl	_	TokenRange=21847:21854
+11	inadeguato	inadeguato	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No|TokenRange=21855:21865
+12	,	,	PUNCT	FF	_	10	punct	_	TokenRange=21865:21866
+13	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	TokenRange=21867:21869
+14	second	second	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	16	amod	_	TokenRange=21870:21876
+15	singol	singol	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	TokenRange=21877:21883
+16	catà	catà	NOUN	S	Gender=Fem	10	appos	_	TokenRange=21884:21888
+17	foeura	foeura	X	SW	Gender=Fem|Number=Sing	16	compound	_	TokenRange=21889:21895
+18	de	de	ADP	E	_	19	case	_	TokenRange=21896:21898
+19	Max	Max	PROPN	SP	_	16	nmod	_	TokenRange=21899:21902
+20	20	20	NUM	N	NumType=Card	19	nummod	_	SpaceAfter=No|TokenRange=21903:21905
+21	.	.	PUNCT	FS	_	4	punct	_	TokenRange=21905:21906
+
+# sent_id = lmo-mil-wiki-doc1-s146
+# text = In del stèss period l’è nominàa ind la categoria Best Italian Act ai MTV Europe Music Awards 2013.
+1	In	in	ADP	E	_	5	case	_	TokenRange=21907:21909
+2-3	del	_	_	_	_	_	_	_	TokenRange=21910:21913
+2	di	di	ADP	E	_	1	fixed	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	stèss	stèss	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	TokenRange=21914:21919
+5	period	period	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	TokenRange=21920:21926
+6	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No|TokenRange=21927:21929
+7	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	TokenRange=21929:21930
+8	nominàa	nominà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=21931:21938
+9	ind	ind	ADP	E	_	11	case	_	TokenRange=21939:21942
+10	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	TokenRange=21943:21945
+11	categoria	categoria	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	TokenRange=21946:21955
+12	Best	Best	ADJ	A	_	11	amod	_	TokenRange=21956:21960
+13	Italian	Italian	PROPN	SP	_	12	flat:name	_	TokenRange=21961:21968
+14	Act	Act	PROPN	SP	_	12	flat:name	_	TokenRange=21969:21972
+15-16	ai	_	_	_	_	_	_	_	TokenRange=21973:21975
+15	a	a	ADP	E	_	17	case	_	_
+16	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	MTV	MTV	PROPN	SP	_	8	obl	_	TokenRange=21976:21979
+18	Europe	Europe	PROPN	SP	_	17	flat:name	_	TokenRange=21980:21986
+19	Music	Music	PROPN	SP	_	17	nmod	_	TokenRange=21987:21992
+20	Awards	Awards	NOUN	S	_	17	nmod	_	TokenRange=21993:21999
+21	2013	2013	NUM	N	NumType=Card	20	nummod	_	SpaceAfter=No|TokenRange=22000:22004
+22	.	.	PUNCT	FS	_	8	punct	_	TokenRange=22004:22005
+
+# sent_id = lmo-mil-wiki-doc1-s147
+# text = El 10 de ottober a l’è stada misa foeura la sòa autobiografia I cowboy non mollano mai - La mia storia.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=22006:22008
+2	10	10	NUM	N	NumType=Card	9	obl	_	TokenRange=22009:22011
+3	de	de	ADP	E	_	4	case	_	TokenRange=22012:22014
+4	ottober	ottober	NOUN	S	Gender=Masc	2	nmod	_	TokenRange=22015:22022
+5	a	a	ADP	E	_	9	case	_	TokenRange=22023:22024
+6	l’	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No|TokenRange=22025:22027
+7	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	TokenRange=22027:22028
+8	stada	vess	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	aux:pass	_	TokenRange=22029:22034
+9	misa	metir	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=22035:22039
+10	foeura	foeura	ADP	E	_	9	advmod	_	TokenRange=22040:22046
+11	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	TokenRange=22047:22049
+12	sòa	sòo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	TokenRange=22050:22053
+13	autobiografia	autobiografia	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	TokenRange=22054:22067
+14	I	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	TokenRange=22068:22069
+15	cowboy	cowboy	NOUN	S	_	17	nsubj	_	TokenRange=22070:22076
+16	non	non	ADV	BN	PronType=Neg	17	advmod	_	TokenRange=22077:22080
+17	mollano	molà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	TokenRange=22081:22088
+18	mai	mai	ADV	B	_	17	advmod	_	TokenRange=22089:22092
+19	-	-	PUNCT	FF	_	17	punct	_	TokenRange=22093:22094
+20	La	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	TokenRange=22095:22097
+21	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	TokenRange=22098:22101
+22	storia	storia	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No|TokenRange=22102:22108
+23	.	.	PUNCT	FS	_	9	punct	_	TokenRange=22108:22109

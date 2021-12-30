@@ -1,0 +1,1438 @@
+# sent_id = lmo-mil-wiki-doc6-s1051
+# text = Oltra a i salumm, cont caratteristegh assee vari a segonda de la provenienza di divers pòst attorna a la cittaa, a gh'hinn: inciod sottasaa, dissalaa e majaa cont el butter e pan, ma soratutt dovraa 'mè ingredient in varï salz.
+1	Oltra	oltra	ADV	B	_	4	case	_	TokenRange=157849:157854
+2	a	a	ADP	E	_	1	fixed	_	TokenRange=157855:157856
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	TokenRange=157857:157858
+4	salumm	salumm	NOUN	S	Gender=Masc	25	obl	_	SpaceAfter=No|TokenRange=157859:157865
+5	,	,	PUNCT	FF	_	4	punct	_	TokenRange=157865:157866
+6	cont	cont	ADP	E	_	7	case	_	TokenRange=157867:157871
+7	caratteristegh	caratteristegh	NOUN	S	Gender=Masc	4	nmod	_	TokenRange=157872:157886
+8	assee	assee	ADV	B	_	9	advmod	_	TokenRange=157887:157892
+9	vari	vari	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	TokenRange=157893:157897
+10	a	a	ADP	E	_	11	case	_	TokenRange=157898:157899
+11	segonda	segonda	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	TokenRange=157900:157907
+12	de	de	ADP	E	_	14	case	_	TokenRange=157908:157910
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	TokenRange=157911:157913
+14	provenienza	provenienza	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	TokenRange=157914:157925
+15	di	di	ADP	E	_	17	case	_	TokenRange=157926:157928
+16	divers	divers	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	17	det	_	TokenRange=157929:157935
+17	pòst	pòst	NOUN	S	Gender=Masc	14	nmod	_	TokenRange=157936:157940
+18	attorna	attorn	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	TokenRange=157941:157948
+19	a	a	ADP	E	_	21	case	_	TokenRange=157949:157950
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	TokenRange=157951:157953
+21	cittaa	cittaa	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No|TokenRange=157954:157960
+22	,	,	PUNCT	FF	_	4	punct	_	TokenRange=157960:157961
+23	a	a	ADP	E	_	24	case	_	TokenRange=157962:157963
+24	gh'	gh'	PRON	B	_	25	obl	_	SpaceAfter=No|TokenRange=157964:157967
+25	hinn	vess	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=157967:157971
+26	:	:	PUNCT	FC	_	25	punct	_	SpacesAfter=\r\n|TokenRange=157971:157972
+27	inciod	inciod	NOUN	S	Gender=Masc|Number=Sing	25	nsubj	_	TokenRange=157974:157980
+28	sottasaa	sottasaa	ADJ	A	Gender=Fem|Number=Sing	27	amod	_	SpaceAfter=No|TokenRange=157981:157989
+29	,	,	PUNCT	FF	_	30	punct	_	TokenRange=157989:157990
+30	dissalaa	dissalaa	ADJ	A	Gender=Fem|Number=Sing	28	conj	_	TokenRange=157991:157999
+31	e	e	CCONJ	CC	_	32	cc	_	TokenRange=158000:158001
+32	majaa	majaa	ADJ	A	Gender=Fem|Number=Sing	28	conj	_	TokenRange=158002:158007
+33	cont	cont	ADP	E	_	35	case	_	TokenRange=158008:158012
+34	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	TokenRange=158013:158015
+35	butter	butter	NOUN	S	Gender=Masc	32	obl	_	TokenRange=158016:158022
+36	e	e	CCONJ	CC	_	37	cc	_	TokenRange=158023:158024
+37	pan	pan	NOUN	S	Gender=Masc	35	conj	_	SpaceAfter=No|TokenRange=158025:158028
+38	,	,	PUNCT	FF	_	41	punct	_	TokenRange=158028:158029
+39	ma	ma	CCONJ	CC	_	41	cc	_	TokenRange=158030:158032
+40	soratutt	soratutt	ADV	B	_	41	advmod	_	TokenRange=158033:158041
+41	dovraa	dovè	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	27	conj	_	TokenRange=158042:158048
+42	'	'	PUNCT	FB	_	44	punct	_	SpaceAfter=No|TokenRange=158049:158050
+43	mè	mè	X	CC	_	41	cc	_	TokenRange=158050:158052
+44	ingredient	ingredient	NOUN	S	Gender=Masc	41	obj	_	TokenRange=158053:158063
+45	in	in	ADP	E	_	47	case	_	TokenRange=158064:158066
+46	varï	varïo	ADJ	A	Gender=Masc|Number=Plur|PronType=Ind	47	amod	_	TokenRange=158067:158071
+47	salz	salz	NOUN	S	Gender=Masc|Number=Plur	41	obl	_	SpaceAfter=No|TokenRange=158072:158076
+48	.	.	PUNCT	FS	_	25	punct	_	SpacesAfter=\r\n|TokenRange=158076:158077
+
+
+# sent_id = lmo-mil-wiki-doc6-s1052
+# text = La preparazion la preved on sofritt linger de scigolla e nidòlla de boeu in butter, tostadura del ris (oltra al Carnaroli, recentement a hinn staa rescovrii anche alter varietaa comè Rosa Marchetti, Baldo, Maratelli e Vialone Nano), sfumadura cont vin bianch e gionta, a cazzuu, de broeud fin a la cottura.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=158079:158081
+2	preparazion	preparazion	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	TokenRange=158082:158093
+3	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	TokenRange=158094:158096
+4	preved	preved	NOUN	S	Gender=Fem	0	root	_	TokenRange=158097:158103
+5	on	on	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	TokenRange=158104:158106
+6	sofritt	sofritt	ADJ	A	Gender=Masc	7	amod	_	TokenRange=158107:158114
+7	linger	linger	NOUN	S	Gender=Masc	4	obj	_	TokenRange=158115:158121
+8	de	de	ADP	E	_	9	case	_	TokenRange=158122:158124
+9	scigolla	scigolla	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	TokenRange=158125:158133
+10	e	e	CCONJ	CC	_	11	cc	_	TokenRange=158134:158135
+11	nidòlla	nidòlla	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	TokenRange=158136:158143
+12	de	de	ADP	E	_	13	case	_	TokenRange=158144:158146
+13	boeu	boeu	NOUN	S	Gender=Masc	11	nmod	_	TokenRange=158147:158151
+14	in	in	ADP	E	_	15	case	_	TokenRange=158152:158154
+15	butter	butter	NOUN	S	Gender=Masc	11	nmod	_	SpaceAfter=No|TokenRange=158155:158161
+16	,	,	PUNCT	FF	_	17	punct	_	TokenRange=158161:158162
+17	tostadura	tostadura	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	TokenRange=158163:158172
+18-19	del	_	_	_	_	_	_	_	TokenRange=158173:158176
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	ris	ris	NOUN	S	Gender=Masc	17	nmod	_	TokenRange=158177:158180
+21	(	(	PUNCT	FB	_	31	punct	_	SpaceAfter=No|TokenRange=158181:158182
+22	oltra	oltra	ADV	B	_	25	case	_	TokenRange=158182:158187
+23-24	al	_	_	_	_	_	_	_	TokenRange=158188:158190
+23	a	a	ADP	E	_	22	fixed	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	Carnaroli	Carnaroli	PROPN	SP	_	31	obl	_	SpaceAfter=No|TokenRange=158191:158200
+26	,	,	PUNCT	FF	_	25	punct	_	TokenRange=158200:158201
+27	recentement	recentement	ADV	B	_	31	advmod	_	TokenRange=158202:158213
+28	a	a	ADP	E	_	31	mark	_	TokenRange=158214:158215
+29	hinn	vess	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	aux	_	TokenRange=158216:158220
+30	staa	stà	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	31	aux:pass	_	TokenRange=158221:158225
+31	rescovrii	rescovrii	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	TokenRange=158226:158235
+32	anche	anche	ADV	B	_	34	advmod	_	TokenRange=158236:158241
+33	alter	alter	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	34	det	_	TokenRange=158242:158247
+34	varietaa	varietaa	NOUN	S	Gender=Fem|Number=Sing	31	nsubj:pass	_	TokenRange=158248:158256
+35	comè	comè	ADP	E	_	36	case	_	TokenRange=158257:158261
+36	Rosa	Rosa	PROPN	SP	_	34	nmod	_	TokenRange=158262:158266
+37	Marchetti	Marchetti	PROPN	SP	_	36	flat:name	_	SpaceAfter=No|TokenRange=158267:158276
+38	,	,	PUNCT	FF	_	39	punct	_	TokenRange=158276:158277
+39	Baldo	Baldo	PROPN	SP	_	36	conj	_	SpaceAfter=No|TokenRange=158278:158283
+40	,	,	PUNCT	FF	_	41	punct	_	TokenRange=158283:158284
+41	Maratelli	Maratelli	PROPN	SP	_	36	conj	_	TokenRange=158285:158294
+42	e	e	CCONJ	CC	_	43	cc	_	TokenRange=158295:158296
+43	Vialone	Vialone	PROPN	SP	_	36	conj	_	TokenRange=158297:158304
+44	Nano	Nano	PROPN	SP	_	43	flat:name	_	SpaceAfter=No|TokenRange=158305:158309
+45	)	)	PUNCT	FB	_	31	punct	_	SpaceAfter=No|TokenRange=158309:158310
+46	,	,	PUNCT	FF	_	47	punct	_	TokenRange=158310:158311
+47	sfumadura	sfumadura	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	TokenRange=158312:158321
+48	cont	cont	ADP	E	_	49	case	_	TokenRange=158322:158326
+49	vin	vin	NOUN	S	Gender=Masc	47	nmod	_	TokenRange=158327:158330
+50	bianch	bianch	ADJ	A	Gender=Masc|Number=Sing	49	amod	_	TokenRange=158331:158337
+51	e	e	CCONJ	CC	_	52	cc	_	TokenRange=158338:158339
+52	gionta	gionto	ADJ	A	Gender=Fem|Number=Sing	50	conj	_	SpaceAfter=No|TokenRange=158340:158346
+53	,	,	PUNCT	FF	_	55	punct	_	TokenRange=158346:158347
+54	a	a	ADP	E	_	55	case	_	TokenRange=158348:158349
+55	cazzuu	cazzuu	NOUN	S	Gender=Masc	49	conj	_	SpaceAfter=No|TokenRange=158350:158356
+56	,	,	PUNCT	FF	_	58	punct	_	TokenRange=158356:158357
+57	de	de	ADP	E	_	58	case	_	TokenRange=158358:158360
+58	broeud	broeud	NOUN	S	Gender=Masc	49	conj	_	TokenRange=158361:158367
+59	fin	fino	ADV	B	_	62	case	_	TokenRange=158368:158371
+60	a	a	ADP	E	_	59	fixed	_	TokenRange=158372:158373
+61	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	62	det	_	TokenRange=158374:158376
+62	cottura	cottura	NOUN	S	Gender=Fem|Number=Sing	58	nmod	_	SpaceAfter=No|TokenRange=158377:158384
+63	.	.	PUNCT	FS	_	4	punct	_	TokenRange=158384:158385
+
+# sent_id = lmo-mil-wiki-doc6-s1053
+# text = Se seguita a mes'cià el ris cont on cugiar de legn e, a mitaa cottura, se gionta el zaffran e 'l formaj grataa-giò.
+1	Se	se	SCONJ	CS	_	2	mark	_	TokenRange=158386:158388
+2	seguita	seguire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=158389:158396
+3	a	a	ADP	E	_	4	case	_	TokenRange=158397:158398
+4	mes'	mes'	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No|TokenRange=158399:158403
+5	cià	cià	ADV	B	_	2	advmod	_	TokenRange=158403:158406
+6	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=158407:158409
+7	ris	ris	NOUN	S	Gender=Masc	2	obj	_	TokenRange=158410:158413
+8	cont	cont	ADP	E	_	10	case	_	TokenRange=158414:158418
+9	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=158419:158421
+10	cugiar	cugiar	NOUN	S	Gender=Masc	7	nmod	_	TokenRange=158422:158428
+11	de	de	ADP	E	_	12	case	_	TokenRange=158429:158431
+12	legn	legn	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	TokenRange=158432:158436
+13	e	e	CCONJ	CC	_	20	cc	_	SpaceAfter=No|TokenRange=158437:158438
+14	,	,	PUNCT	FF	_	20	punct	_	TokenRange=158438:158439
+15	a	a	ADP	E	_	16	case	_	TokenRange=158440:158441
+16	mitaa	mitaa	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	TokenRange=158442:158447
+17	cottura	cottura	NOUN	S	Gender=Fem|Number=Sing	16	compound	_	SpaceAfter=No|TokenRange=158448:158455
+18	,	,	PUNCT	FF	_	16	punct	_	TokenRange=158455:158456
+19	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl:pass	_	TokenRange=158457:158459
+20	gionta	giontare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	TokenRange=158460:158466
+21	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	TokenRange=158467:158469
+22	zaffran	zaffran	NOUN	S	Gender=Masc	20	obj	_	TokenRange=158470:158477
+23	e	e	CCONJ	CC	_	26	cc	_	TokenRange=158478:158479
+24	'	'	PUNCT	FB	_	26	punct	_	SpaceAfter=No|TokenRange=158480:158481
+25	l	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	TokenRange=158481:158482
+26	formaj	formaj	NOUN	S	Gender=Masc	22	conj	_	TokenRange=158483:158489
+27	grataa	grataa	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	26	amod	_	SpaceAfter=No|TokenRange=158490:158496
+28	-	-	PUNCT	FF	_	27	punct	_	SpaceAfter=No|TokenRange=158496:158497
+29	giò	giò	ADV	B	_	27	advmod	_	SpaceAfter=No|TokenRange=158497:158500
+30	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\r\n|TokenRange=158500:158501
+
+# sent_id = lmo-mil-wiki-doc6-s1054
+# text = Oltra al risòtt giald, a Milan alter variant tipegh de risòtt hinn:
+1	Oltra	oltra	ADV	B	_	4	case	_	TokenRange=158503:158508
+2-3	al	_	_	_	_	_	_	_	TokenRange=158509:158511
+2	a	a	ADP	E	_	1	fixed	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	risòtt	risòtt	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	TokenRange=158512:158518
+5	giald	giald	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No|TokenRange=158519:158524
+6	,	,	PUNCT	FF	_	4	punct	_	TokenRange=158524:158525
+7	a	a	ADP	E	_	8	case	_	TokenRange=158526:158527
+8	Milan	Milan	PROPN	SP	_	14	obl	_	TokenRange=158528:158533
+9	alter	alter	ADJ	A	_	10	amod	_	TokenRange=158534:158539
+10	variant	variant	NOUN	S	Gender=Fem	14	nsubj	_	TokenRange=158540:158547
+11	tipegh	tipegh	ADJ	A	_	10	amod	_	TokenRange=158548:158554
+12	de	de	ADP	E	_	13	case	_	TokenRange=158555:158557
+13	risòtt	risòtt	NOUN	S	Gender=Masc	10	nmod	_	TokenRange=158558:158564
+14	hinn	vess	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=158565:158569
+15	:	:	PUNCT	FC	_	14	punct	_	SpacesAfter=\r\n|TokenRange=158569:158570
+
+# sent_id = lmo-mil-wiki-doc6-s1055
+# text = Quest variant chì se poden recombinà me se voeur.
+1	Quest	quest	DET	DD	Number=Sing|PronType=Dem	2	det	_	TokenRange=158572:158577
+2	variant	variant	NOUN	S	_	6	nsubj	_	TokenRange=158578:158585
+3	chì	chì	ADV	B	_	5	advmod	_	TokenRange=158586:158589
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	mark	_	TokenRange=158590:158592
+5	poden	podè	VERB	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	advcl	_	TokenRange=158593:158598
+6	recombinà	recombinà	VERB	V	VerbForm=Inf	5	root	_	TokenRange=158599:158608
+7	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	TokenRange=158609:158611
+8	se	se	SCONJ	CS	_	9	mark	_	TokenRange=158612:158614
+9	voeur	voeur	X	_	_	_	_	_	SpaceAfter=No|TokenRange=158615:158620
+10	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\r\n|TokenRange=158620:158621
+
+# sent_id = lmo-mil-wiki-doc6-s1056
+# text = Per el risòtt avanzaa, el se pò fà el "salt":
+1	Per	per	ADP	E	_	3	case	_	TokenRange=158623:158626
+2	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=158627:158629
+3	risòtt	risòtt	NOUN	S	Gender=Masc	9	obl	_	TokenRange=158630:158636
+4	avanzaa	avanzaa	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No|TokenRange=158637:158644
+5	,	,	PUNCT	FF	_	4	punct	_	TokenRange=158644:158645
+6	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj:pass	_	TokenRange=158646:158648
+7	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:pass	_	TokenRange=158649:158651
+8	pò	podè	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	TokenRange=158652:158654
+9	fà	fà	VERB	V	VerbForm=Fin	0	root	_	TokenRange=158655:158657
+10	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	TokenRange=158658:158660
+11	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No|TokenRange=158661:158662
+12	salt	salt	NOUN	S	Gender=Masc	9	obj	_	SpaceAfter=No|TokenRange=158662:158666
+13	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No|TokenRange=158666:158667
+14	:	:	PUNCT	FC	_	9	punct	_	TokenRange=158667:158668
+
+
+# sent_id = lmo-mil-wiki-doc6-s1057
+# text = formaa on tortin bass, el se fà scaldà in d'ona biella cont butter cald in duu temp, fin a che la vegn ona crostisina brustolida e compatta.
+1	formaa	formà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	TokenRange=158669:158675
+2	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=158676:158678
+3	tortin	tortin	NOUN	S	Gender=Masc	1	obj	_	TokenRange=158679:158685
+4	bass	bass	ADJ	A	_	3	amod	_	SpaceAfter=No|TokenRange=158686:158690
+5	,	,	PUNCT	FF	_	1	punct	_	TokenRange=158690:158691
+6	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	TokenRange=158692:158694
+7	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	TokenRange=158695:158697
+8	fà	fà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=158698:158700
+9	scaldà	scaldà	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	TokenRange=158701:158707
+10	in	in	ADP	E	_	13	case	_	TokenRange=158708:158710
+11	d'	di	ADP	E	_	10	fixed	_	SpaceAfter=No|TokenRange=158711:158713
+12	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	TokenRange=158713:158716
+13	biella	biella	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	TokenRange=158717:158723
+14	cont	cont	ADP	E	_	15	case	_	TokenRange=158724:158728
+15	butter	butter	NOUN	S	Gender=Masc	13	nmod	_	TokenRange=158729:158735
+16	cald	cald	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	TokenRange=158736:158740
+17	in	in	ADP	E	_	19	case	_	TokenRange=158741:158743
+18	duu	duu	NUM	N	NumType=Card	19	nummod	_	TokenRange=158744:158747
+19	temp	temp	NOUN	S	Gender=Masc	8	obl	_	SpaceAfter=No|TokenRange=158748:158752
+20	,	,	PUNCT	FF	_	8	punct	_	TokenRange=158752:158753
+21	fin	fin	ADV	B	_	25	mark	_	TokenRange=158754:158757
+22	a	a	ADP	E	_	21	fixed	_	TokenRange=158758:158759
+23	che	che	SCONJ	CS	_	21	fixed	_	TokenRange=158760:158763
+24	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obj	_	TokenRange=158764:158766
+25	vegn	vegn	NOUN	S	Gender=Fem	8	advcl	_	TokenRange=158767:158771
+26	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	_	TokenRange=158772:158775
+27	crostisina	crostisina	NOUN	S	Gender=Fem|Number=Sing	25	nsubj	_	TokenRange=158776:158786
+28	brustolida	brustolido	ADJ	A	Gender=Fem|Number=Sing	27	amod	_	TokenRange=158787:158797
+29	e	e	CCONJ	CC	_	30	cc	_	TokenRange=158798:158799
+30	compatta	compatt	ADJ	A	Gender=Fem|Number=Sing	28	conj	_	SpaceAfter=No|TokenRange=158800:158808
+31	.	.	PUNCT	FS	_	8	punct	_	TokenRange=158808:158809
+
+# sent_id = lmo-mil-wiki-doc6-s1058
+# text = I coeugh brav a hinn bon de stravaccà el tortin domà cont on soll gest decis del pols, o vera cont on "salt".
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=158810:158811
+2	coeugh	coeugh	NOUN	S	Gender=Masc	5	nsubj	_	TokenRange=158812:158818
+3	brav	brav	ADJ	A	_	2	amod	_	TokenRange=158819:158823
+4	a	a	ADP	E	_	5	mark	_	TokenRange=158824:158825
+5	hinn	vess	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=158826:158830
+6	bon	bon	ADJ	A	Gender=Masc|Number=Sing	5	obj	_	TokenRange=158831:158834
+7	de	de	ADP	E	_	8	mark	_	TokenRange=158835:158837
+8	stravaccà	stravaccà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	advcl	_	TokenRange=158838:158847
+9	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=158848:158850
+10	tortin	tortin	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	TokenRange=158851:158857
+11	domà	domà	ADV	B	_	15	advmod	_	TokenRange=158858:158862
+12	cont	cont	ADP	E	_	15	case	_	TokenRange=158863:158867
+13	on	on	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	TokenRange=158868:158870
+14	soll	soll	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	TokenRange=158871:158875
+15	gest	gest	NOUN	S	Gender=Masc	8	obl	_	TokenRange=158876:158880
+16	decis	decis	X	SW	Foreign=Yes	15	compound	_	TokenRange=158881:158886
+17-18	del	_	_	_	_	_	_	_	TokenRange=158887:158890
+17	di	di	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	pols	pols	NOUN	S	Gender=Masc	15	nmod	_	SpaceAfter=No|TokenRange=158891:158895
+20	,	,	PUNCT	FF	_	22	punct	_	TokenRange=158895:158896
+21	o	o	CCONJ	CC	_	22	cc	_	TokenRange=158897:158898
+22	vera	ver	ADJ	A	Gender=Fem|Number=Sing	15	conj	_	TokenRange=158899:158903
+23	cont	cont	ADP	E	_	26	case	_	TokenRange=158904:158908
+24	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	TokenRange=158909:158911
+25	"	"	PUNCT	FB	_	26	punct	_	SpaceAfter=No|TokenRange=158912:158913
+26	salt	salt	NOUN	S	Gender=Masc	22	obl	_	SpaceAfter=No|TokenRange=158913:158917
+27	"	"	PUNCT	FB	_	26	punct	_	SpaceAfter=No|TokenRange=158917:158918
+28	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\r\n|TokenRange=158918:158919
+
+# sent_id = lmo-mil-wiki-doc6-s1059
+# text = In cagnon, "a la lodesana":
+1	In	in	ADP	E	_	2	case	_	TokenRange=158921:158923
+2	cagnon	cagnon	NOUN	S	_	7	nmod	_	SpaceAfter=No|TokenRange=158924:158930
+3	,	,	PUNCT	FF	_	2	punct	_	TokenRange=158930:158931
+4	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No|TokenRange=158932:158933
+5	a	a	ADP	E	_	7	case	_	TokenRange=158933:158934
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	TokenRange=158935:158937
+7	lodesana	lodesan	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=158938:158946
+8	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No|TokenRange=158946:158947
+9	:	:	PUNCT	FC	_	7	punct	_	TokenRange=158947:158948
+
+# sent_id = lmo-mil-wiki-doc6-s1060
+# text = ona preparazion succia diversa dal risòtt.
+1	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=158949:158952
+2	preparazion	preparazion	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	TokenRange=158953:158964
+3	succia	succiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=158965:158971
+4	diversa	diverso	PRON	PI	Gender=Fem|Number=Sing	3	xcomp	_	TokenRange=158972:158979
+5-6	dal	_	_	_	_	_	_	_	TokenRange=158980:158983
+5	da	da	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	risòtt	risòtt	NOUN	S	Gender=Masc	4	obl	_	SpaceAfter=No|TokenRange=158984:158990
+8	.	.	PUNCT	FS	_	3	punct	_	TokenRange=158990:158991
+
+
+# sent_id = lmo-mil-wiki-doc6-s1061
+# text = Buii in acqua, passaa in biella cont butter, aj e erba savia e sfronzonaa cont tant grana; sia l'acqua de cottura, sia el sofritt d'erba savia se poden insavorì 'mè se voeur.Comè "piatt unegh" el risòtt giald el se pò compagnà a l'òss bus, ai involtin, al rostin negaa, al manz in grass de ròst, ai quaj; bianch, a filett de persigh fritt in butter e erba savia putost che in cotoletta.
+1	Buii	buii	ADJ	A	Gender=Masc|Number=Plur	0	root	_	TokenRange=158992:158996
+2	in	in	ADP	E	_	3	case	_	TokenRange=158997:158999
+3	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No|TokenRange=159000:159005
+4	,	,	PUNCT	FF	_	5	punct	_	TokenRange=159005:159006
+5	passaa	passaa	VERB	V	Gender=Fem|Number=Sing	1	conj	_	TokenRange=159007:159013
+6	in	in	ADP	E	_	7	case	_	TokenRange=159014:159016
+7	biella	biella	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	TokenRange=159017:159023
+8	cont	cont	ADP	E	_	9	case	_	TokenRange=159024:159028
+9	butter	butter	NOUN	S	Gender=Masc	5	obl	_	SpaceAfter=No|TokenRange=159029:159035
+10	,	,	PUNCT	FF	_	11	punct	_	TokenRange=159035:159036
+11	aj	aj	NOUN	S	_	9	conj	_	TokenRange=159037:159039
+12	e	e	CCONJ	CC	_	13	cc	_	TokenRange=159040:159041
+13	erba	erba	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	TokenRange=159042:159046
+14	savia	savia	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	TokenRange=159047:159052
+15	e	e	CCONJ	CC	_	16	cc	_	TokenRange=159053:159054
+16	sfronzonaa	sfronzonaa	ADJ	A	Gender=Fem|Number=Sing	1	conj	_	TokenRange=159055:159065
+17	cont	cont	ADP	E	_	19	case	_	TokenRange=159066:159070
+18	tant	tant	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	19	det	_	TokenRange=159071:159075
+19	grana	grana	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No|TokenRange=159076:159081
+20	;	;	PUNCT	FC	_	1	punct	_	TokenRange=159081:159082
+21	sia	sia	CCONJ	CC	_	23	cc	_	TokenRange=159083:159086
+22	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No|TokenRange=159087:159089
+23	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	35	nsubj:pass	_	TokenRange=159089:159094
+24	de	de	ADP	E	_	25	case	_	TokenRange=159095:159097
+25	cottura	cottura	NOUN	S	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No|TokenRange=159098:159105
+26	,	,	PUNCT	FF	_	29	punct	_	TokenRange=159105:159106
+27	sia	sia	CCONJ	CC	_	29	cc	_	TokenRange=159107:159110
+28	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	TokenRange=159111:159113
+29	sofritt	sofritt	NOUN	S	Gender=Masc|Number=Sing	23	conj	_	TokenRange=159114:159121
+30	d'	di	ADP	E	_	31	case	_	SpaceAfter=No|TokenRange=159122:159124
+31	erba	erba	NOUN	S	Gender=Fem|Number=Sing	29	nmod	_	TokenRange=159124:159128
+32	savia	savio	ADJ	A	Gender=Fem|Number=Sing	31	amod	_	TokenRange=159129:159134
+33	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	35	expl:pass	_	TokenRange=159135:159137
+34	poden	podene	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	35	aux	_	TokenRange=159138:159143
+35	insavorì	insavorì	VERB	V	VerbForm=Inf	1	conj	_	TokenRange=159144:159152
+36	'	'	PUNCT	FB	_	35	punct	_	SpaceAfter=No|TokenRange=159153:159154
+37	mè	mè	ADV	CS	_	35	mark	_	TokenRange=159154:159156
+38	se	se	SCONJ	CS	_	42	mark	_	TokenRange=159157:159159
+39	voeur.Com	voeur	X	_	_	_	_	_	SpaceAfter=No|TokenRange=159160:159169
+40	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	cop	_	TokenRange=159169:159170
+41	"	"	PUNCT	FB	_	42	punct	_	SpaceAfter=No|TokenRange=159171:159172
+42	piatt	piatt	NOUN	S	Gender=Masc|Number=Sing	35	advcl	_	TokenRange=159172:159177
+43	unegh	unegh	ADJ	A	_	42	amod	_	SpaceAfter=No|TokenRange=159178:159183
+44	"	"	PUNCT	FB	_	42	punct	_	TokenRange=159183:159184
+45	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	_	TokenRange=159185:159187
+46	risòtt	risòtt	NOUN	S	Gender=Masc	51	nsubj	_	TokenRange=159188:159194
+47	giald	giald	ADJ	A	Number=Sing	46	amod	_	TokenRange=159195:159200
+48	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	51	obj	_	TokenRange=159201:159203
+49	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	51	expl	_	TokenRange=159204:159206
+50	pò	podè	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	51	aux	_	TokenRange=159207:159209
+51	compagnà	compagnà	VERB	V	VerbForm=Inf	35	advcl	_	TokenRange=159210:159218
+52	a	a	ADP	E	_	54	case	_	TokenRange=159219:159220
+53	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	54	det	_	SpaceAfter=No|TokenRange=159221:159223
+54	òss	òss	NOUN	S	Gender=Masc	51	obl	_	TokenRange=159223:159226
+55	bus	bus	NOUN	S	Gender=Masc	54	compound	_	SpaceAfter=No|TokenRange=159227:159230
+56	,	,	PUNCT	FF	_	59	punct	_	TokenRange=159230:159231
+57-58	ai	_	_	_	_	_	_	_	TokenRange=159232:159234
+57	a	a	ADP	E	_	59	case	_	_
+58	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	59	det	_	_
+59	involtin	involtin	NOUN	S	Gender=Masc|Number=Plur	54	conj	_	SpaceAfter=No|TokenRange=159235:159243
+60	,	,	PUNCT	FF	_	63	punct	_	TokenRange=159243:159244
+61-62	al	_	_	_	_	_	_	_	TokenRange=159245:159247
+61	a	a	ADP	E	_	63	case	_	_
+62	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	63	det	_	_
+63	rostin	rostin	NOUN	S	Gender=Masc	54	conj	_	TokenRange=159248:159254
+64	negaa	negaa	ADJ	A	Gender=Fem|Number=Sing	63	amod	_	SpaceAfter=No|TokenRange=159255:159260
+65	,	,	PUNCT	FF	_	68	punct	_	TokenRange=159260:159261
+66-67	al	_	_	_	_	_	_	_	TokenRange=159262:159264
+66	a	a	ADP	E	_	68	case	_	_
+67	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	68	det	_	_
+68	manz	manz	NOUN	S	Gender=Masc|Number=Sing	54	conj	_	TokenRange=159265:159269
+69	in	in	ADP	E	_	70	case	_	TokenRange=159270:159272
+70	grass	grass	NOUN	S	Gender=Masc	68	nmod	_	TokenRange=159273:159278
+71	de	de	ADP	E	_	72	case	_	TokenRange=159279:159281
+72	ròst	ròst	NOUN	S	Gender=Masc	70	nmod	_	SpaceAfter=No|TokenRange=159282:159286
+73	,	,	PUNCT	FF	_	76	punct	_	TokenRange=159286:159287
+74-75	ai	_	_	_	_	_	_	_	TokenRange=159288:159290
+74	a	a	ADP	E	_	76	case	_	_
+75	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	76	det	_	_
+76	quaj	quaj	NOUN	S	Gender=Masc	54	conj	_	SpaceAfter=No|TokenRange=159291:159295
+77	;	;	PUNCT	FC	_	76	punct	_	TokenRange=159295:159296
+78	bianch	bianch	ADJ	A	Gender=Masc|Number=Sing	51	conj	_	SpaceAfter=No|TokenRange=159297:159303
+79	,	,	PUNCT	FF	_	81	punct	_	TokenRange=159303:159304
+80	a	a	ADP	E	_	81	case	_	TokenRange=159305:159306
+81	filett	filett	NOUN	S	Gender=Fem|Number=Plur	54	conj	_	TokenRange=159307:159313
+82	de	de	ADP	E	_	83	case	_	TokenRange=159314:159316
+83	persigh	persigh	NOUN	S	Gender=Masc	81	nmod	_	TokenRange=159317:159324
+84	fritt	fritt	ADJ	A	Gender=Masc|Number=Sing	81	amod	_	TokenRange=159325:159330
+85	in	in	ADP	E	_	86	case	_	TokenRange=159331:159333
+86	butter	butter	NOUN	S	Gender=Masc	84	obl	_	TokenRange=159334:159340
+87	e	e	CCONJ	CC	_	88	cc	_	TokenRange=159341:159342
+88	erba	erba	NOUN	S	Gender=Fem|Number=Sing	81	conj	_	TokenRange=159343:159347
+89	savia	savia	NOUN	S	Gender=Fem|Number=Sing	88	amod	_	TokenRange=159348:159353
+90	putost	putost	ADV	B	_	51	advmod	_	TokenRange=159354:159360
+91	che	che	ADP	E	_	90	fixed	_	TokenRange=159361:159364
+92	in	in	ADP	E	_	93	case	_	TokenRange=159365:159367
+93	cotoletta	cotoletta	NOUN	S	Gender=Fem|Number=Sing	90	obl	_	SpaceAfter=No|TokenRange=159368:159377
+94	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\r\n|TokenRange=159377:159378
+
+
+# sent_id = lmo-mil-wiki-doc6-s1062
+# text = El sommaron di possibel minester che se pòden ottegnì cont i prodott tipegh de la pianura lombarda a l'è 'l minestron a la milanesa:
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=159380:159382
+2	sommaron	sommaron	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	TokenRange=159383:159391
+3	di	di	ADP	E	_	5	case	_	TokenRange=159392:159394
+4	possibel	possibel	ADJ	A	_	5	amod	_	TokenRange=159395:159403
+5	minester	minester	NOUN	S	Gender=Masc	2	nmod	_	TokenRange=159404:159412
+6	che	che	PRON	PR	PronType=Rel	9	nsubj:pass	_	TokenRange=159413:159416
+7	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:pass	_	TokenRange=159417:159419
+8	pòden	podè	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	TokenRange=159420:159425
+9	ottegnì	ottegnì	VERB	V	VerbForm=Inf	5	acl:relcl	_	TokenRange=159426:159433
+10	cont	cont	ADP	E	_	12	case	_	TokenRange=159434:159438
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	TokenRange=159439:159440
+12	prodott	prodott	NOUN	S	Gender=Masc	9	obl	_	TokenRange=159441:159448
+13	tipegh	tipegh	ADJ	A	Gender=Masc	12	amod	_	TokenRange=159449:159455
+14	de	de	ADP	E	_	16	case	_	TokenRange=159456:159458
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	TokenRange=159459:159461
+16	pianura	pianura	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	TokenRange=159462:159469
+17	lombarda	lombard	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	TokenRange=159470:159478
+18	a	a	ADP	E	_	22	case	_	TokenRange=159479:159480
+19	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	22	det	_	SpaceAfter=No|TokenRange=159481:159483
+20	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	TokenRange=159483:159484
+21	'l	'l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	TokenRange=159485:159487
+22	minestron	minestron	NOUN	S	Gender=Masc	0	root	_	TokenRange=159488:159497
+23	a	a	ADP	E	_	25	case	_	TokenRange=159498:159499
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	TokenRange=159500:159502
+25	milanesa	milanes	ADJ	A	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No|TokenRange=159503:159511
+26	:	:	PUNCT	FC	_	22	punct	_	TokenRange=159511:159512
+
+# sent_id = lmo-mil-wiki-doc6-s1063
+# text = a partì di codegh de porscell, panscetta a tocchett e on battuu de lard e la "dotta" (seller, erborinn e carotol) in acqua freggia si metten-dent tucc i verdur disponibil (indispensabel fasoeu e pòmm de terra) in orden incontra ai temp de cottura; i verdur deven surbuii per almanca dò or.
+1	a	a	ADP	E	_	2	case	_	TokenRange=159513:159514
+2	partì	partì	NOUN	S	Gender=Fem	32	obl	_	TokenRange=159515:159520
+3	di	di	ADP	E	_	4	case	_	TokenRange=159521:159523
+4	codegh	codegh	NOUN	S	Gender=Masc	2	nmod	_	TokenRange=159524:159530
+5	de	de	ADP	E	_	6	case	_	TokenRange=159531:159533
+6	porscell	porscell	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No|TokenRange=159534:159542
+7	,	,	PUNCT	FF	_	8	punct	_	TokenRange=159542:159543
+8	panscetta	panscetta	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	TokenRange=159544:159553
+9	a	a	ADP	E	_	10	case	_	TokenRange=159554:159555
+10	tocchett	tocchett	NOUN	S	Gender=Masc	8	nmod	_	TokenRange=159556:159564
+11	e	e	CCONJ	CC	_	13	cc	_	TokenRange=159565:159566
+12	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	conj	_	TokenRange=159567:159569
+13	battuu	battuu	NOUN	N	_	12	flat:foreign	_	TokenRange=159570:159576
+14	de	de	ADP	E	_	15	case	_	TokenRange=159577:159579
+15	lard	lard	NOUN	N	Gender=Masc|Number=Sing	13	nmod	_	TokenRange=159580:159584
+16	e	e	CCONJ	CC	_	19	cc	_	TokenRange=159585:159586
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	TokenRange=159587:159589
+18	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No|TokenRange=159590:159591
+19	dotta	dotta	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No|TokenRange=159591:159596
+20	"	"	PUNCT	FB	_	19	punct	_	TokenRange=159596:159597
+21	(	(	PUNCT	FB	_	22	punct	_	SpaceAfter=No|TokenRange=159598:159599
+22	seller	seller	NOUN	S	Gender=Masc	19	appos	_	SpaceAfter=No|TokenRange=159599:159605
+23	,	,	PUNCT	FF	_	24	punct	_	TokenRange=159605:159606
+24	erborinn	erborinn	NOUN	S	Gender=Masc	22	conj	_	TokenRange=159607:159615
+25	e	e	CCONJ	CC	_	26	cc	_	TokenRange=159616:159617
+26	carotol	carotol	NOUN	S	Gender=Masc	22	conj	_	SpaceAfter=No|TokenRange=159618:159625
+27	)	)	PUNCT	FB	_	22	punct	_	TokenRange=159625:159626
+28	in	in	ADP	E	_	29	case	_	TokenRange=159627:159629
+29	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	TokenRange=159630:159635
+30	freggia	frègg	ADJ	A	Gender=Fem|Number=Sing	29	amod	_	TokenRange=159636:159643
+31	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	32	expl:pass	_	TokenRange=159644:159646
+32	metten	mètt	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=159647:159653
+33	-	-	PUNCT	FF	_	32	punct	_	SpaceAfter=No|TokenRange=159653:159654
+34	dent	dent	X	SW	_	32	advmod	_	TokenRange=159654:159658
+35	tucc	tucc	X	SW	_	32	advmod	_	TokenRange=159659:159663
+36	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	TokenRange=159664:159665
+37	verdur	verdur	NOUN	S	Gender=Masc	32	nsubj:pass	_	TokenRange=159666:159672
+38	disponibil	disponibil	ADJ	A	Number=Sing	37	amod	_	TokenRange=159673:159683
+39	(	(	PUNCT	FB	_	40	punct	_	SpaceAfter=No|TokenRange=159684:159685
+40	indispensabel	indispensabel	ADJ	A	_	37	amod	_	TokenRange=159685:159698
+41	fasoeu	fasoeu	NOUN	S	_	40	compound	_	TokenRange=159699:159705
+42	e	e	CCONJ	CC	_	43	cc	_	TokenRange=159706:159707
+43	pòmm	pòmm	NOUN	S	_	41	conj	_	TokenRange=159708:159712
+44	de	de	ADP	E	_	45	case	_	TokenRange=159713:159715
+45	terra	terra	NOUN	S	Gender=Fem|Number=Sing	43	nmod	_	SpaceAfter=No|TokenRange=159716:159721
+46	)	)	PUNCT	FB	_	40	punct	_	TokenRange=159721:159722
+47	in	in	ADP	E	_	48	case	_	TokenRange=159723:159725
+48	orden	orden	NOUN	S	Gender=Masc	32	obl	_	TokenRange=159726:159731
+49	incontra	incontra	X	SW	Gender=Fem|Number=Sing	48	compound	_	TokenRange=159732:159740
+50-51	ai	_	_	_	_	_	_	_	TokenRange=159741:159743
+50	a	a	ADP	E	_	52	case	_	_
+51	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	52	det	_	_
+52	temp	temp	NOUN	S	Gender=Masc	32	obl	_	TokenRange=159744:159748
+53	de	de	ADP	E	_	54	case	_	TokenRange=159749:159751
+54	cottura	cottura	NOUN	S	Gender=Fem|Number=Sing	52	nmod	_	SpaceAfter=No|TokenRange=159752:159759
+55	;	;	PUNCT	FC	_	32	punct	_	TokenRange=159759:159760
+56	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	57	det	_	TokenRange=159761:159762
+57	verdur	verdur	NOUN	S	Gender=Masc	59	nsubj:pass	_	TokenRange=159763:159769
+58	deven	dovè	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	59	aux	_	TokenRange=159770:159775
+59	surbuii	surbue	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	32	parataxis	_	TokenRange=159776:159783
+60	per	per	ADP	E	_	61	case	_	TokenRange=159784:159787
+61	almanca	almanca	ADV	B	_	59	advmod	_	TokenRange=159788:159795
+62	dò	dò	NUM	N	NumType=Card	63	nummod	_	TokenRange=159796:159798
+63	or	or	NOUN	S	Gender=Masc	61	nmod	_	SpaceAfter=No|TokenRange=159799:159801
+64	.	.	PUNCT	FS	_	32	punct	_	TokenRange=159801:159802
+
+# sent_id = lmo-mil-wiki-doc6-s1064
+# text = A la fin, la verza e 'l ris, coeusuu invece sora ona fiammònna.
+1	A	a	ADP	E	_	3	case	_	TokenRange=159803:159804
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	TokenRange=159805:159807
+3	fin	fin	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No|TokenRange=159808:159811
+4	,	,	PUNCT	FF	_	3	punct	_	TokenRange=159811:159812
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=159813:159815
+6	verza	verza	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	TokenRange=159816:159821
+7	e	e	CCONJ	CC	_	9	cc	_	TokenRange=159822:159823
+8	'l	'l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	TokenRange=159824:159826
+9	ris	ris	NOUN	S	Gender=Masc	6	conj	_	SpaceAfter=No|TokenRange=159827:159830
+10	,	,	PUNCT	FF	_	6	punct	_	TokenRange=159830:159831
+11	coeusuu	coeus	VERB	V	Gender=Masc|Number=Plur	0	root	_	TokenRange=159832:159839
+12	invece	invece	ADV	B	_	11	advmod	_	TokenRange=159840:159846
+13	sora	sora	ADP	E	_	15	case	_	TokenRange=159847:159851
+14	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	TokenRange=159852:159855
+15	fiammònna	fiammònna	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No|TokenRange=159856:159865
+16	.	.	PUNCT	FS	_	11	punct	_	TokenRange=159865:159866
+
+# sent_id = lmo-mil-wiki-doc6-s1065
+# text = Se i ingredient se desfen, el broeud el deventa pussee corpos e savorii.
+1	Se	se	SCONJ	CS	_	5	mark	_	TokenRange=159867:159869
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	TokenRange=159870:159871
+3	ingredient	ingredient	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	TokenRange=159872:159882
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	TokenRange=159883:159885
+5	desfen	desfà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No|TokenRange=159886:159892
+6	,	,	PUNCT	FF	_	5	punct	_	TokenRange=159892:159893
+7	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=159894:159896
+8	broeud	broeud	NOUN	S	Gender=Masc	10	nsubj	_	TokenRange=159897:159903
+9	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	TokenRange=159904:159906
+10	deventa	deventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=159907:159914
+11	pussee	pussee	ADV	B	_	12	advmod	_	TokenRange=159915:159921
+12	corpos	corpos	ADJ	A	Gender=Masc|Number=Sing	10	xcomp	_	TokenRange=159922:159928
+13	e	e	CCONJ	CC	_	14	cc	_	TokenRange=159929:159930
+14	savorii	savorii	ADJ	A	Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No|TokenRange=159931:159938
+15	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\r\n|TokenRange=159938:159939
+
+sent_id = lmo-mil-wiki-doc6-s1066
+# text = "Fra noi, il riso si suole maritare con erbaggi e legumi e carnaggi...usanze che si possono dire quasi esclusivamente nostre", el dis el Cherubin menter a l'è dree a elencà i supp de la cusina milanesa; intra i pussee famos a gh'hinn: ris e zuccaAlter:
+1	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No|TokenRange=159941:159942
+2	Fra	fra	ADP	E	_	3	case	_	TokenRange=159942:159945
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	obl	_	SpaceAfter=No|TokenRange=159946:159949
+4	,	,	PUNCT	FF	_	3	punct	_	TokenRange=159949:159950
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=159951:159953
+6	riso	riso	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	TokenRange=159954:159958
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	TokenRange=159959:159961
+8	suole	suolere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=159962:159967
+9	maritare	maritare	VERB	V	VerbForm=Inf	8	ccomp	_	TokenRange=159968:159976
+10	con	con	ADP	E	_	11	case	_	TokenRange=159977:159980
+11	erbaggi	erbaggio	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	TokenRange=159981:159988
+12	e	e	CCONJ	CC	_	13	cc	_	TokenRange=159989:159990
+13	legumi	legume	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	TokenRange=159991:159997
+14	e	e	CCONJ	CC	_	15	cc	_	TokenRange=159998:159999
+15	carnaggi...usanze	carnaggi...usanze	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	TokenRange=160000:160017
+16	che	che	PRON	PR	PronType=Rel	19	nsubj:pass	_	TokenRange=160018:160021
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl:impers	_	TokenRange=160022:160024
+18	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	TokenRange=160025:160032
+19	dire	dire	VERB	V	VerbForm=Inf	15	acl:relcl	_	TokenRange=160033:160037
+20	quasi	quasi	ADV	B	_	21	advmod	_	TokenRange=160038:160043
+21	esclusivamente	esclusivamente	ADV	B	_	19	advmod	_	TokenRange=160044:160058
+22	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	19	obj	_	SpaceAfter=No|TokenRange=160059:160065
+23	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No|TokenRange=160065:160066
+24	,	,	PUNCT	FF	_	8	punct	_	TokenRange=160066:160067
+25	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	iobj	_	TokenRange=160068:160070
+26	dis	dì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	TokenRange=160071:160074
+27	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	TokenRange=160075:160077
+28	Cherubin	Cherubin	PROPN	SP	_	26	nsubj	_	TokenRange=160078:160086
+29	menter	menter	NOUN	S	_	26	nsubj	_	TokenRange=160087:160093
+30	a	a	ADP	E	_	32	case	_	TokenRange=160094:160095
+31	l'	il	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	33	det	_	SpaceAfter=No|TokenRange=160096:160098
+32	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cop	_	TokenRange=160098:160099
+33	dree	dree	NOUN	S	Gender=Fem|Number=Sing	26	ccomp	_	TokenRange=160100:160104
+34	a	a	ADP	E	_	35	mark	_	TokenRange=160105:160106
+35	elencà	elencà	VERB	V	VerbForm=Inf	33	advcl	_	TokenRange=160107:160113
+36	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	TokenRange=160114:160115
+37	supp	supp	NOUN	S	Gender=Masc	35	obj	_	TokenRange=160116:160120
+38	de	de	ADP	E	_	40	case	_	TokenRange=160121:160123
+39	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	TokenRange=160124:160126
+40	cusina	cusina	NOUN	S	Gender=Fem|Number=Sing	37	nmod	_	TokenRange=160127:160133
+41	milanesa	milanes	ADJ	A	Gender=Fem|Number=Sing	40	amod	_	SpaceAfter=No|TokenRange=160134:160142
+42	;	;	PUNCT	FC	_	33	punct	_	TokenRange=160142:160143
+43	intra	intra	ADP	E	_	46	case	_	TokenRange=160144:160149
+44	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	46	det	_	TokenRange=160150:160151
+45	pussee	pussee	ADV	B	_	46	amod	_	TokenRange=160152:160158
+46	famos	famos	ADJ	A	Gender=Masc|Number=Plur	49	obl	_	TokenRange=160159:160164
+47	a	a	ADP	E	_	48	case	_	TokenRange=160165:160166
+48	gh'	gh'	PRON	SW	_	49	obl	_	SpaceAfter=No|TokenRange=160167:160170
+49	hinn	vess	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	SpaceAfter=No|TokenRange=160170:160174
+50	:	:	PUNCT	FC	_	49	punct	_	SpacesAfter=\r\n|TokenRange=160174:160175
+51	ris	ris	NOUN	S	Gender=Masc	49	nsubj	_	TokenRange=160177:160180
+52	e	e	CCONJ	CC	_	53	cc	_	TokenRange=160181:160182
+53-54	zuccaAlter	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=160183:160193
+53	zucca	zucca	NOUN	S	Gender=Fem|Number=Sing	51	conj	_	_
+54	Alter	alter	ADJ	A	Gender=Masc|Number=Sing	55	_	_	_
+55	:	:	PUNCT	FC	_	8	punct	_	SpacesAfter=\r\n|TokenRange=160193:160194
+
+# sent_id = lmo-mil-wiki-doc6-s1067
+# text = Busecca a la milanesa.
+1	Busecca	busecca	NOUN	S	Gender=Fem|Number=Sing	0	root	_	TokenRange=160196:160203
+2	a	a	ADP	E	_	4	case	_	TokenRange=160204:160205
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	TokenRange=160206:160208
+4	milanesa	milanes	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No|TokenRange=160209:160217
+5	.	.	PUNCT	FS	_	1	punct	_	TokenRange=160217:160218
+
+# sent_id = lmo-mil-wiki-doc6-s1068
+# text = In alternativa, la pò vess considerada ona suppa, un piatt unegh putost che ona pitanza.
+1	In	in	ADP	E	_	2	case	_	TokenRange=160219:160221
+2	alternativa	alternativa	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=160222:160233
+3	,	,	PUNCT	FF	_	2	punct	_	TokenRange=160233:160234
+4	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	TokenRange=160235:160237
+5	pò	podè	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	TokenRange=160238:160240
+6	vess	vess	AUX	VA	VerbForm=Inf	7	aux:pass	_	TokenRange=160241:160245
+7	considerada	considerà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=160246:160257
+8	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	TokenRange=160258:160261
+9	suppa	suppa	NOUN	S	Gender=Fem|Number=Sing	7	xcomp	_	SpaceAfter=No|TokenRange=160262:160267
+10	,	,	PUNCT	FF	_	12	punct	_	TokenRange=160267:160268
+11	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	TokenRange=160269:160271
+12	piatt	piatt	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	TokenRange=160272:160277
+13	unegh	unegh	X	SW	_	12	compound	_	TokenRange=160278:160283
+14	putost	putost	X	SW	_	13	fixed	_	TokenRange=160284:160290
+15	che	che	ADP	E	_	17	case	_	TokenRange=160291:160294
+16	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	TokenRange=160295:160298
+17	pitanza	pitanza	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No|TokenRange=160299:160306
+18	.	.	PUNCT	FS	_	7	punct	_	TokenRange=160306:160307
+
+# sent_id = lmo-mil-wiki-doc6-s1069
+# text = Rosolii per des megnuu i busecch de videll in on sofritt de butter, lard, scigolla, seller a tocchei, carotol a fettit e erba savia, giongii acqua, on tocch de cova de manz, tomates e fasoeu borlòtt.
+1	Rosolii	rosolio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	TokenRange=160308:160315
+2	per	per	ADP	E	_	3	case	_	TokenRange=160316:160319
+3	des	des	X	SW	Foreign=Yes	1	nmod	_	TokenRange=160320:160323
+4	megnuu	megnuu	ADV	B	_	3	fixed	_	TokenRange=160324:160330
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	TokenRange=160331:160332
+6	busecch	busecch	NOUN	S	Gender=Masc	1	nmod	_	TokenRange=160333:160340
+7	de	de	ADP	E	_	8	case	_	TokenRange=160341:160343
+8	videll	videll	NOUN	S	Gender=Masc	6	nmod	_	TokenRange=160344:160350
+9	in	in	ADP	E	_	11	case	_	TokenRange=160351:160353
+10	on	on	X	SW	Foreign=Yes	6	nmod	_	TokenRange=160354:160356
+11	sofritt	sofritt	X	SW	Foreign=Yes	10	nmod	_	TokenRange=160357:160364
+12	de	de	ADP	E	_	13	case	_	TokenRange=160365:160367
+13	butter	butter	X	SW	Foreign=Yes	11	nmod	_	SpaceAfter=No|TokenRange=160368:160374
+14	,	,	PUNCT	FF	_	15	punct	_	TokenRange=160374:160375
+15	lard	lard	NOUN	S	Gender=Masc	11	conj	_	SpaceAfter=No|TokenRange=160376:160380
+16	,	,	PUNCT	FF	_	17	punct	_	TokenRange=160380:160381
+17	scigolla	scigolla	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No|TokenRange=160382:160390
+18	,	,	PUNCT	FF	_	19	punct	_	TokenRange=160390:160391
+19	seller	seller	NOUN	S	Gender=Masc	11	conj	_	TokenRange=160392:160398
+20	a	a	ADP	E	_	21	case	_	TokenRange=160399:160400
+21	tocchei	tocch	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No|TokenRange=160401:160408
+22	,	,	PUNCT	FF	_	23	punct	_	TokenRange=160408:160409
+23	carotol	carotol	NOUN	S	Gender=Masc	11	conj	_	TokenRange=160410:160417
+24	a	a	ADP	E	_	25	case	_	TokenRange=160418:160419
+25	fettit	fettit	NOUN	S	Gender=Fem	23	nmod	_	TokenRange=160420:160426
+26	e	e	CCONJ	CC	_	27	cc	_	TokenRange=160427:160428
+27	erba	erba	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	TokenRange=160429:160433
+28	savia	savia	NOUN	S	Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No|TokenRange=160434:160439
+29	,	,	PUNCT	FF	_	30	punct	_	TokenRange=160439:160440
+30	giongii	giongio	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	TokenRange=160441:160448
+31	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	30	compound	_	SpaceAfter=No|TokenRange=160449:160454
+32	,	,	PUNCT	FF	_	34	punct	_	TokenRange=160454:160455
+33	on	on	X	SW	Foreign=Yes	34	nmod	_	TokenRange=160456:160458
+34	tocch	tocch	NOUN	S	Gender=Masc	30	conj	_	TokenRange=160459:160464
+35	de	de	ADP	E	_	36	case	_	TokenRange=160465:160467
+36	cova	cova	NOUN	S	Gender=Fem|Number=Sing	34	nmod	_	TokenRange=160468:160472
+37	de	de	ADP	E	_	38	case	_	TokenRange=160473:160475
+38	manz	manz	NOUN	S	Gender=Fem|Number=Plur	34	nmod	_	SpaceAfter=No|TokenRange=160476:160480
+39	,	,	PUNCT	FF	_	40	punct	_	TokenRange=160480:160481
+40	tomates	tomates	NOUN	S	Gender=Masc	13	conj	_	TokenRange=160482:160489
+41	e	e	CCONJ	CC	_	42	cc	_	TokenRange=160490:160491
+42	fasoeu	fasoeu	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	TokenRange=160492:160498
+43	borlòtt	borlòtt	NOUN	S	_	42	compound	_	SpaceAfter=No|TokenRange=160499:160506
+44	.	.	PUNCT	FS	_	1	punct	_	TokenRange=160506:160507
+
+# sent_id = lmo-mil-wiki-doc6-s1070
+# text = Duu or e mezz de cottura quattada cont el coverc, a foeugh consc , lassand ripossà a la fin inscì che la "scuma"; servì cont bondanzios formaj grattaa-giò.
+1	Duu	duu	NUM	N	NumType=Card	2	nummod	_	TokenRange=160508:160511
+2	or	or	NOUN	S	_	0	root	_	TokenRange=160512:160514
+3	e	e	CCONJ	CC	_	4	cc	_	TokenRange=160515:160516
+4	mezz	mezz	NOUN	S	_	2	conj	_	TokenRange=160517:160521
+5	de	de	ADP	E	_	6	case	_	TokenRange=160522:160524
+6	cottura	cottura	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	TokenRange=160525:160532
+7	quattada	quattà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	TokenRange=160533:160541
+8	cont	cont	ADP	E	_	10	case	_	TokenRange=160542:160546
+9	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=160547:160549
+10	coverc	coverc	NOUN	S	Gender=Masc	7	obl	_	SpaceAfter=No|TokenRange=160550:160556
+11	,	,	PUNCT	FF	_	13	punct	_	TokenRange=160556:160557
+12	a	a	ADP	E	_	13	case	_	TokenRange=160558:160559
+13	foeugh	foeugh	NOUN	S	Gender=Masc	2	conj	_	TokenRange=160560:160566
+14	consc	consciaa	ADJ	A	_	13	amod	_	TokenRange=160567:160572
+15	,	,	PUNCT	FF	_	16	punct	_	TokenRange=160573:160574
+16	lassand	lassà	VERB	V	VerbForm=Ger	2	conj	_	TokenRange=160575:160582
+17	ripossà	ripossà	VERB	V	VerbForm=Inf	16	obj	_	TokenRange=160583:160590
+18	a	a	ADP	E	_	20	case	_	TokenRange=160591:160592
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	TokenRange=160593:160595
+20	fin	fino	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	TokenRange=160596:160599
+21	inscì	inscì	ADV	B	_	25	advmod	_	TokenRange=160600:160605
+22	che	che	SCONJ	CS	_	25	case	_	TokenRange=160606:160609
+23	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	TokenRange=160610:160612
+24	"	"	PUNCT	FB	_	25	punct	_	SpaceAfter=No|TokenRange=160613:160614
+25	scuma	scuma	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No|TokenRange=160614:160619
+26	"	"	PUNCT	FB	_	25	punct	_	SpaceAfter=No|TokenRange=160619:160620
+27	;	;	PUNCT	FC	_	2	punct	_	TokenRange=160620:160621
+28	servì	servì	VERB	V	VerbForm=Inf	2	parataxis	_	TokenRange=160622:160627
+29	cont	cont	ADP	E	_	30	case	_	TokenRange=160628:160632
+30	bondanzios	bondanzios	X	SW	_	28	obl	_	TokenRange=160633:160643
+31	formaj	formaj	X	SW	_	30	compound	_	TokenRange=160644:160650
+32	grattaa	grattaa	ADJ	A	_	30	amod	_	SpaceAfter=No|TokenRange=160651:160658
+33	-	-	PUNCT	FF	_	32	punct	_	SpaceAfter=No|TokenRange=160658:160659
+34	giò	giò	ADV	B	_	32	advmod	_	SpaceAfter=No|TokenRange=160659:160662
+35	.	.	PUNCT	FS	_	2	punct	_	TokenRange=160662:160663
+
+# sent_id = lmo-mil-wiki-doc6-s1071
+# text = Ona variant: fojoeu cont i borlòtt. Costoletta a la milanesa.
+1	Ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=160664:160667
+2	variant	variant	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=160668:160675
+3	:	:	PUNCT	FC	_	2	punct	_	TokenRange=160675:160676
+4	fojoeu	fojoeu	X	SW	_	2	appos	_	TokenRange=160677:160683
+5	cont	cont	ADP	E	_	7	case	_	TokenRange=160684:160688
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	TokenRange=160689:160690
+7	borlòtt.	borlòtt	NOUN	S	_	4	obl	_	SpacesAfter=\r\n|TokenRange=160691:160699
+8	Costoletta	Costoletta	PROPN	SP	_	4	nmod	_	TokenRange=160701:160711
+9	a	a	ADP	E	_	11	case	_	TokenRange=160712:160713
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	TokenRange=160714:160716
+11	milanesa	milanes	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No|TokenRange=160717:160725
+12	.	.	PUNCT	FS	_	2	punct	_	TokenRange=160725:160726
+
+# sent_id = lmo-mil-wiki-doc6-s1072
+# text = Costoletta de videll tajada dal carré, cont l'òss, impanada e friggiuda in del butter sora ona fiammòna.
+1	Costoletta	costoletta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	TokenRange=160727:160737
+2	de	de	ADP	E	_	3	case	_	TokenRange=160738:160740
+3	videll	videll	NOUN	S	Gender=Masc	1	nmod	_	TokenRange=160741:160747
+4	tajada	tajadare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	TokenRange=160748:160754
+5-6	dal	_	_	_	_	_	_	_	TokenRange=160755:160758
+5	da	da	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	carré	carré	NOUN	S	Gender=Masc	4	obl:agent	_	SpaceAfter=No|TokenRange=160759:160764
+8	,	,	PUNCT	FF	_	11	punct	_	TokenRange=160764:160765
+9	cont	cont	ADP	E	_	11	case	_	TokenRange=160766:160770
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No|TokenRange=160771:160773
+11	òss	òss	NOUN	S	Gender=Masc	7	conj	_	SpaceAfter=No|TokenRange=160773:160776
+12	,	,	PUNCT	FF	_	13	punct	_	TokenRange=160776:160777
+13	impanada	impanad	ADJ	A	Gender=Fem|Number=Sing	4	conj	_	TokenRange=160778:160786
+14	e	e	CCONJ	CC	_	15	cc	_	TokenRange=160787:160788
+15	friggiuda	friggiud	ADJ	A	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	TokenRange=160789:160798
+16	in	in	ADP	E	_	19	case	_	TokenRange=160799:160801
+17-18	del	_	_	_	_	_	_	_	TokenRange=160802:160805
+17	di	di	ADP	E	_	16	fixed	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	butter	butter	NOUN	S	Gender=Masc	15	obl	_	TokenRange=160806:160812
+20	sora	sora	ADP	E	_	22	case	_	TokenRange=160813:160817
+21	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	TokenRange=160818:160821
+22	fiammòna	fiammòna	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No|TokenRange=160822:160830
+23	.	.	PUNCT	FS	_	1	punct	_	TokenRange=160830:160831
+
+# sent_id = lmo-mil-wiki-doc6-s1073
+# text = Per fala pussee bona, se doverïa ciappà el civett (el videll giovin comè), tajal cont on spessor tucc inguaa, infrollil almanca on dì, mondal ben de tucc i legament cont l'òss e rilassal cont el batticarna.
+1	Per	per	ADP	E	_	2	case	_	TokenRange=160832:160835
+2	fala	fala	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	TokenRange=160836:160840
+3	pussee	pussee	ADV	B	_	4	advmod	_	TokenRange=160841:160847
+4	bona	bon	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No|TokenRange=160848:160852
+5	,	,	PUNCT	FF	_	2	punct	_	TokenRange=160852:160853
+6	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	TokenRange=160854:160856
+7	doverïa	doverïà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	TokenRange=160857:160864
+8	ciappà	ciappà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	TokenRange=160865:160871
+9	el	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=160872:160874
+10	civett	civett	NOUN	S	Gender=Masc	8	obj	_	TokenRange=160875:160881
+11	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No|TokenRange=160882:160883
+12	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	TokenRange=160883:160885
+13	videll	videll	NOUN	S	Gender=Masc|Number=Sing	10	appos	_	TokenRange=160886:160892
+14	giovin	giovin	NOUN	S	_	13	compound	_	TokenRange=160893:160899
+15	comè	comè	ADV	B	_	14	advmod	_	SpaceAfter=No|TokenRange=160900:160904
+16	)	)	PUNCT	FB	_	13	punct	_	SpaceAfter=No|TokenRange=160904:160905
+17	,	,	PUNCT	FF	_	18	punct	_	TokenRange=160905:160906
+18	tajal	tajal	X	S	_	10	conj	_	TokenRange=160907:160912
+19	cont	cont	ADP	E	_	21	case	_	TokenRange=160913:160917
+20	on	on	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	21	det	_	TokenRange=160918:160920
+21	spessor	spessor	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	TokenRange=160921:160928
+22	tucc	tucc	ADV	B	_	23	advmod	_	TokenRange=160929:160933
+23	inguaa	inguaa	ADJ	A	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No|TokenRange=160934:160940
+24	,	,	PUNCT	FF	_	25	punct	_	TokenRange=160940:160941
+25	infrollil	infrollil	VERB	V	_	18	conj	_	TokenRange=160942:160951
+26	almanca	almanca	ADV	B	_	25	advmod	_	TokenRange=160952:160959
+27	on	on	X	SW	Foreign=Yes	25	obl	_	TokenRange=160960:160962
+28	dì	dì	X	SW	Foreign=Yes	27	flat:foreign	_	SpaceAfter=No|TokenRange=160963:160965
+29	,	,	PUNCT	FF	_	30	punct	_	TokenRange=160965:160966
+30	mondal	mondal	VERB	V	_	8	conj	_	TokenRange=160967:160973
+31	ben	ben	ADV	B	_	30	advmod	_	TokenRange=160974:160977
+32	de	de	ADP	E	_	35	case	_	TokenRange=160978:160980
+33	tucc	tucc	DET	T	Gender=Masc|Number=Plur|PronType=Ind	35	det:predet	_	TokenRange=160981:160985
+34	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	35	det	_	TokenRange=160986:160987
+35	legament	legament	NOUN	S	Gender=Masc|Number=Plur	30	obl	_	TokenRange=160988:160996
+36	cont	cont	ADP	E	_	38	case	_	TokenRange=160997:161001
+37	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	38	det	_	SpaceAfter=No|TokenRange=161002:161004
+38	òss	òss	NOUN	S	Gender=Masc	35	nmod	_	TokenRange=161004:161007
+39	e	e	CCONJ	CC	_	40	cc	_	TokenRange=161008:161009
+40	rilassal	rilassal	ADJ	A	_	35	conj	_	TokenRange=161010:161018
+41	cont	cont	ADP	E	_	43	case	_	TokenRange=161019:161023
+42	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	TokenRange=161024:161026
+43	batticarna	batticarna	NOUN	S	Gender=Masc|Number=Sing	40	obl	_	SpaceAfter=No|TokenRange=161027:161037
+44	.	.	PUNCT	FS	_	8	punct	_	TokenRange=161037:161038
+
+# sent_id = lmo-mil-wiki-doc6-s1074
+# text = Donca, se doverïa passà i bistecch chì in de l'oeuv sbattuu e impanai dent ona mollica (minga veggia) de pan bianch, apena prima de la cottura;
+1	Donca	donca	ADV	B	_	5	advmod	_	SpaceAfter=No|TokenRange=161039:161044
+2	,	,	PUNCT	FF	_	1	punct	_	TokenRange=161044:161045
+3	se	se	SCONJ	CS	_	5	mark	_	TokenRange=161046:161048
+4	doverïa	doverïà	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=161049:161056
+5	passà	passà	VERB	V	VerbForm=Inf	0	root	_	TokenRange=161057:161062
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	TokenRange=161063:161064
+7	bistecch	bistecch	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	TokenRange=161065:161073
+8	chì	chì	ADV	B	_	5	advmod	_	TokenRange=161074:161077
+9	in	in	ADP	E	_	12	case	_	TokenRange=161078:161080
+10	de	de	ADP	E	_	9	fixed	_	TokenRange=161081:161083
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No|TokenRange=161084:161086
+12	oeuv	oeuv	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	TokenRange=161086:161090
+13	sbattuu	sbattuu	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	TokenRange=161091:161098
+14	e	e	CCONJ	CC	_	15	cc	_	TokenRange=161099:161100
+15	impanai	impanà	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	conj	_	TokenRange=161101:161108
+16	dent	dent	ADV	B	_	15	advmod	_	TokenRange=161109:161113
+17	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	TokenRange=161114:161117
+18	mollica	mollica	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	TokenRange=161118:161125
+19	(	(	PUNCT	FB	_	21	punct	_	SpaceAfter=No|TokenRange=161126:161127
+20	minga	minga	ADV	B	_	21	advmod	_	TokenRange=161127:161132
+21	veggia	veggio	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No|TokenRange=161133:161139
+22	)	)	PUNCT	FB	_	21	punct	_	TokenRange=161139:161140
+23	de	de	ADP	E	_	24	case	_	TokenRange=161141:161143
+24	pan	pan	NOUN	S	Gender=Masc	18	nmod	_	TokenRange=161144:161147
+25	bianch	bianch	ADJ	A	Gender=Masc|Number=Sing	24	amod	_	SpaceAfter=No|TokenRange=161148:161154
+26	,	,	PUNCT	FF	_	18	punct	_	TokenRange=161154:161155
+27	apena	apena	ADV	B	_	31	advmod	_	TokenRange=161156:161161
+28	prima	prima	ADV	B	_	31	case	_	TokenRange=161162:161167
+29	de	de	ADP	E	_	28	fixed	_	TokenRange=161168:161170
+30	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	TokenRange=161171:161173
+31	cottura	cottura	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No|TokenRange=161174:161181
+32	;	;	PUNCT	FC	_	5	punct	_	TokenRange=161181:161182
+
+# sent_id = lmo-mil-wiki-doc6-s1075
+# text = se friggen in padella piatta cont el butter fin a che la diventa de color de la niscioeula.
+1	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	TokenRange=161183:161185
+2	friggen	friggà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=161186:161193
+3	in	in	ADP	E	_	4	case	_	TokenRange=161194:161196
+4	padella	padella	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	TokenRange=161197:161204
+5	piatta	piatt	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	TokenRange=161205:161211
+6	cont	cont	ADP	E	_	8	case	_	TokenRange=161212:161216
+7	el	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=161217:161219
+8	butter	butter	NOUN	S	Gender=Masc	2	obl	_	TokenRange=161220:161226
+9	fin	fin	ADV	B	_	13	mark	_	TokenRange=161227:161230
+10	a	a	ADP	E	_	9	fixed	_	TokenRange=161231:161232
+11	che	che	SCONJ	CS	_	9	fixed	_	TokenRange=161233:161236
+12	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	TokenRange=161237:161239
+13	diventa	diventà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	TokenRange=161240:161247
+14	de	de	ADP	E	_	15	case	_	TokenRange=161248:161250
+15	color	color	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	TokenRange=161251:161256
+16	de	de	ADP	E	_	18	case	_	TokenRange=161257:161259
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	TokenRange=161260:161262
+18	niscioeula	niscioeula	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No|TokenRange=161263:161273
+19	.	.	PUNCT	FS	_	2	punct	_	TokenRange=161273:161274
+
+# sent_id = lmo-mil-wiki-doc6-s1076
+# text = Al gh'è anca una version de la costoletta senza òss.
+1-2	Al	_	_	_	_	_	_	_	TokenRange=161275:161277
+1	A	a	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	gh'	gh'	PRON	S	Gender=Masc	4	obl	_	SpaceAfter=No|TokenRange=161278:161281
+4	è	vess	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=161281:161282
+5	anca	anca	ADV	B	_	4	advmod	_	TokenRange=161283:161287
+6	una	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	TokenRange=161288:161291
+7	version	version	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	TokenRange=161292:161299
+8	de	de	ADP	E	_	10	case	_	TokenRange=161300:161302
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	TokenRange=161303:161305
+10	costoletta	costoletta	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	TokenRange=161306:161316
+11	senza	senza	ADP	E	_	12	case	_	TokenRange=161317:161322
+12	òss	òss	NOUN	S	Gender=Masc	10	nmod	_	SpaceAfter=No|TokenRange=161323:161326
+13	.	.	PUNCT	FS	_	4	punct	_	TokenRange=161326:161327
+
+# sent_id = lmo-mil-wiki-doc6-s1077
+# text = Per falla ben se se doverïa batt la carne del videll per falla vegnì bella fina.
+1	Per	per	ADP	E	_	2	case	_	TokenRange=161328:161331
+2	falla	falla	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	TokenRange=161332:161337
+3	ben	ben	ADV	B	_	2	advmod	_	TokenRange=161338:161341
+4	se	se	SCONJ	CS	_	7	mark	_	TokenRange=161342:161344
+5	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	TokenRange=161345:161347
+6	doverïa	dovè	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	TokenRange=161348:161355
+7	batt	batt	VERB	V	VerbForm=Inf	15	advcl	_	TokenRange=161356:161360
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	TokenRange=161361:161363
+9	carne	carne	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	TokenRange=161364:161369
+10-11	del	_	_	_	_	_	_	_	TokenRange=161370:161373
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	videll	videll	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	TokenRange=161374:161380
+13	per	per	ADP	E	_	14	case	_	TokenRange=161381:161384
+14	falla	falla	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	TokenRange=161385:161390
+15	vegnì	vegnì	VERB	V	VerbForm=Inf	0	root	_	TokenRange=161391:161396
+16	bella	bell	ADJ	A	Gender=Fem|Number=Sing	15	xcomp	_	TokenRange=161397:161402
+17	fina	fin	ADJ	A	Gender=Fem|Number=Sing	15	xcomp	_	SpaceAfter=No|TokenRange=161403:161407
+18	.	.	PUNCT	FS	_	15	punct	_	TokenRange=161407:161408
+
+
+# sent_id = lmo-mil-wiki-doc6-s1078
+# text = Questa riceta chì la se ciama Oregia de Elefant.
+1	Questa	quest	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	TokenRange=161409:161415
+2	riceta	riceta	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	TokenRange=161416:161422
+3	chì	chì	ADV	B	_	6	advmod	_	TokenRange=161423:161426
+4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	TokenRange=161427:161429
+5	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	TokenRange=161430:161432
+6	ciama	ciamà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=161433:161438
+7	Oregia	Oregia	PROPN	SP	_	6	xcomp	_	TokenRange=161439:161445
+8	de	de	ADP	E	_	9	case	_	TokenRange=161446:161448
+9	Elefant.	Elefant.	PROPN	SP	_	7	nmod	_	SpacesAfter=\r\n|TokenRange=161449:161457
+
+# sent_id = lmo-mil-wiki-doc6-s1079
+# text = Cassoeula.
+1	Cassoeula	Cassoeula	PROPN	SP	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=161459:161468
+2	.	.	PUNCT	FS	_	1	punct	_	TokenRange=161468:161469
+
+# sent_id = lmo-mil-wiki-doc6-s1080
+# text = Antigh piatt descrivuu anca dal Peder Verri in de la sò Stòria de Milan, in quand el contava del secol XI e de la cottura rituala per fà vegnì-giò la piòva.
+1	Antigh	antigh	ADJ	A	_	2	amod	_	TokenRange=161470:161476
+2	piatt	piatt	NOUN	S	Gender=Masc	3	nsubj	_	TokenRange=161477:161482
+3	descrivuu	descrivuu	ADJ	A	Gender=Masc	0	root	_	TokenRange=161483:161492
+4	anca	anca	ADV	B	_	7	advmod	_	TokenRange=161493:161497
+5-6	dal	_	_	_	_	_	_	_	TokenRange=161498:161501
+5	da	da	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Peder	Peder	PROPN	SP	_	3	obl:agent	_	TokenRange=161502:161507
+8	Verri	Verri	PROPN	SP	_	7	flat:name	_	TokenRange=161508:161513
+9	in	in	ADP	E	_	13	case	_	TokenRange=161514:161516
+10	de	de	ADP	E	_	9	fixed	_	TokenRange=161517:161519
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	TokenRange=161520:161522
+12	sò	sò	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	TokenRange=161523:161525
+13	Stòria	stòria	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	TokenRange=161526:161532
+14	de	de	ADP	E	_	15	case	_	TokenRange=161533:161535
+15	Milan	Milan	PROPN	SP	_	13	nmod	_	SpaceAfter=No|TokenRange=161536:161541
+16	,	,	PUNCT	FF	_	3	punct	_	TokenRange=161541:161542
+17	in	in	ADP	E	_	20	mark	_	TokenRange=161543:161545
+18	quand	quand	ADV	B	_	17	fixed	_	TokenRange=161546:161551
+19	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	TokenRange=161552:161554
+20	contava	contà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	TokenRange=161555:161562
+21-22	del	_	_	_	_	_	_	_	TokenRange=161563:161566
+21	di	di	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	secol	secol	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	TokenRange=161567:161572
+24	XI	XI	ADJ	NO	Number=Sing|NumType=Ord	23	amod	_	TokenRange=161573:161575
+25	e	e	CCONJ	CC	_	28	cc	_	TokenRange=161576:161577
+26	de	de	ADP	E	_	28	case	_	TokenRange=161578:161580
+27	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	TokenRange=161581:161583
+28	cottura	cottura	NOUN	S	Gender=Fem|Number=Sing	23	conj	_	TokenRange=161584:161591
+29	rituala	ritual	ADJ	A	Gender=Fem|Number=Sing	28	amod	_	TokenRange=161592:161599
+30	per	per	ADP	E	_	31	mark	_	TokenRange=161600:161603
+31	fà	fà	VERB	V	VerbForm=Inf	28	acl	_	TokenRange=161604:161606
+32	vegnì	vegnì	VERB	V	VerbForm=Inf	31	ccomp	_	SpaceAfter=No|TokenRange=161607:161612
+33	-	-	PUNCT	FF	_	32	punct	_	SpaceAfter=No|TokenRange=161612:161613
+34	giò	giò	ADV	B	_	32	advmod	_	TokenRange=161613:161616
+35	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	TokenRange=161617:161619
+36	piòva	piòva	NOUN	S	Gender=Fem|Number=Sing	32	obj	_	SpaceAfter=No|TokenRange=161620:161625
+37	.	.	PUNCT	FS	_	3	punct	_	TokenRange=161625:161626
+
+# sent_id = lmo-mil-wiki-doc6-s1081
+# text = Per fà la cassoeula el se deven fà di cottur separaa:
+1	Per	per	ADP	E	_	2	mark	_	TokenRange=161627:161630
+2	fà	fà	VERB	V	VerbForm=Inf	7	advcl	_	TokenRange=161631:161633
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	TokenRange=161634:161636
+4	cassoeula	cassoeula	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	TokenRange=161637:161646
+5	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	TokenRange=161647:161649
+6	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	TokenRange=161650:161652
+7	deven	dovè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=161653:161658
+8	fà	fà	NOUN	S	VerbForm=Inf	7	obj	_	TokenRange=161659:161661
+9	di	di	ADP	E	_	10	case	_	TokenRange=161662:161664
+10	cottur	cottur	NOUN	S	Gender=Masc	8	nmod	_	TokenRange=161665:161671
+11	separaa	separaa	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	SpaceAfter=No|TokenRange=161672:161679
+12	:	:	PUNCT	FC	_	7	punct	_	TokenRange=161679:161680
+
+# sent_id = lmo-mil-wiki-doc6-s1082
+# text = curta per i costin e i luganeghitt e pussee longa per el pescin, la sgòlta, el musett, i codegh e i part pussee resistent; i verz, bondanzios, se metten-dent a la fin, inscì che se desfen minga.
+1	curta	curt	ADJ	A	Gender=Fem|Number=Sing	0	root	_	TokenRange=161681:161686
+2	per	per	ADP	E	_	4	case	_	TokenRange=161687:161690
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	TokenRange=161691:161692
+4	costin	costin	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	TokenRange=161693:161699
+5	e	e	CCONJ	CC	_	7	cc	_	TokenRange=161700:161701
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	TokenRange=161702:161703
+7	luganeghitt	luganeghitt	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	TokenRange=161704:161715
+8	e	e	CCONJ	CC	_	10	cc	_	TokenRange=161716:161717
+9	pussee	pussee	ADV	B	_	10	advmod	_	TokenRange=161718:161724
+10	longa	long	ADJ	A	Gender=Fem|Number=Sing	1	conj	_	TokenRange=161725:161730
+11	per	per	ADP	E	_	13	case	_	TokenRange=161731:161734
+12	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	TokenRange=161735:161737
+13	pescin	pescin	NOUN	S	Gender=Masc	10	obl	_	SpaceAfter=No|TokenRange=161738:161744
+14	,	,	PUNCT	FF	_	16	punct	_	TokenRange=161744:161745
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	TokenRange=161746:161748
+16	sgòlta	sgòlta	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No|TokenRange=161749:161755
+17	,	,	PUNCT	FF	_	19	punct	_	TokenRange=161755:161756
+18	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	TokenRange=161757:161759
+19	musett	musett	NOUN	S	Gender=Masc|Number=Sing	13	conj	_	SpaceAfter=No|TokenRange=161760:161766
+20	,	,	PUNCT	FF	_	22	punct	_	TokenRange=161766:161767
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	TokenRange=161768:161769
+22	codegh	codegh	NOUN	S	Gender=Masc	13	conj	_	TokenRange=161770:161776
+23	e	e	CCONJ	CC	_	25	cc	_	TokenRange=161777:161778
+24	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	TokenRange=161779:161780
+25	part	part	NOUN	S	Gender=Masc	13	conj	_	TokenRange=161781:161785
+26	pussee	pussee	ADV	B	_	27	advmod	_	TokenRange=161786:161792
+27	resistent	resistent	ADJ	A	Number=Plur	25	amod	_	SpaceAfter=No|TokenRange=161793:161802
+28	;	;	PUNCT	FC	_	1	punct	_	TokenRange=161802:161803
+29	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	TokenRange=161804:161805
+30	verz	verz	NOUN	S	Gender=Masc|Number=Plur	35	nsubj	_	SpaceAfter=No|TokenRange=161806:161810
+31	,	,	PUNCT	FF	_	30	punct	_	TokenRange=161810:161811
+32	bondanzios	bondanzios	ADJ	A	Gender=Masc|Number=Plur	30	amod	_	SpaceAfter=No|TokenRange=161812:161822
+33	,	,	PUNCT	FF	_	30	punct	_	TokenRange=161822:161823
+34	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	35	expl	_	TokenRange=161824:161826
+35	metten	mett	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No|TokenRange=161827:161833
+36	-	-	PUNCT	FF	_	35	punct	_	SpaceAfter=No|TokenRange=161833:161834
+37	dent	dent	X	SW	_	35	advmod	_	TokenRange=161834:161838
+38	a	a	ADP	E	_	40	case	_	TokenRange=161839:161840
+39	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	TokenRange=161841:161843
+40	fin	fin	NOUN	S	Gender=Fem|Number=Sing	35	obl	_	SpaceAfter=No|TokenRange=161844:161847
+41	,	,	PUNCT	FF	_	35	punct	_	TokenRange=161847:161848
+42	inscì	inscì	ADV	B	_	45	mark	_	TokenRange=161849:161854
+43	che	che	SCONJ	CS	_	42	fixed	_	TokenRange=161855:161858
+44	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	45	expl	_	TokenRange=161859:161861
+45	desfen	desfà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	TokenRange=161862:161868
+46	minga	minga	ADV	B	_	45	advmod	_	SpaceAfter=No|TokenRange=161869:161874
+47	.	.	PUNCT	FS	_	1	punct	_	TokenRange=161874:161875
+
+# sent_id = lmo-mil-wiki-doc6-s1083
+# text = La se serv sora la polenta.
+1	La	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	TokenRange=161876:161878
+2	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	TokenRange=161879:161881
+3	serv	servì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=161882:161886
+4	sora	sora	ADP	E	_	6	case	_	TokenRange=161887:161891
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=161892:161894
+6	polenta	polenta	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No|TokenRange=161895:161902
+7	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\r\n|TokenRange=161902:161903
+
+# sent_id = lmo-mil-wiki-doc6-s1084
+# text = Rostin negaa.
+1	Rostin	Rostin	PROPN	SP	_	0	root	_	TokenRange=161905:161911
+2	negaa	negaa	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No|TokenRange=161912:161917
+3	.	.	PUNCT	FS	_	1	punct	_	TokenRange=161917:161918
+
+# sent_id = lmo-mil-wiki-doc6-s1085
+# text = Noeuditt de videll cont butter e erba savia, prima rosolaa e poeu negaa cont vin e broeud.
+1	Noeuditt	noeuditt	NOUN	S	Gender=Fem	0	root	_	TokenRange=161919:161927
+2	de	de	ADP	E	_	3	case	_	TokenRange=161928:161930
+3	videll	videll	NOUN	S	Foreign=Yes	1	nmod	_	TokenRange=161931:161937
+4	cont	cont	ADP	E	_	5	case	_	TokenRange=161938:161942
+5	butter	butter	NOUN	S	Gender=Masc	1	nmod	_	TokenRange=161943:161949
+6	e	e	CCONJ	CC	_	7	cc	_	TokenRange=161950:161951
+7	erba	erba	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	TokenRange=161952:161956
+8	savia	savia	NOUN	A	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No|TokenRange=161957:161962
+9	,	,	PUNCT	FF	_	1	punct	_	TokenRange=161962:161963
+10	prima	prima	ADV	B	_	11	advmod	_	TokenRange=161964:161969
+11	rosolaa	rosolao	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	TokenRange=161970:161977
+12	e	e	CCONJ	CC	_	14	cc	_	TokenRange=161978:161979
+13	poeu	poeu	ADV	B	_	14	advmod	_	TokenRange=161980:161984
+14	negaa	negà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	TokenRange=161985:161990
+15	cont	cont	ADP	E	_	16	case	_	TokenRange=161991:161995
+16	vin	vin	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	TokenRange=161996:161999
+17	e	e	CCONJ	CC	_	18	cc	_	TokenRange=162000:162001
+18	broeud	broeud	NOUN	S	Gender=Masc	16	conj	_	SpaceAfter=No|TokenRange=162002:162008
+19	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\r\n|TokenRange=162008:162009
+
+# sent_id = lmo-mil-wiki-doc6-s1086
+# text = Fritura mista a la milanesa.
+1	Fritura	fritura	NOUN	S	Gender=Fem|Number=Sing	0	root	_	TokenRange=162011:162018
+2	mista	mist	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	TokenRange=162019:162024
+3	a	a	ADP	E	_	5	case	_	TokenRange=162025:162026
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=162027:162029
+5	milanesa	milanes	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No|TokenRange=162030:162038
+6	.	.	PUNCT	FS	_	1	punct	_	TokenRange=162038:162039
+
+# sent_id = lmo-mil-wiki-doc6-s1087
+# text = Zinivella, laccett e fidegh de videll e cattanaj de pollaster, tucc frigiuu insemma.
+1	Zinivella	zinivella	NOUN	S	_	0	root	_	SpaceAfter=No|TokenRange=162040:162049
+2	,	,	PUNCT	FF	_	3	punct	_	TokenRange=162049:162050
+3	laccett	laccett	NOUN	S	Gender=Masc	1	conj	_	TokenRange=162051:162058
+4	e	e	CCONJ	CC	_	5	cc	_	TokenRange=162059:162060
+5	fidegh	fidegh	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	TokenRange=162061:162067
+6	de	de	ADP	E	_	7	case	_	TokenRange=162068:162070
+7	videll	videll	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	TokenRange=162071:162077
+8	e	e	CCONJ	CC	_	9	cc	_	TokenRange=162078:162079
+9	cattanaj	cattanaj	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	TokenRange=162080:162088
+10	de	de	ADP	E	_	9	case	_	TokenRange=162089:162091
+11	pollaster	pollaster	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No|TokenRange=162092:162101
+12	,	,	PUNCT	FF	_	9	punct	_	TokenRange=162101:162102
+13	tucc	tucc	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	TokenRange=162103:162107
+14	frigiuu	frigiuu	ADJ	SW	Foreign=Yes	13	amod	_	TokenRange=162108:162115
+15	insemma	insemma	ADV	B	_	14	advmod	_	SpaceAfter=No|TokenRange=162116:162123
+16	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\r\n|TokenRange=162123:162124
+
+# sent_id = lmo-mil-wiki-doc6-s1088
+# text = Pols e scisger.
+1	Pols	Pols	NOUN	S	Gender=Masc	0	root	_	TokenRange=162126:162130
+2	e	e	CCONJ	CC	_	3	cc	_	TokenRange=162131:162132
+3	scisger	scisger	NOUN	S	Gender=Masc	1	conj	_	SpaceAfter=No|TokenRange=162133:162140
+4	.	.	PUNCT	FS	_	1	punct	_	TokenRange=162140:162141
+
+# sent_id = lmo-mil-wiki-doc6-s1089
+# text = Piatt tradizional majaa in del dì di mort e in del mes de november.
+1	Piatt	piatt	NOUN	S	Gender=Masc	0	root	_	TokenRange=162142:162147
+2	tradizional	tradizional	ADJ	A	Number=Sing	1	amod	_	TokenRange=162148:162159
+3	majaa	majaa	ADJ	A	Number=Sing	1	amod	_	TokenRange=162160:162165
+4	in	in	ADP	E	_	7	case	_	TokenRange=162166:162168
+5-6	del	_	_	_	_	_	_	_	TokenRange=162169:162172
+5	di	di	ADP	E	_	4	fixed	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	dì	dì	NOUN	S	Gender=Masc	1	nmod	_	TokenRange=162173:162175
+8	di	di	ADP	E	_	9	case	_	TokenRange=162176:162178
+9	mort	mort	NOUN	S	Gender=Masc	7	nmod	_	TokenRange=162179:162183
+10	e	e	CCONJ	CC	_	14	cc	_	TokenRange=162184:162185
+11	in	in	ADP	E	_	14	case	_	TokenRange=162186:162188
+12-13	del	_	_	_	_	_	_	_	TokenRange=162189:162192
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	mes	mes	NOUN	S	Gender=Masc|Number=Sing	7	conj	_	TokenRange=162193:162196
+15	de	de	ADP	E	_	16	case	_	TokenRange=162197:162199
+16	november	november	NOUN	S	Gender=Masc	14	nmod	_	SpaceAfter=No|TokenRange=162200:162208
+17	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\r\n|TokenRange=162208:162209
+
+
+# sent_id = lmo-mil-wiki-doc6-s1090
+# text = Mondeghili.
+1	Mondeghili	Mondeghili	PROPN	SP	_	0	root	_	SpaceAfter=No|TokenRange=162211:162221
+2	.	.	PUNCT	FS	_	1	punct	_	TokenRange=162221:162222
+
+
+# sent_id = lmo-mil-wiki-doc6-s1091
+# text = Polpett de carna gemò coeusuda, ligaa insemma cont pan grattaa, oeuv, salamm cruv o bològna, erborinn triaa e spezzi.
+1	Polpett	polpett	NOUN	S	Gender=Masc	0	root	_	TokenRange=162223:162230
+2	de	de	ADP	E	_	3	case	_	TokenRange=162231:162233
+3	carna	carna	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	TokenRange=162234:162239
+4	gemò	gemò	NOUN	S	Gender=Masc	1	nmod	_	TokenRange=162240:162244
+5	coeusuda	coeusud	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No|TokenRange=162245:162253
+6	,	,	PUNCT	FF	_	1	punct	_	TokenRange=162253:162254
+7	ligaa	ligaa	ADJ	V	Gender=Fem|Number=Sing	1	amod	_	TokenRange=162255:162260
+8	insemma	insemma	ADV	B	_	7	advmod	_	TokenRange=162261:162268
+9	cont	cont	ADP	E	_	10	case	_	TokenRange=162269:162273
+10	pan	pan	NOUN	S	Gender=Masc	7	obl	_	TokenRange=162274:162277
+11	grattaa	grattaa	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No|TokenRange=162278:162285
+12	,	,	PUNCT	FF	_	13	punct	_	TokenRange=162285:162286
+13	oeuv	oeuv	NOUN	S	Gender=Fem	10	conj	_	SpaceAfter=No|TokenRange=162287:162291
+14	,	,	PUNCT	FF	_	15	punct	_	TokenRange=162291:162292
+15	salamm	salamm	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	TokenRange=162293:162299
+16	cruv	cruv	ADJ	A	_	15	compound	_	TokenRange=162300:162304
+17	o	o	CCONJ	CC	_	18	cc	_	TokenRange=162305:162306
+18	bològna	bològna	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No|TokenRange=162307:162314
+19	,	,	PUNCT	FF	_	20	punct	_	TokenRange=162314:162315
+20	erborinn	erborinn	NOUN	S	Gender=Masc	10	conj	_	TokenRange=162316:162324
+21	triaa	triaa	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	TokenRange=162325:162330
+22	e	e	CCONJ	CC	_	23	cc	_	TokenRange=162331:162332
+23	spezzi	spezzi	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No|TokenRange=162333:162339
+24	.	.	PUNCT	FS	_	1	punct	_	TokenRange=162339:162340
+
+
+# sent_id = lmo-mil-wiki-doc6-s1092
+# text = Vegnen poeu o stuvaa, faa-giò in d'ona fòglia de verza, o spiattaraa on cicin e friggiuu in del butter sora ona fiammòna.Lumagh a la milanesa.
+1	Vegnen	vegnì	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=162341:162347
+2	poeu	poeu	ADV	B	_	1	advmod	_	TokenRange=162348:162352
+3	o	o	CCONJ	CC	_	4	cc	_	TokenRange=162353:162354
+4	stuvaa	stuvaa	ADJ	A	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No|TokenRange=162355:162361
+5	,	,	PUNCT	FF	_	6	punct	_	TokenRange=162361:162362
+6	faa	fà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	SpaceAfter=No|TokenRange=162363:162366
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No|TokenRange=162366:162367
+8	giò	giò	ADV	B	_	6	advmod	_	TokenRange=162367:162370
+9	in	in	ADP	E	_	12	case	_	TokenRange=162371:162373
+10	d'	di	ADP	E	_	9	fixed	_	SpaceAfter=No|TokenRange=162374:162376
+11	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	TokenRange=162376:162379
+12	fòglia	fòglia	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	TokenRange=162380:162386
+13	de	de	ADP	E	_	14	case	_	TokenRange=162387:162389
+14	verza	verza	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No|TokenRange=162390:162395
+15	,	,	PUNCT	FF	_	17	punct	_	TokenRange=162395:162396
+16	o	o	CCONJ	CC	_	17	cc	_	TokenRange=162397:162398
+17	spiattaraa	spiattà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	TokenRange=162399:162409
+18	on	on	X	SW	Gender=Masc|Number=Sing|PronType=Ind	17	obj	_	TokenRange=162410:162412
+19	cicin	cicin	NOUN	S	_	18	compound	_	TokenRange=162413:162418
+20	e	e	CCONJ	CC	_	21	cc	_	TokenRange=162419:162420
+21	friggiuu	friggiuu	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	TokenRange=162421:162429
+22	in	in	ADP	E	_	25	case	_	TokenRange=162430:162432
+23-24	del	_	_	_	_	_	_	_	TokenRange=162433:162436
+23	di	di	ADP	E	_	22	fixed	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	butter	butter	NOUN	S	Gender=Masc	21	obl	_	TokenRange=162437:162443
+26	sora	sora	ADV	B	_	28	advmod	_	TokenRange=162444:162448
+27	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	TokenRange=162449:162452
+28-29	fiammòna.Lumagh	_	_	_	_	_	_	_	TokenRange=162453:162468
+28	fiammòna	fiammòna	NOUN	S Gender=Fem|Number=Sing	21	obl	_	_
+29	Lumagh	lumagh	NOUN	S	Gender=Masc|Number=Sing	28	conj	_	_
+30	a	a	ADP	E	_	32	case	_	TokenRange=162469:162470
+31	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	TokenRange=162471:162473
+32	milanesa	milanes	NOUN	S	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No|TokenRange=162474:162482
+33	.	.	PUNCT	FS	_	1	punct	_	TokenRange=162482:162483
+
+# sent_id = lmo-mil-wiki-doc6-s1093
+# text = Sgussaa cont scigolla, inciod e erborinn, aj, farinna e vin, i lumagh a la milanesa a l'è on piatt cont ona preparazion longa comè perchè i lumagh gh'hann de spurgà (prima a fregg e poeu a bullor) e perchè a la fin i lumagh, in del sughett, gh'hann d'andà a foeugh consc e se gh'ha de seguità a mes'cià per on'ora.
+1	Sgussaa	sgussà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	24	advcl	_	TokenRange=162484:162491
+2	cont	cont	ADP	E	_	3	case	_	TokenRange=162492:162496
+3	scigolla	scigolla	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No|TokenRange=162497:162505
+4	,	,	PUNCT	FF	_	5	punct	_	TokenRange=162505:162506
+5	inciod	inciod	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	TokenRange=162507:162513
+6	e	e	CCONJ	CC	_	7	cc	_	TokenRange=162514:162515
+7	erborinn	erborinn	NOUN	S	Gender=Masc	3	conj	_	SpaceAfter=No|TokenRange=162516:162524
+8	,	,	PUNCT	FF	_	9	punct	_	TokenRange=162524:162525
+9	aj	aj	NOUN	S	Gender=Masc	3	conj	_	SpaceAfter=No|TokenRange=162526:162528
+10	,	,	PUNCT	FF	_	11	punct	_	TokenRange=162528:162529
+11	farinna	farinna	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	TokenRange=162530:162537
+12	e	e	CCONJ	CC	_	13	cc	_	TokenRange=162538:162539
+13	vin	vin	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No|TokenRange=162540:162543
+14	,	,	PUNCT	FF	_	1	punct	_	TokenRange=162543:162544
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	TokenRange=162545:162546
+16	lumagh	lumagh	NOUN	S	Gender=Masc|Number=Plur	24	nsubj	_	TokenRange=162547:162553
+17	a	a	ADP	E	_	19	case	_	TokenRange=162554:162555
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	TokenRange=162556:162558
+19	milanesa	milanes	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	TokenRange=162559:162567
+20	a	a	ADP	E	_	24	case	_	TokenRange=162568:162569
+21	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	24	det	_	SpaceAfter=No|TokenRange=162570:162572
+22	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	TokenRange=162572:162573
+23	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	TokenRange=162574:162576
+24	piatt	piatt	NOUN	S	Gender=Masc	0	root	_	TokenRange=162577:162582
+25	cont	cont	ADP	E	_	27	case	_	TokenRange=162583:162587
+26	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	_	TokenRange=162588:162591
+27	preparazion	preparazion	NOUN	S	Gender=Fem|Number=Sing	24	nmod	_	TokenRange=162592:162603
+28	longa	long	ADJ	A	Gender=Fem|Number=Sing	27	amod	_	TokenRange=162604:162609
+29	comè	comè	ADV	B	_	34	advmod	_	TokenRange=162610:162614
+30	perchè	perchè	SCONJ	CS	_	34	mark	_	TokenRange=162615:162621
+31	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	TokenRange=162622:162623
+32	lumagh	lumagh	NOUN	S	Gender=Masc	34	nsubj	_	TokenRange=162624:162630
+33	gh'	gh'	PRON	PC	_	34	expl	_	SpaceAfter=No|TokenRange=162631:162634
+34	hann	vess	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	advcl	_	TokenRange=162634:162638
+35	de	de	ADP	E	_	36	case	_	TokenRange=162639:162641
+36	spurgà	spurgà	NOUN	S	Gender=Fem	34	obl	_	TokenRange=162642:162648
+37	(	(	PUNCT	FB	_	40	punct	_	SpaceAfter=No|TokenRange=162649:162650
+38	prima	prima	ADV	B	_	40	advmod	_	TokenRange=162650:162655
+39	a	a	ADP	E	_	40	case	_	TokenRange=162656:162657
+40	fregg	fregg	NOUN	S	Gender=Masc	36	nmod	_	TokenRange=162658:162663
+41	e	e	CCONJ	CC	_	44	cc	_	TokenRange=162664:162665
+42	poeu	poeu	ADV	B	_	44	advmod	_	TokenRange=162666:162670
+43	a	a	ADP	E	_	44	case	_	TokenRange=162671:162672
+44	bullor	bullor	NOUN	S	Gender=Masc|Number=Sing	40	conj	_	SpaceAfter=No|TokenRange=162673:162679
+45	)	)	PUNCT	FB	_	40	punct	_	TokenRange=162679:162680
+46	e	e	CCONJ	CC	_	60	cc	_	TokenRange=162681:162682
+47	perchè	perchè	SCONJ	CS	_	60	mark	_	TokenRange=162683:162689
+48	a	a	ADP	E	_	50	case	_	TokenRange=162690:162691
+49	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	50	det	_	TokenRange=162692:162694
+50	fin	fin	NOUN	S	Gender=Fem|Number=Sing	60	obl	_	TokenRange=162695:162698
+51	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	52	det	_	TokenRange=162699:162700
+52	lumagh	lumagh	NOUN	S	Gender=Masc	60	nsubj	_	SpaceAfter=No|TokenRange=162701:162707
+53	,	,	PUNCT	FF	_	52	punct	_	TokenRange=162707:162708
+54	in	in	ADP	E	_	57	case	_	TokenRange=162709:162711
+55-56	del	_	_	_	_	_	_	_	TokenRange=162712:162715
+55	di	di	ADP	E	_	54	fixed	_	_
+56	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	57	det	_	_
+57	sughett	sughett	NOUN	S	Gender=Masc|Number=Sing	60	obl	_	SpaceAfter=No|TokenRange=162716:162723
+58	,	,	PUNCT	FF	_	57	punct	_	TokenRange=162723:162724
+59	gh'	gh'	PRON	PC	Clitic=Yes|PronType=Prs	60	expl	_	SpaceAfter=No|TokenRange=162725:162728
+60	hann	vess	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	conj	_	TokenRange=162728:162732
+61	d'	di	ADP	E	_	62	mark	_	SpaceAfter=No|TokenRange=162733:162735
+62	andà	andà	VERB	V	VerbForm=Inf	60	xcomp	_	TokenRange=162735:162739
+63	a	a	ADP	E	_	64	case	_	TokenRange=162740:162741
+64	foeugh	foeugh	NOUN	S	Gender=Masc	62	obl	_	TokenRange=162742:162748
+65	consc	consc	NOUN	S	Gender=Masc|Number=Sing	64	compound	_	TokenRange=162749:162754
+66	e	e	CCONJ	CC	_	69	cc	_	TokenRange=162755:162756
+67	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	69	expl:impers	_	TokenRange=162757:162759
+68	gh'	gh'	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	69	expl:impers	_	SpaceAfter=No|TokenRange=162760:162763
+69	ha	avè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	60	conj	_	TokenRange=162763:162765
+70	de	de	ADP	E	_	71	case	_	TokenRange=162766:162768
+71	seguità	seguità	NOUN	S	Gender=Fem	69	xcomp	_	TokenRange=162769:162776
+72	a	a	ADP	E	_	73	case	_	TokenRange=162777:162778
+73	mes'	mes	NOUN	S	_	71	advmod	_	SpaceAfter=No|TokenRange=162779:162783
+74	cià	cià	ADV	B	_	73	advmod	_	TokenRange=162783:162786
+75	per	per	ADP	E	_	77	case	_	TokenRange=162787:162790
+76	on'	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	77	det	_	SpaceAfter=No|TokenRange=162791:162794
+77	ora	ora	NOUN	S	Gender=Fem|Number=Sing	71	nmod	_	SpaceAfter=No|TokenRange=162794:162797
+78	.	.	PUNCT	FS	_	24	punct	_	SpacesAfter=\r\n|TokenRange=162797:162798
+
+# sent_id = lmo-mil-wiki-doc6-s1094
+# text = Rann fritt. Lavaa ben e sugaa cont on pann, i rann vegnen infarinaa e poeu friggiuu fin a che hinn doraa in del butter.
+1	Rann	rann	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	TokenRange=162800:162804
+2	fritt.	fritt.	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	TokenRange=162805:162811
+3	Lavaa	Lavaa	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	TokenRange=162812:162817
+4	ben	ben	ADV	B	_	3	advmod	_	TokenRange=162818:162821
+5	e	e	CCONJ	CC	_	6	cc	_	TokenRange=162822:162823
+6	sugaa	sugaa	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	TokenRange=162824:162829
+7	cont	cont	ADP	E	_	9	case	_	TokenRange=162830:162834
+8	on	on	DET	RI	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	TokenRange=162835:162837
+9	pann	pann	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=162838:162842
+10	,	,	PUNCT	FF	_	1	punct	_	TokenRange=162842:162843
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	TokenRange=162844:162845
+12	rann	rann	NOUN	S	Gender=Masc	13	nsubj	_	TokenRange=162846:162850
+13	vegnen	vegnì	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=162851:162857
+14	infarinaa	infarinà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	xcomp	_	TokenRange=162858:162867
+15	e	e	CCONJ	CC	_	17	cc	_	TokenRange=162868:162869
+16	poeu	poeu	ADV	B	_	17	advmod	_	TokenRange=162870:162874
+17	friggiuu	friggiuu	VERB	V	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	14	conj	_	TokenRange=162875:162883
+18	fin	fin	ADV	B	_	22	mark	_	TokenRange=162884:162887
+19	a	a	ADP	E	_	18	fixed	_	TokenRange=162888:162889
+20	che	che	SCONJ	CS	_	18	fixed	_	TokenRange=162890:162893
+21	hinn	vess	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	TokenRange=162894:162898
+22	doraa	dorà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	TokenRange=162899:162904
+23	in	in	ADP	E	_	26	case	_	TokenRange=162905:162907
+24-25	del	_	_	_	_	_	_	_	TokenRange=162908:162911
+24	di	di	ADP	E	_	18	fixed	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	butter	butter	NOUN	S	Gender=Masc	22	obl	_	SpaceAfter=No|TokenRange=162912:162918
+27	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\r\n|TokenRange=162918:162919
+
+# sent_id = lmo-mil-wiki-doc6-s1095
+# text = Rann in umed.
+1	Rann	rann	NOUN	S	_	0	root	_	TokenRange=162921:162925
+2	in	in	ADP	E	_	3	case	_	TokenRange=162926:162928
+3	umed	umed	NOUN	S	_	1	nmod	_	SpaceAfter=No|TokenRange=162929:162933
+4	.	.	PUNCT	FS	_	1	punct	_	TokenRange=162933:162934
+
+# sent_id = lmo-mil-wiki-doc6-s1096
+# text = Per fà i rann in umed, se scomincia comè per fà i rann fritt, ma poeu si gionta el vin bianch, se sfuma e se inspessiss cont on cicin de farinna, giontand on trij d'erborinn e aj.
+1	Per	per	ADP	E	_	2	mark	_	TokenRange=162935:162938
+2	fà	fà	VERB	V	VerbForm=Inf	9	advcl	_	TokenRange=162939:162941
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	TokenRange=162942:162943
+4	rann	rann	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	TokenRange=162944:162948
+5	in	in	ADP	E	_	6	case	_	TokenRange=162949:162951
+6	umed	umed	NOUN	S	Gender=Masc	4	nmod	_	SpaceAfter=No|TokenRange=162952:162956
+7	,	,	PUNCT	FF	_	2	punct	_	TokenRange=162956:162957
+8	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	TokenRange=162958:162960
+9	scomincia	scomincià	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=162961:162970
+10	comè	comè	ADV	B	_	12	advmod	_	TokenRange=162971:162975
+11	per	per	ADP	E	_	12	mark	_	TokenRange=162976:162979
+12	fà	fà	VERB	V	VerbForm=Inf	9	advcl	_	TokenRange=162980:162982
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	TokenRange=162983:162984
+14	rann	rann	NOUN	S	Gender=Masc	12	obj	_	TokenRange=162985:162989
+15	fritt	fritt	ADJ	A	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No|TokenRange=162990:162995
+16	,	,	PUNCT	FF	_	20	punct	_	TokenRange=162995:162996
+17	ma	ma	CCONJ	CC	_	20	cc	_	TokenRange=162997:162999
+18	poeu	poeu	ADV	B	_	20	advmod	_	TokenRange=163000:163004
+19	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl:impers	_	TokenRange=163005:163007
+20	gionta	giontà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	TokenRange=163008:163014
+21	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	TokenRange=163015:163017
+22	vin	vin	NOUN	S	Gender=Masc	20	obj	_	TokenRange=163018:163021
+23	bianch	bianch	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	SpaceAfter=No|TokenRange=163022:163028
+24	,	,	PUNCT	FF	_	26	punct	_	TokenRange=163028:163029
+25	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	26	expl	_	TokenRange=163030:163032
+26	sfuma	sfumà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	TokenRange=163033:163038
+27	e	e	CCONJ	CC	_	29	cc	_	TokenRange=163039:163040
+28	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	29	expl	_	TokenRange=163041:163043
+29	inspessiss	inspessisà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	conj	_	TokenRange=163044:163054
+30	cont	cont	ADP	E	_	32	case	_	TokenRange=163055:163059
+31	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	TokenRange=163060:163062
+32	cicin	cicin	NOUN	S	Gender=Masc|Number=Sing	29	obl	_	TokenRange=163063:163068
+33	de	de	ADP	E	_	34	case	_	TokenRange=163069:163071
+34	farinna	farinna	NOUN	S	Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No|TokenRange=163072:163079
+35	,	,	PUNCT	FF	_	29	punct	_	TokenRange=163079:163080
+36	giontand	giontà	VERB	V	VerbForm=Ger	29	advcl	_	TokenRange=163081:163089
+37	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	38	det	_	TokenRange=163090:163092
+38	trij	trij	NOUN	S	Gender=Masc|Number=Sing	37	flat:foreign	_	TokenRange=163093:163097
+39	d'	di	ADP	E	_	40	case	_	SpaceAfter=No|TokenRange=163098:163100
+40	erborinn	erborinn	X	SW	Foreign=Yes	37	nmod	_	TokenRange=163100:163108
+41	e	e	CCONJ	CC	_	42	cc	_	TokenRange=163109:163110
+42	aj	aj	NOUN	S	Gender=Masc	40	conj	_	SpaceAfter=No|TokenRange=163111:163113
+43	.	.	PUNCT	FS	_	9	punct	_	TokenRange=163113:163114
+
+# sent_id = lmo-mil-wiki-doc6-s1097
+# text = Se va innanz cont la cottura sora on foeugh consc, rasand cont el broeud.
+1	Se	se	SCONJ	CS	_	2	mark	_	TokenRange=163115:163117
+2	va	andà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=163118:163120
+3	innanz	innanz	ADV	B	_	2	advmod	_	TokenRange=163121:163127
+4	cont	cont	ADP	E	_	6	case	_	TokenRange=163128:163132
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=163133:163135
+6	cottura	cottura	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	TokenRange=163136:163143
+7	sora	sora	ADV	B	_	8	case	_	TokenRange=163144:163148
+8	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	TokenRange=163149:163151
+9	foeugh	foeugh	NOUN	S	Gender=Masc	6	obl	_	TokenRange=163152:163158
+10	consc	consc	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No|TokenRange=163159:163164
+11	,	,	PUNCT	FF	_	2	punct	_	TokenRange=163164:163165
+12	rasand	rasà	VERB	V	VerbForm=Ger	2	conj	_	TokenRange=163166:163172
+13	cont	cont	ADP	E	_	12	case	_	TokenRange=163173:163177
+14	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	TokenRange=163178:163180
+15	broeud	broeud	X	SW	Foreign=Yes	12	obl	_	SpaceAfter=No|TokenRange=163181:163187
+16	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\r\n|TokenRange=163187:163188
+
+# sent_id = lmo-mil-wiki-doc6-s1098
+# text = Lusc in stuaa.
+1	Lusc	lusc	NOUN	S	Gender=Masc	0	root	_	TokenRange=163190:163194
+2	in	in	ADP	E	_	3	case	_	TokenRange=163195:163197
+3	stuaa	stuaa	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No|TokenRange=163198:163203
+4	.	.	PUNCT	FS	_	1	punct	_	TokenRange=163203:163204
+
+# sent_id = lmo-mil-wiki-doc6-s1099
+# text = I carn del lusc, insavorii ma slegned, gh'hann de vess instacchettaa prima della cottura.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=163205:163206
+2	carn	carn	NOUN	S	Gender=Masc	12	nsubj	_	TokenRange=163207:163211
+3-4	del	_	_	_	_	_	_	_	TokenRange=163212:163215
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	lusc	lusc	NOUN	S	Gender=Masc	2	nmod	_	SpaceAfter=No|TokenRange=163216:163220
+6	,	,	PUNCT	FF	_	2	punct	_	TokenRange=163220:163221
+7	insavorii	insavorii	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	TokenRange=163222:163231
+8	ma	ma	CCONJ	CC	_	9	cc	_	TokenRange=163232:163234
+9	slegned	slegned	ADJ	A	_	7	conj	_	SpaceAfter=No|TokenRange=163235:163242
+10	,	,	PUNCT	FF	_	2	punct	_	TokenRange=163242:163243
+11	gh'	gh'	PRON	PC	_	12	obj	_	SpaceAfter=No|TokenRange=163244:163247
+12	hann	vess	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=163247:163251
+13	de	de	ADP	E	_	15	mark	_	TokenRange=163252:163254
+14	vess	vess	AUX	VA	VerbForm=Inf	15	aux	_	TokenRange=163255:163259
+15	instacchettaa	instacchettà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	ccomp	_	TokenRange=163260:163273
+16	prima	prima	ADV	B	_	19	case	_	TokenRange=163274:163279
+17-18	della	_	_	_	_	_	_	_	TokenRange=163280:163285
+17	di	di	ADP	E	_	16	fixed	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	cottura	cottura	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No|TokenRange=163286:163293
+20	.	.	PUNCT	FS	_	12	punct	_	TokenRange=163293:163294
+
+# sent_id = lmo-mil-wiki-doc6-s1100
+# text = Rosolaa, a foeugh fòrt, sora on lett de scigolla, carotol e seller, el se seguita la cottura, a foeugh consc, sfumand cont el vin e tegnend umed cont l'acqua.
+1	Rosolaa	Rosolaa	PROPN	SP	_	19	nsubj	_	SpaceAfter=No|TokenRange=163295:163302
+2	,	,	PUNCT	FF	_	1	punct	_	TokenRange=163302:163303
+3	a	a	ADP	E	_	4	case	_	TokenRange=163304:163305
+4	foeugh	foeugh	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	TokenRange=163306:163312
+5	fòrt	fòrt	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No|TokenRange=163313:163317
+6	,	,	PUNCT	FF	_	1	punct	_	TokenRange=163317:163318
+7	sora	sora	ADP	E	_	9	case	_	TokenRange=163319:163323
+8	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	TokenRange=163324:163326
+9	lett	lett	NOUN	S	Gender=Masc	1	nmod	_	TokenRange=163327:163331
+10	de	de	ADP	E	_	11	case	_	TokenRange=163332:163334
+11	scigolla	scigolla	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No|TokenRange=163335:163343
+12	,	,	PUNCT	FF	_	13	punct	_	TokenRange=163343:163344
+13	carotol	carotol	NOUN	S	Gender=Masc	11	conj	_	TokenRange=163345:163352
+14	e	e	CCONJ	CC	_	15	cc	_	TokenRange=163353:163354
+15	seller	seller	NOUN	S	Gender=Masc	11	conj	_	SpaceAfter=No|TokenRange=163355:163361
+16	,	,	PUNCT	FF	_	1	punct	_	TokenRange=163361:163362
+17	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	TokenRange=163363:163365
+18	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl:impers	_	TokenRange=163366:163368
+19	seguita	seguì	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=163369:163376
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	TokenRange=163377:163379
+21	cottura	cottura	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No|TokenRange=163380:163387
+22	,	,	PUNCT	FF	_	24	punct	_	TokenRange=163387:163388
+23	a	a	ADP	E	_	24	case	_	TokenRange=163389:163390
+24	foeugh	foeugh	NOUN	S	Gender=Masc	19	obl	_	TokenRange=163391:163397
+25	consc	consc	NOUN	S	Gender=Masc|Number=Sing	24	compound	_	SpaceAfter=No|TokenRange=163398:163403
+26	,	,	PUNCT	FF	_	27	punct	_	TokenRange=163403:163404
+27	sfumand	sfumand	VERB	V	_	19	conj	_	TokenRange=163405:163412
+28	cont	cont	ADP	E	_	30	case	_	TokenRange=163413:163417
+29	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	TokenRange=163418:163420
+30	vin	vin	NOUN	S	Gender=Masc	27	obl	_	TokenRange=163421:163424
+31	e	e	CCONJ	CC	_	32	cc	_	TokenRange=163425:163426
+32	tegnend	tegnend	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	TokenRange=163427:163434
+33	umed	umed	NOUN	S	_	32	obj	_	TokenRange=163435:163439
+34	cont	cont	ADP	E	_	36	case	_	TokenRange=163440:163444
+35	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	36	det	_	SpaceAfter=No|TokenRange=163445:163447
+36	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	32	obl	_	SpaceAfter=No|TokenRange=163447:163452
+37	.	.	PUNCT	FS	_	19	punct	_	TokenRange=163452:163453
