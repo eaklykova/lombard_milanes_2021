@@ -34,7 +34,7 @@ The first 1 650 sentences were evenly distributed between 11 annotators, and eve
 2. [Dizionario dei dialetti (Dialettando.com)](https://www.dialettando.com/dizionario/dizionario.lasso)
 3. [Ломбардско-итальянский словарь (Glosbe)](https://glosbe.com/lmo/it)
 
-
+## Contact information
 Any questions about the project should be directed to eaklykova@edu.hse.ru.
 
 *HSE, Moscow, Russia, December 2021.*
