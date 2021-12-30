@@ -27,8 +27,9 @@ We started by obtaining the article metadata via PetScan, after which 200 longes
 * Zlata Shkut'ko
 
 ## Bibliography & References
-C. Beretta. Grammatica del dialetto milanese. 1998.  
-[Dizionario dei dialetti (Dialettando.com)](https://www.dialettando.com/dizionario/dizionario.lasso)  
-[Ломбардско-итальянский словарь (Glosbe)](https://glosbe.com/lmo/it)
+1. C. Beretta. Grammatica del dialetto milanese. 1998.
+2. [Dizionario dei dialetti (Dialettando.com)](https://www.dialettando.com/dizionario/dizionario.lasso)
+3. [Ломбардско-итальянский словарь (Glosbe)](https://glosbe.com/lmo/it)
 
-HSE, Moscow, December 2021.
+
+*HSE, Moscow, Russia, December 2021.*
