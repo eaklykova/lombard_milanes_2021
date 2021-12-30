@@ -1,4 +1,4 @@
-# sent_id = lmo-mil-wiki-doc4-s751
+# sent_id = lmo-mil-wiki-doc4-s751 GOOD
 # text = L’Ataru el rièss ancasì a compì di prodèzz fìsich dègn d’on ningia e a bloccà 'na katana a man biòtt.
 1	L’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|TokenRange=107252:107254
 2	Ataru	Ataru	PROPN	SP	_	4	nsubj	_	TokenRange=107254:107259
@@ -25,7 +25,7 @@
 23	biòtt	biòtt	ADJ	A	Number=Sing	22	amod	_	SpaceAfter=No|TokenRange=107347:107352
 24	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\r\n|TokenRange=107352:107353
 
-# sent_id = lmo-mil-wiki-doc4-s752
+# sent_id = lmo-mil-wiki-doc4-s752 GOOD
 # text = La stòria la fa ona voltada quand che la Lamù, per portà a tèrmin el sò cammìn de scoeula e stagh arént a l’Ataru (che le considera come ‘l sò marìi), la se iscrìv al Liceo Tomobiki per vèss missa denter in la class 2-4 — l'istèssa che l'è frequentada del gióvin Moroboshi —.
 1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=107355:107357
 2	stòria	stòria	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	TokenRange=107358:107364
@@ -2049,3 +2049,66 @@
 8	34	34	NUM	N	NumType=Card	9	nummod	_	TokenRange=115549:115551
 9	volùmm	volùmm	NOUN	S	Gender=Masc	7	nsubj:pass	_	SpaceAfter=No|TokenRange=115552:115558
 10	.	.	PUNCT	FS	_	7	punct	_	TokenRange=115558:115559
+
+# sent_id = lmo-mil-wiki-doc4-s800
+# text = La qualità de la carta l’è decenta e ògni volùmm el gh’hà su 'na sora-covertinna de plastega a colór.Wideban: i ristàmp dei Tankōbon hinn stàa sostituìd menemàn di Wideban, quèsti chì hann taccàa a vèss pubblicàa a l’inviada di ann 1990 vèrs el décim anniversari de la primma pubblicazión.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=115560:115562
+2	qualità	qualità	NOUN	S	Gender=Fem	8	nsubj	_	TokenRange=115563:115570
+3	de	de	ADP	E	_	5	case	_	TokenRange=115571:115573
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=115574:115576
+5	carta	carta	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	TokenRange=115577:115582
+6	l’	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No|TokenRange=115583:115585
+7	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	TokenRange=115585:115586
+8	decenta	decento	ADJ	A	Gender=Fem|Number=Sing	0	root	_	TokenRange=115587:115594
+9	e	e	CCONJ	CC	_	14	cc	_	TokenRange=115595:115596
+10	ògni	ògni	DET	DI	Number=Sing|PronType=Ind	11	det	_	TokenRange=115597:115601
+11	volùmm	volùmm	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	TokenRange=115602:115608
+12	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	TokenRange=115609:115611
+13	gh’	gh’	PRON	PC	_	14	iobj	_	SpaceAfter=No|TokenRange=115612:115615
+14	hà	hare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	TokenRange=115615:115617
+15	su	su	ADV	B	_	14	advmod	_	TokenRange=115618:115620
+16	'	'	PUNCT	FB	_	18	punct	_	SpaceAfter=No|TokenRange=115621:115622
+17	na	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	TokenRange=115622:115624
+18	sora	sora	ADJ	S	Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No|TokenRange=115625:115629
+19	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No|TokenRange=115629:115630
+20	covertinna	covertinna	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	TokenRange=115630:115640
+21	de	de	ADP	E	_	22	case	_	TokenRange=115641:115643
+22	plastega	plastega	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	TokenRange=115644:115652
+23	a	a	ADP	E	_	24	case	_	TokenRange=115653:115654
+24	colór.Wideban	colór.widebae	NOUN	S	_	22	nmod	_	SpaceAfter=No|TokenRange=115655:115668
+25	:	:	PUNCT	FC	_	14	punct	_	TokenRange=115668:115669
+26	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	TokenRange=115670:115671
+27	ristàmp	ristàmp	NOUN	S	Gender=Masc|Number=Plur	33	nsubj:pass	_	TokenRange=115672:115679
+28-29	dei	_	_	_	_	_	_	_	TokenRange=115680:115683
+28	di	di	ADP	E	_	30	case	_	_
+29	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
+30	Tankōbon	Tankōbon	PROPN	SP	_	27	nmod	_	TokenRange=115684:115692
+31	hinn	vere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	aux	_	TokenRange=115693:115697
+32	stàa	esere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	33	aux:pass	_	TokenRange=115698:115702
+33	sostituìd	sostirire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	parataxis	_	TokenRange=115703:115712
+34	menemàn	menemàn	NOUN	S	Gender=Masc	33	obj	_	TokenRange=115713:115720
+35	di	di	ADP	E	_	36	case	_	TokenRange=115721:115723
+36	Wideban	Wideban	PROPN	SP	_	34	nmod	_	SpaceAfter=No|TokenRange=115724:115731
+37	,	,	PUNCT	FF	_	33	punct	_	TokenRange=115731:115732
+38	quèsti	quèsto	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	41	nsubj	_	TokenRange=115733:115739
+39	chì	chì	ADV	B	_	41	advmod	_	TokenRange=115740:115743
+40	hann	vere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	41	aux	_	TokenRange=115744:115748
+41	taccàa	taccàa	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	33	conj	_	TokenRange=115749:115755
+42	a	a	ADP	E	_	44	mark	_	TokenRange=115756:115757
+43	vèss	vèss	AUX	VA	VerbForm=Inf	44	aux:pass	_	TokenRange=115758:115762
+44	pubblicàa	pubblicàare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	41	xcomp	_	TokenRange=115763:115772
+45	a	a	ADP	E	_	47	case	_	TokenRange=115773:115774
+46	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	47	det	_	SpaceAfter=No|TokenRange=115775:115777
+47	inviada	inviada	NOUN	S	Gender=Fem|Number=Sing	44	obl	_	TokenRange=115777:115784
+48	di	di	ADP	E	_	49	case	_	TokenRange=115785:115787
+49	ann	ann	NOUN	S	Gender=Masc|Number=Sing	47	nmod	_	TokenRange=115788:115791
+50	1990	1990	NUM	N	NumType=Card	49	nummod	_	TokenRange=115792:115796
+51	vèrs	vèrs	ADP	E	_	54	case	_	TokenRange=115797:115801
+52	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	54	det	_	TokenRange=115802:115804
+53	décim	décim	ADJ	NO	NumType=Ord	54	amod	_	TokenRange=115805:115810
+54	anniversari	anniversario	NOUN	S	Gender=Masc|Number=Plur	44	obl	_	TokenRange=115811:115822
+55	de	de	ADP	E	_	58	case	_	TokenRange=115823:115825
+56	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	58	det	_	TokenRange=115826:115828
+57	primma	primmo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	58	amod	_	TokenRange=115829:115835
+58	pubblicazión	pubblicazión	NOUN	S	Gender=Fem|Number=Sing	54	nmod	_	SpaceAfter=No|TokenRange=115836:115848
+59	.	.	PUNCT	FS	_	8	punct	_	TokenRange=115848:115849
