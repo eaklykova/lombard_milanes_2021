@@ -35,6 +35,6 @@ The first 1 650 sentences were evenly distributed between 11 annotators, and eve
 3. [Ломбардско-итальянский словарь (Glosbe)](https://glosbe.com/lmo/it)
 
 
-If you have any questions about the project, you are welcome to contact us via email: eaklykova@edu.hse.ru 
+Any questions about the project should be directed to eaklykova@edu.hse.ru.
 
 *HSE, Moscow, Russia, December 2021.*
