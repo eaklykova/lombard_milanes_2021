@@ -1,0 +1,1392 @@
+# sent_id = lmo-mil-wiki-doc8-s1351
+# text = I vit de la Beckett e del Senator se inconten anmò quand che dopo de 'n omicidi troeuven on pian per mazzàl e on fusil de cecchin.
+1	I	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=203682:203683
+2	vit	vit	NOUN	S	Gender=Fem|Number=Plur	11	nsubj	_	TokenRange=203684:203687
+3	de	de	ADP	E	_	5	case	_	TokenRange=203688:203690
+4	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=203691:203693
+5	Beckett	Beckett	PROPN	SP	_	2	nmod	_	TokenRange=203694:203701
+6	e	e	CCONJ	CC	_	9	cc	_	TokenRange=203702:203703
+7-8	del	_	_	_	_	_	_	_	TokenRange=203704:203707
+7	de	de	ADP	E	_	9	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Senator	Senator	PROPN	SP	_	5	conj	_	TokenRange=203708:203715
+10	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	11	expl	_	TokenRange=203716:203718
+11	inconten	incontà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=203719:203727
+12	anmò	anmò	ADV	B	_	11	advmod	_	TokenRange=203728:203732
+13	quand	quand	SCONJ	CS	_	20	mark	_	TokenRange=203733:203738
+14	che	che	SCONJ	CS	_	20	mark	_	TokenRange=203739:203742
+15	dopo	dopo	ADV	B	_	19	case	_	TokenRange=203743:203747
+16	de	de	ADP	E	_	15	fixed	_	TokenRange=203748:203750
+17	'	'	PUNCT	FB	_	19	punct	_	SpaceAfter=No|TokenRange=203751:203752
+18	n	ne	PRON	SW	Clitic=Yes	19	det	_	TokenRange=203752:203753
+19	omicidi	omicidio	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	TokenRange=203754:203761
+20	troeuven	troeuvà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	advcl	_	TokenRange=203762:203770
+21	on	on	DET	SW	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	obj	_	TokenRange=203771:203773
+22	pian	pian	NOUN	SW	Foreign=Yes	21	flat:foreign	_	TokenRange=203774:203778
+23	per	per	ADP	E	_	24	case	_	TokenRange=203779:203782
+24	mazzàl	mazzà	NOUN	S	Gender=Masc	20	obl	_	TokenRange=203783:203789
+25	e	e	CCONJ	CC	_	27	cc	_	TokenRange=203790:203791
+26	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	TokenRange=203792:203794
+27	fusil	fusil	NOUN	S	Gender=Masc	24	conj	_	TokenRange=203795:203800
+28	de	de	ADP	E	_	29	case	_	TokenRange=203801:203803
+29	cecchin	cecchin	NOUN	S	Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No|TokenRange=203804:203811
+30	.	.	PUNCT	FS	_	11	punct	_	TokenRange=203811:203812
+
+# sent_id = lmo-mil-wiki-doc8-s1355
+# text = Quand che 'l descovrissen se preoccupen de bon, anca perchè lu el se regorda no se 'l biliett l'era nominal.
+1	Quand	quand	SCONJ	CS	_	4	mark	_	TokenRange=204663:204668
+2	che	che	SCONJ	CS	_	4	mark	_	TokenRange=204669:204672
+3	'l	el	PRON	PC	Clitic=Yes|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	TokenRange=204673:204675
+4	descovrissen	descovrà	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	TokenRange=204676:204688
+5	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	TokenRange=204689:204691
+6	preoccupen	preoccupene	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=204692:204702
+7	de	de	ADP	E	_	8	case	_	TokenRange=204703:204705
+8	bon	bon	ADV	S	_	6	obl	_	SpaceAfter=No|TokenRange=204706:204709
+9	,	,	PUNCT	FF	_	6	punct	_	TokenRange=204709:204710
+10	anca	anca	ADV	B	_	15	advmod	_	TokenRange=204711:204715
+11	perchè	perché	SCONJ	CS	_	15	mark	_	TokenRange=204716:204722
+12	lu	lu	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	TokenRange=204723:204725
+13	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	TokenRange=204726:204728
+14	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	15	expl:impers	_	TokenRange=204729:204731
+15	regorda	regordà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	TokenRange=204732:204739
+16	no	no	ADV	BN	PronType=Neg	15	advmod	_	TokenRange=204740:204742
+17	se	se	SCONJ	CS	_	22	mark	_	TokenRange=204743:204745
+18	'l	el	DET	RD	Clitic=Yes|Definite=Def|Gender=Masc|Number=Sing|PronType=Prs	19	det	_	TokenRange=204746:204748
+19	biliett	biliett	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	TokenRange=204749:204756
+20	l'	el	PRON	PC	Clitic=Yes|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	SpaceAfter=No|TokenRange=204757:204759
+21	era	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	cop	_	TokenRange=204759:204762
+22	nominal	nominal	ADJ	A	Gender=Masc|Number=Sing	15	advcl	_	SpaceAfter=No|TokenRange=204763:204770
+23	.	.	PUNCT	FS	_	6	punct	_	TokenRange=204770:204771
+
+# sent_id = lmo-mil-wiki-doc8-s1356
+# text = A la fin l'era no nominal e donca el ciappa domà ona sgidada per el biliett.
+1	A	a	ADP	E	_	3	case	_	TokenRange=204772:204773
+2	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	TokenRange=204774:204776
+3	fin	fino	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	TokenRange=204777:204780
+4	l'	el	PRON	PC	Clitic=Yes|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No|TokenRange=204781:204783
+5	era	ess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	TokenRange=204783:204786
+6	no	no	ADV	BN	PronType=Neg	7	advmod	_	TokenRange=204787:204789
+7	nominal	nominal	ADJ	A	Number=Sing	0	root	_	TokenRange=204790:204797
+8	e	e	CCONJ	CC	_	11	cc	_	TokenRange=204798:204799
+9	donca	donca	ADV	B	_	11	advmod	_	TokenRange=204800:204805
+10	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	TokenRange=204806:204808
+11	ciappa	ciappà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	TokenRange=204809:204815
+12	domà	domà	ADV	B	_	11	advmod	_	TokenRange=204816:204820
+13	ona	ono	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	TokenRange=204821:204824
+14	sgidada	sgidada	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	TokenRange=204825:204832
+15	per	per	ADP	E	_	17	case	_	TokenRange=204833:204836
+16	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	TokenRange=204837:204839
+17	biliett	biliett	NOUN	S	Gender=Masc	14	nmod	_	SpaceAfter=No|TokenRange=204840:204847
+18	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\r\n|TokenRange=204847:204848
+
+# sent_id = lmo-mil-wiki-doc8-s1357
+# text = La Beckett el ghe regala inveci on cassett in la sò cà, per fàgh cavà i vestii e fà sess.
+1	La	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=204850:204852
+2	Beckett	Beckett	PROPN	SP	_	5	nsubj	_	TokenRange=204853:204860
+3	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	TokenRange=204861:204863
+4	ghe	ghe	PRON	PC	PronType=Rel	5	iobj	_	TokenRange=204864:204867
+5	regala	regalà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=204868:204874
+6	inveci	inveci	ADV	B	_	5	advmod	_	TokenRange=204875:204881
+7	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=204882:204884
+8	cassett	cassett	NOUN	S	Gender=Masc	5	obj	_	TokenRange=204885:204892
+9	in	in	ADP	E	_	12	case	_	TokenRange=204893:204895
+10	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	TokenRange=204896:204898
+11	sò	sò	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	TokenRange=204899:204901
+12	cà	cà	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No|TokenRange=204902:204904
+13	,	,	PUNCT	FF	_	5	punct	_	TokenRange=204904:204905
+14	per	per	ADP	E	_	15	mark	_	TokenRange=204906:204909
+15	fàgh	fà	VERB	V	VerbForm=Inf	5	advcl	_	TokenRange=204910:204914
+16	cavà	cavà	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	ccomp	_	TokenRange=204915:204919
+17	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	TokenRange=204920:204921
+18	vestii	vestio	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	TokenRange=204922:204928
+19	e	e	CCONJ	CC	_	20	cc	_	TokenRange=204929:204930
+20	fà	fà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	TokenRange=204931:204933
+21	sess	sess	NOUN	S	Gender=Masc	20	obj	_	SpaceAfter=No|TokenRange=204934:204938
+22	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\r\n|TokenRange=204938:204939
+
+# sent_id = lmo-mil-wiki-doc8-s1358
+# text = Quand che rapissen Alexis lee la resta a New York per lavorà cont i agent del FBI e la và no a Paris cont el Castle.
+1	Quand	quand	SCONJ	CS	_	3	mark	_	TokenRange=204941:204946
+2	che	che	SCONJ	CS	_	3	mark	_	TokenRange=204947:204950
+3	rapissen	rapì	VERB	V	VerbForm=Inf	7	advcl	_	TokenRange=204951:204959
+4	Alexis	Alexis	PROPN	SP	_	3	obj	_	TokenRange=204960:204966
+5	lee	lee	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	expl	_	TokenRange=204967:204970
+6	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	TokenRange=204971:204973
+7	resta	restà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=204974:204979
+8	a	a	ADP	E	_	9	case	_	TokenRange=204980:204981
+9	New	New	PROPN	SP	_	7	obl	_	TokenRange=204982:204985
+10	York	York	PROPN	SP	_	9	flat:name	_	TokenRange=204986:204990
+11	per	per	ADP	E	_	12	mark	_	TokenRange=204991:204994
+12	lavorà	lavorà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	advcl	_	TokenRange=204995:205001
+13	cont	cont	ADP	E	_	15	case	_	TokenRange=205002:205006
+14	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	TokenRange=205007:205008
+15	agent	agent	NOUN	S	_	12	obl	_	TokenRange=205009:205014
+16-17	del	_	_	_	_	_	_	_	TokenRange=205015:205018
+16	di	de	ADP	E	_	18	case	_	_
+17	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	FBI	FBI	PROPN	SP	_	15	nmod	_	TokenRange=205019:205022
+19	e	e	CCONJ	CC	_	21	cc	_	TokenRange=205023:205024
+20	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	obj	_	TokenRange=205025:205027
+21	và	andà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	TokenRange=205028:205030
+22	no	no	ADV	BN	PronType=Neg	21	advmod	_	TokenRange=205031:205033
+23	a	a	ADP	E	_	24	case	_	TokenRange=205034:205035
+24	Paris	Paris	PROPN	SP	_	21	obl	_	TokenRange=205036:205041
+25	cont	cont	ADP	E	_	27	case	_	TokenRange=205042:205046
+26	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	TokenRange=205047:205049
+27	Castle	Castle	PROPN	SP	_	21	obl	_	SpaceAfter=No|TokenRange=205050:205056
+28	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\r\n|TokenRange=205056:205057
+
+# sent_id = lmo-mil-wiki-doc8-s1363
+# text = Se troeuven a indagà in su 'n bombaroeu quand che la Beckett la innesca, cont el camminà sora, 'na bomba e se la se moeuv la s'cioppa.
+1	Se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	2	expl	_	TokenRange=206129:206131
+2	troeuven	troeuvà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=206132:206140
+3	a	a	ADP	E	_	4	mark	_	TokenRange=206141:206142
+4	indagà	indagà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	xcomp	_	TokenRange=206143:206149
+5	in	in	ADP	E	_	6	case	_	TokenRange=206150:206152
+6	su	su	NOUN	S	_	4	obl	_	TokenRange=206153:206155
+7	'	'	PUNCT	FB	_	9	punct	_	SpaceAfter=No|TokenRange=206156:206157
+8	n	n	DET	SW	_	9	det	_	TokenRange=206157:206158
+9	bombaroeu	bombaroeu	NOUN	S	_	6	compound	_	TokenRange=206159:206168
+10	quand	quand	SCONJ	CS	_	15	mark	_	TokenRange=206169:206174
+11	che	che	SCONJ	CS	_	15	mark	_	TokenRange=206175:206178
+12	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	TokenRange=206179:206181
+13	Beckett	Beckett	PROPN	SP	_	15	nsubj	_	TokenRange=206182:206189
+14	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	TokenRange=206190:206192
+15	innesca	innescà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No|TokenRange=206193:206200
+16	,	,	PUNCT	FF	_	15	punct	_	TokenRange=206200:206201
+17	cont	cont	ADP	E	_	19	mark	_	TokenRange=206202:206206
+18	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	TokenRange=206207:206209
+19	camminà	camminà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	advcl	_	TokenRange=206210:206217
+20	sora	sora	ADV	B	_	19	advmod	_	SpaceAfter=No|TokenRange=206218:206222
+21	,	,	PUNCT	FF	_	19	punct	_	TokenRange=206222:206223
+22	'	'	PUNCT	FB	_	24	punct	_	SpaceAfter=No|TokenRange=206224:206225
+23	na	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	TokenRange=206225:206227
+24	bomba	bomba	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	TokenRange=206228:206233
+25	e	e	CCONJ	CC	_	32	cc	_	TokenRange=206234:206235
+26	se	se	SCONJ	CS	_	29	mark	_	TokenRange=206236:206238
+27	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	29	obj	_	TokenRange=206239:206241
+28	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	29	expl	_	TokenRange=206242:206244
+29	moeuv	moeuì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	advcl	_	TokenRange=206245:206250
+30	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	obj	_	TokenRange=206251:206253
+31	s'	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	32	expl	_	SpaceAfter=No|TokenRange=206254:206256
+32	cioppa	cioppà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	SpaceAfter=No|TokenRange=206256:206262
+33	.	.	PUNCT	FS	_	2	punct	_	TokenRange=206262:206263
+
+# sent_id = lmo-mil-wiki-doc8-s1364
+# text = Donca la comincia a ciciarà cont el Castle in sui primm contatt, i primm resiaa, i primm contatt fisegh e l'amor, e a la fin la se preoccupa cont el sperà che 'l vaga tutt ben.
+1	Donca	donca	ADV	B	_	3	advmod	_	TokenRange=206264:206269
+2	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	TokenRange=206270:206272
+3	comincia	comincià	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=206273:206281
+4	a	a	ADP	E	_	5	mark	_	TokenRange=206282:206283
+5	ciciarà	ciciarà	VERB	V	VerbForm=Inf	3	xcomp	_	TokenRange=206284:206291
+6	cont	cont	ADP	E	_	8	case	_	TokenRange=206292:206296
+7	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=206297:206299
+8	Castle	Castle	PROPN	SP	_	5	obl	_	TokenRange=206300:206306
+9	in	in	ADP	E	_	13	case	_	TokenRange=206307:206309
+10-11	sui	_	_	_	_	_	_	_	TokenRange=206310:206313
+10	su	su	ADP	E	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+11	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	primm	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	13	amod	_	TokenRange=206314:206319
+13	contatt	contatt	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No|TokenRange=206320:206327
+14	,	,	PUNCT	FF	_	17	punct	_	TokenRange=206327:206328
+15	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	TokenRange=206329:206330
+16	primm	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	17	amod	_	TokenRange=206331:206336
+17	resiaa	resiaa	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No|TokenRange=206337:206343
+18	,	,	PUNCT	FF	_	21	punct	_	TokenRange=206343:206344
+19	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	TokenRange=206345:206346
+20	primm	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	21	amod	_	TokenRange=206347:206352
+21	contatt	contatt	NOUN	S	Gender=Masc	13	conj	_	TokenRange=206353:206360
+22	fisegh	fisegh	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	TokenRange=206361:206367
+23	e	e	CCONJ	CC	_	25	cc	_	TokenRange=206368:206369
+24	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	_	SpaceAfter=No|TokenRange=206370:206372
+25	amor	amor	NOUN	S	Gender=Masc|Number=Sing	13	conj	_	SpaceAfter=No|TokenRange=206372:206376
+26	,	,	PUNCT	FF	_	33	punct	_	TokenRange=206376:206377
+27	e	e	CCONJ	CC	_	33	cc	_	TokenRange=206378:206379
+28	a	a	ADP	E	_	30	case	_	TokenRange=206380:206381
+29	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	TokenRange=206382:206384
+30	fin	fino	NOUN	S	Gender=Fem|Number=Sing	33	obl	_	TokenRange=206385:206388
+31	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	obj	_	TokenRange=206389:206391
+32	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	33	expl	_	TokenRange=206392:206394
+33	preoccupa	preoccupà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=206395:206404
+34	cont	cont	ADP	E	_	36	case	_	TokenRange=206405:206409
+35	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	TokenRange=206410:206412
+36	sperà	sperà	NOUN	S	Gender=Fem|Number=Sing	33	obj	_	TokenRange=206413:206418
+37	che	che	SCONJ	CS	_	40	mark	_	TokenRange=206419:206422
+38	'	'	PUNCT	FB	_	40	punct	_	SpaceAfter=No|TokenRange=206423:206424
+39	l	el	PRON	PC	Clitic=Yes|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	obj	_	TokenRange=206424:206425
+40	vaga	andà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	ccomp	_	TokenRange=206426:206430
+41	tutt	tutt	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	40	nsubj	_	TokenRange=206431:206435
+42	ben	ben	ADV	B	_	40	advmod	_	SpaceAfter=No|TokenRange=206436:206439
+43	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\r\n|TokenRange=206439:206440
+
+# sent_id = lmo-mil-wiki-doc8-s1365
+# text = Riven anca a ciamà vun di detective per domandàgh chi el s'è inamoraa per primm de l'alter.
+1	Riven	rivà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=206442:206447
+2	anca	anca	ADV	B	_	1	advmod	_	TokenRange=206448:206452
+3	a	a	ADP	E	_	4	mark	_	TokenRange=206453:206454
+4	ciamà	ciamà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	xcomp	_	TokenRange=206455:206460
+5	vun	vun	PRON	PI	Gender=Masc|Definite=Ind|Number=Sing|PronType=Ind	4	obj	_	TokenRange=206461:206464
+6	di	de	ADP	E	_	7	case	_	TokenRange=206465:206467
+7	detective	detectiva	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	TokenRange=206468:206477
+8	per	per	ADP	E	_	9	mark	_	TokenRange=206478:206481
+9	domandàgh	domandàgh	VERB	V	VerbForm=Inf	1	advcl	_	TokenRange=206482:206491
+10	chi	chi	PRON	PR	Number=Sing|PronType=Rel	9	obj	_	TokenRange=206492:206495
+11	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	TokenRange=206496:206498
+12	s'	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	14	expl	_	SpaceAfter=No|TokenRange=206499:206501
+13	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	TokenRange=206501:206502
+14	inamoraa	inamorà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	TokenRange=206503:206511
+15	per	per	ADP	E	_	16	case	_	TokenRange=206512:206515
+16	primm	primm	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	14	obl	_	TokenRange=206516:206521
+17	de	de	ADP	E	_	19	case	_	TokenRange=206522:206524
+18	l'	el	DET	RD	Clitic=Yes|Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No|TokenRange=206525:206527
+19	alter	alter	NOUN	S	_	14	obl	_	SpaceAfter=No|TokenRange=206527:206532
+20	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\r\n|TokenRange=206532:206533
+
+# sent_id = lmo-mil-wiki-doc8-s1367
+# text = Quand che manchen 10 megnuu i gh'ha de salutàss senza nanca podè basàss per via de l'innesch.
+1	Quand	quand	SCONJ	CS	_	8	mark	_	TokenRange=206719:206724
+2	che	che	SCONJ	CS	_	8	mark	_	TokenRange=206725:206728
+3	manchen	manchà	ADV	B	_	4	advmod	_	TokenRange=206729:206736
+4	10	10	NUM	N	NumType=Card	8	nummod	_	TokenRange=206737:206739
+5	megnuu	megnuu	NOUN	PI	_	8	nsubj	_	TokenRange=206740:206746
+6	i	el	PRON	PC	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	obj	_	TokenRange=206747:206748
+7	gh'	gh'	PRON	PC	_	8	nsubj	_	SpaceAfter=No|TokenRange=206749:206752
+8	ha	avè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	TokenRange=206752:206754
+9	de	de	ADP	E	_	10	case	_	TokenRange=206755:206757
+10	salutàss	salutàss	NOUN	S	Gender=Fem	8	xcomp	_	TokenRange=206758:206766
+11	senza	senza	ADP	E	_	12	case	_	TokenRange=206767:206772
+12	nanca	nanca	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	TokenRange=206773:206778
+13	podè	podè	AUX	VM	VerbForm=Inf	14	aux	_	TokenRange=206779:206783
+14	basàss	basàss	VERB	V	VerbForm=Inf	0	root	_	TokenRange=206784:206790
+15	per	per	ADP	E	_	16	case	_	TokenRange=206791:206794
+16	via	via	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	TokenRange=206795:206798
+17	de	de	ADP	E	_	19	case	_	TokenRange=206799:206801
+18	l'	el	DET	RD	Clitic=Yes|Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No|TokenRange=206802:206804
+19	innesch	innesch	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No|TokenRange=206804:206811
+20	.	.	PUNCT	FS	_	14	punct	_	TokenRange=206811:206812
+
+# sent_id = lmo-mil-wiki-doc8-s1369
+# text = Quand che la riva la Capa Gates i invita a basàss e la ammett de savè tuscoss in sul sò amor.
+1	Quand	quand	SCONJ	CS	_	4	mark	_	TokenRange=207118:207123
+2	che	che	SCONJ	CS	_	4	mark	_	TokenRange=207124:207127
+3	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	TokenRange=207128:207130
+4	riva	rivà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	TokenRange=207131:207135
+5	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=207136:207138
+6	Capa	Capa	PROPN	SP	_	9	nsubj	_	TokenRange=207139:207143
+7	Gates	Gates	PROPN	SP	_	6	flat:name	_	TokenRange=207144:207149
+8	i	el	PRON	PC	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	TokenRange=207150:207151
+9	invita	invità	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=207152:207158
+10	a	a	ADP	E	_	11	mark	_	TokenRange=207159:207160
+11	basàss	basàss	VERB	V	VerbForm=Inf	9	xcomp	_	TokenRange=207161:207167
+12	e	e	CCONJ	CC	_	14	cc	_	TokenRange=207168:207169
+13	la	el	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	_	TokenRange=207170:207172
+14	ammett	ammett	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	TokenRange=207173:207179
+15	de	de	ADP	E	_	16	mark	_	TokenRange=207180:207182
+16	savè	savè	VERB	V	VerbForm=Inf	14	xcomp	_	TokenRange=207183:207187
+17	tuscoss	tuscoss	X	SW	_	16	obj	_	TokenRange=207188:207195
+18	in	in	ADP	E	_	22	case	_	TokenRange=207196:207198
+19-20	sul	_	_	_	_	_	_	_	TokenRange=207199:207202
+19	su	su	ADP	E	_	18	fixed	_	_
+20	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	TokenRange=207203:207205
+22	amor	amor	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No|TokenRange=207206:207210
+23	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\r\n|TokenRange=207210:207211
+
+# sent_id = lmo-mil-wiki-doc8-s1374
+# text = La accetta poeu el lavorà a nivell federal e la va a viv a Washington DC, capital de la Federazion.
+1	La	el	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	TokenRange=207946:207948
+2	accetta	accettà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=207949:207956
+3	poeu	poeu	ADV	B	_	2	advmod	_	TokenRange=207957:207961
+4	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	TokenRange=207962:207964
+5	lavorà	lavorà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	conj	_	TokenRange=207965:207971
+6	a	a	ADP	E	_	7	case	_	TokenRange=207972:207973
+7	nivell	nivell	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	TokenRange=207974:207980
+8	federal	federal	ADJ	A	Number=Sing	7	amod	_	TokenRange=207981:207988
+9	e	e	CCONJ	CC	_	11	cc	_	TokenRange=207989:207990
+10	la	el	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	TokenRange=207991:207993
+11	va	andà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	TokenRange=207994:207996
+12	a	a	ADP	E	_	13	case	_	TokenRange=207997:207998
+13	viv	viv	VERB	V	VerbForm=Inf	11	xcomp	_	TokenRange=207999:208002
+14	a	a	ADP	E	_	15	case	_	TokenRange=208003:208004
+15	Washington	Washington	PROPN	SP	_	11	obl	_	TokenRange=208005:208015
+16	DC	DC	PROPN	SP	_	15	flat:name	_	SpaceAfter=No|TokenRange=208016:208018
+17	,	,	PUNCT	FF	_	15	punct	_	TokenRange=208018:208019
+18	capital	capital	NOUN	S	Gender=Fem|Number=Sing	15	appos	_	TokenRange=208020:208027
+19	de	de	ADP	E	_	21	case	_	TokenRange=208028:208030
+20	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	TokenRange=208031:208033
+21	Federazion	Federazion	PROPN	SP	_	18	nmod	_	SpaceAfter=No|TokenRange=208034:208044
+22	.	.	PUNCT	FS	_	2	punct	_	TokenRange=208044:208045
+
+# sent_id = lmo-mil-wiki-doc8-s1376
+# text = L'è poeu rapii de on sospettaa che 'l moeur in macchina cont lu, e per quest a l'è interogaa di federai.
+1	L'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Clit	4	expl	_	SpaceAfter=No|TokenRange=208288:208290
+2	è	vesse	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	TokenRange=208290:208291
+3	poeu	poeu	ADV	B	_	4	advmod	_	TokenRange=208292:208296
+4	rapii	rapì	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	TokenRange=208297:208302
+5	de	de	ADP	E	_	7	case	_	TokenRange=208303:208305
+6	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=208306:208308
+7	sospettaa	sospettaa	NOUN	S	Number=Sing|Gender=Masc	4	obl	_	TokenRange=208309:208318
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	TokenRange=208319:208322
+9	'l	la	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	TokenRange=208323:208325
+10	moeur	moeur	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	TokenRange=208326:208331
+11	in	in	ADP	E	_	12	case	_	TokenRange=208332:208334
+12	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	TokenRange=208335:208343
+13	cont	cont	ADP	E	_	14	case	_	TokenRange=208344:208348
+14	lu	lù	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	SpaceAfter=No|TokenRange=208349:208351
+15	,	,	PUNCT	FF	_	22	punct	_	TokenRange=208351:208352
+16	e	e	CCONJ	CC	_	22	cc	_	TokenRange=208353:208354
+17	per	per	ADP	E	_	18	case	_	TokenRange=208355:208358
+18	quest	quest	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	22	obl	_	TokenRange=208359:208364
+19	a	a	ADP	E	_	22	case	_	TokenRange=208365:208366
+20	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	22	obj	_	SpaceAfter=No|TokenRange=208367:208369
+21	è	vesse	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	TokenRange=208369:208370
+22	interogaa	interogà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	TokenRange=208371:208380
+23	di	de	ADP	E	_	24	case	_	TokenRange=208381:208383
+24	federai	federaio	NOUN	S	Gender=Masc|Number=Plur	22	obl	_	SpaceAfter=No|TokenRange=208384:208391
+25	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\r\n|TokenRange=208391:208392
+
+# sent_id = lmo-mil-wiki-doc8-s1412
+# text = Però i omen di affar interni se insospettissen e fann irruzion, donca lee, Castle, Ryan ed Esposito a hinn menaa via.
+1	Però	però	ADV	B	_	8	advmod	_	TokenRange=214239:214243
+2	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	TokenRange=214244:214245
+3	omen	omen	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	TokenRange=214246:214250
+4	di	de	ADP	E	_	5	case	_	TokenRange=214251:214253
+5	affar	affar	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	TokenRange=214254:214259
+6	interni	interno	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	TokenRange=214260:214267
+7	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	8	expl	_	TokenRange=214268:214270
+8	insospettissen	insospettì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=214271:214285
+9	e	e	CCONJ	CC	_	10	cc	_	TokenRange=214286:214287
+10	fann	fà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	TokenRange=214288:214292
+11	irruzion	irruzion	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No|TokenRange=214293:214301
+12	,	,	PUNCT	FF	_	10	punct	_	TokenRange=214301:214302
+13	donca	donca	ADV	B	_	23	advmod	_	TokenRange=214303:214308
+14	lee	lee	PROPN	SP	_	23	nsubj	_	SpaceAfter=No|TokenRange=214309:214312
+15	,	,	PUNCT	FF	_	16	punct	_	TokenRange=214312:214313
+16	Castle	Castle	PROPN	SP	_	14	conj	_	SpaceAfter=No|TokenRange=214314:214320
+17	,	,	PUNCT	FF	_	18	punct	_	TokenRange=214320:214321
+18	Ryan	Ryan	PROPN	SP	_	14	conj	_	TokenRange=214322:214326
+19	ed	e	CCONJ	CC	_	20	cc	_	TokenRange=214327:214329
+20	Esposito	Esposito	PROPN	SP	_	14	conj	_	TokenRange=214330:214338
+21	a	a	ADP	E	_	23	mark	_	TokenRange=214339:214340
+22	hinn	vess	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	TokenRange=214341:214345
+23	menaa	menà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	TokenRange=214346:214351
+24	via	via	ADV	B	_	23	advmod	_	SpaceAfter=No|TokenRange=214352:214355
+25	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\r\n|TokenRange=214355:214356
+
+# sent_id = lmo-mil-wiki-doc8-s1414
+# text = Donca, longh on'intervista, la riva e la mena via el Senator per omicidi, denanz di telecamer.
+1	Donca	donca	ADV	B	_	8	advmod	_	SpaceAfter=No|TokenRange=214644:214649
+2	,	,	PUNCT	FF	_	1	punct	_	TokenRange=214649:214650
+3	longh	longh	VERB	V	_	8	advcl	_	TokenRange=214651:214656
+4	on'	on	DET	RI	Clitic=Yes|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|TokenRange=214657:214660
+5	intervista	intervista	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No|TokenRange=214660:214670
+6	,	,	PUNCT	FF	_	5	punct	_	TokenRange=214670:214671
+7	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	TokenRange=214672:214674
+8	riva	rivà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=214675:214679
+9	e	e	CCONJ	CC	_	11	cc	_	TokenRange=214680:214681
+10	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	TokenRange=214682:214684
+11	mena	menà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	TokenRange=214685:214689
+12	via	via	ADV	B	_	11	advmod	_	TokenRange=214690:214693
+13	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	TokenRange=214694:214696
+14	Senator	Senator	PROPN	SP	_	11	obj	_	TokenRange=214697:214704
+15	per	per	ADP	E	_	16	case	_	TokenRange=214705:214708
+16	omicidi	omicidio	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No|TokenRange=214709:214716
+17	,	,	PUNCT	FF	_	11	punct	_	TokenRange=214716:214717
+18	denanz	denanz	ADV	B	_	20	case	_	TokenRange=214718:214724
+19	di	de	ADP	E	_	18	fixed	_	TokenRange=214725:214727
+20	telecamer	telecamer	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No|TokenRange=214728:214737
+21	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\r\n|TokenRange=214737:214738
+
+# sent_id = lmo-mil-wiki-doc8-s1415
+# text = I gh'ha de ciappà la licenza de matrimoni e donca vann in l'offizi de l'anagrafa.
+1	I	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=214740:214741
+2	gh'	gh'	NOUN	S	Gender=Masc	3	nsubj	_	SpaceAfter=No|TokenRange=214742:214745
+3	ha	avè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=214745:214747
+4	de	de	ADP	E	_	5	mark	_	TokenRange=214748:214750
+5	ciappà	ciappà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	xcomp	_	TokenRange=214751:214757
+6	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	TokenRange=214758:214760
+7	licenza	licenza	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	TokenRange=214761:214768
+8	de	de	ADP	E	_	9	case	_	TokenRange=214769:214771
+9	matrimoni	matrimone	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	TokenRange=214772:214781
+10	e	e	CCONJ	CC	_	12	cc	_	TokenRange=214782:214783
+11	donca	donca	ADV	B	_	12	advmod	_	TokenRange=214784:214789
+12	vann	andà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=214790:214794
+13	in	in	ADP	E	_	15	case	_	TokenRange=214795:214797
+14	l'	el	DET	RD	Clitic=Yes|Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No|TokenRange=214798:214800
+15	offizi	offizio	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	TokenRange=214800:214806
+16	de	de	ADP	E	_	18	case	_	TokenRange=214807:214809
+17	l'	el	DET	RD	Clitic=Yes|Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No|TokenRange=214810:214812
+18	anagrafa	anagrafa	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No|TokenRange=214812:214820
+19	.	.	PUNCT	FS	_	3	punct	_	TokenRange=214820:214821
+
+# sent_id = lmo-mil-wiki-doc8-s1417
+# text = Donca lee la va la ricerca del marii per fàgh firmaa i document per nullà el matrimoni, e descovrissen che l'è ona persona strana e cont di precendent piscininn.
+1	Donca	donca	ADV	B	_	4	advmod	_	TokenRange=215011:215016
+2	lee	lee	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	TokenRange=215017:215020
+3	la	el	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	TokenRange=215021:215023
+4	va	andà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=215024:215026
+5	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=215027:215029
+6	ricerca	ricerca	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	TokenRange=215030:215037
+7-8	del	_	_	_	_	_	_	_	TokenRange=215038:215041
+7	di	de	ADP	E	_	9	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	marii	marii	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	TokenRange=215042:215047
+10	per	per	ADP	E	_	11	mark	_	TokenRange=215048:215051
+11	fàgh	fà	VERB	V	VerbForm=Inf	4	advcl	_	TokenRange=215052:215056
+12	firmaa	firmà	VERB	V	Gender=Fem|Number=Sing	11	ccomp	_	TokenRange=215057:215063
+13	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	TokenRange=215064:215065
+14	document	document	NOUN	S	Gender=Masc	12	obj	_	TokenRange=215066:215074
+15	per	per	ADP	E	_	16	case	_	TokenRange=215075:215078
+16	nullà	nullà	VERB	V	VerbForm=Inf	12	advcl	_	TokenRange=215079:215084
+17	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	TokenRange=215085:215087
+18	matrimoni	matrimone	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No|TokenRange=215088:215097
+19	,	,	PUNCT	FF	_	21	punct	_	TokenRange=215097:215098
+20	e	e	CCONJ	CC	_	21	cc	_	TokenRange=215099:215100
+21	descovrissen	descovrì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	TokenRange=215101:215113
+22	che	che	SCONJ	CS	_	26	mark	_	TokenRange=215114:215117
+23	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	26	det	_	SpaceAfter=No|TokenRange=215118:215120
+24	è	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	TokenRange=215120:215121
+25	ona	ona	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	TokenRange=215122:215125
+26	persona	persona	NOUN	S	Gender=Fem|Number=Sing	21	ccomp	_	TokenRange=215126:215133
+27	strana	strano	ADJ	A	Gender=Fem|Number=Sing	26	amod	_	TokenRange=215134:215140
+28	e	e	CCONJ	CC	_	29	cc	_	TokenRange=215141:215142
+29	cont	cont	ADV	B	_	27	conj	_	TokenRange=215143:215147
+30	di	de	ADP	E	_	31	case	_	TokenRange=215148:215150
+31	precendent	precendente	NOUN	S	Gender=Masc|Number=Plur	29	nmod	_	TokenRange=215151:215161
+32	piscininn	piscininn	ADJ	A	Gender=Masc|Number=Plur	31	amod	_	SpaceAfter=No|TokenRange=215162:215171
+33	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\r\n|TokenRange=215171:215172
+
+# sent_id = lmo-mil-wiki-doc8-s1418
+# text = Lu el ghe domanda de ciappà 'na roba de la soa ex prima de firmà, el fa ma a l'è rapii prima che lee 'l poeuda dàgh di document.
+1	Lu	lù	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	TokenRange=215174:215176
+2	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	TokenRange=215177:215179
+3	ghe	ghe	PRON	PR	PronType=Rel	4	nsubj	_	TokenRange=215180:215183
+4	domanda	domandà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=215184:215191
+5	de	de	ADP	E	_	6	mark	_	TokenRange=215192:215194
+6	ciappà	ciappà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	xcomp	_	TokenRange=215195:215201
+7	'	'	PUNCT	FB	_	9	punct	_	SpaceAfter=No|TokenRange=215202:215203
+8	na	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	TokenRange=215203:215205
+9	roba	roba	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	TokenRange=215206:215210
+10	de	de	ADP	E	_	13	case	_	TokenRange=215211:215213
+11	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	TokenRange=215214:215216
+12	soa	soo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	TokenRange=215217:215220
+13	ex	ex	ADJ	A	_	9	nmod	_	TokenRange=215221:215223
+14	prima	prima	ADV	B	_	16	case	_	TokenRange=215224:215229
+15	de	de	ADP	E	_	14	fixed	_	TokenRange=215230:215232
+16	firmà	firmà	VERB	V	VerbForm=Inf	9	xcomp	_	SpaceAfter=No|TokenRange=215233:215238
+17	,	,	PUNCT	FF	_	19	punct	_	TokenRange=215238:215239
+18	el	el	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	TokenRange=215240:215242
+19	fa	fà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=215243:215245
+20	ma	ma	CCONJ	CC	_	24	cc	_	TokenRange=215246:215248
+21	a	a	ADP	E	_	24	case	_	TokenRange=215249:215250
+22	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	24	obj	_	SpaceAfter=No|TokenRange=215251:215253
+23	è	vesse	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	TokenRange=215253:215254
+24	rapii	rapì	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	19	conj	_	TokenRange=215255:215260
+25	prima	prima	ADV	B	_	30	mark	_	TokenRange=215261:215266
+26	che	che	SCONJ	CS	_	25	fixed	_	TokenRange=215267:215270
+27	lee	lee	PRON	PE	Number=Sing|Person=3|PronType=Prs	30	nsubj	_	TokenRange=215271:215274
+28	'	'	PUNCT	FB	_	30	punct	_	SpaceAfter=No|TokenRange=215275:215276
+29	l	l	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obj	_	TokenRange=215276:215277
+30	poeuda	poeudere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	TokenRange=215278:215284
+31	dàgh	dàgh	X	S	_	30	obj	_	TokenRange=215285:215289
+32	di	de	ADP	E	_	33	case	_	TokenRange=215290:215292
+33	document.	document.	NOUN	S	Gender=Masc|Number=Sing	31	nmod	_	SpacesAfter=\r\n|TokenRange=215293:215302
+
+# sent_id = lmo-mil-wiki-doc8-s1419
+# text = Intant el Castle el riva, e gh'è on poo de rebelòtt:
+1	Intant	intant	ADV	B	_	5	advmod	_	TokenRange=215304:215310
+2	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=215311:215313
+3	Castle	Castle	PROPN	SP	_	5	nsubj	_	TokenRange=215314:215320
+4	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	TokenRange=215321:215323
+5	riva	rivà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=215324:215328
+6	,	,	PUNCT	FF	_	9	punct	_	TokenRange=215328:215329
+7	e	e	CCONJ	CC	_	9	cc	_	TokenRange=215330:215331
+8	gh'	gh'	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	SpaceAfter=No|TokenRange=215332:215335
+9	è	vesse	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	TokenRange=215335:215336
+10	on	on	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	TokenRange=215337:215339
+11	poo	poo	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	TokenRange=215340:215343
+12	de	de	ADP	E	_	13	case	_	TokenRange=215344:215346
+13	rebelòtt	rebelòtt	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No|TokenRange=215347:215355
+14	:	:	PUNCT	FC	_	5	punct	_	TokenRange=215355:215356
+
+# sent_id = lmo-mil-wiki-doc8-s1420
+# text = Prima la brusa la location, e donca Alexis e la mamma del Castle deciden de sposàss in la cà di vacanz, poeu el se bagna el vestii:
+1	Prima	prima	ADV	B	_	3	advmod	_	TokenRange=215357:215362
+2	la	el	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	TokenRange=215363:215365
+3	brusa	brusà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=215366:215371
+4	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=215372:215374
+5	location	location	NOUN	S	Gender=Fem	3	nsubj	_	SpaceAfter=No|TokenRange=215375:215383
+6	,	,	PUNCT	FF	_	16	punct	_	TokenRange=215383:215384
+7	e	e	CCONJ	CC	_	16	cc	_	TokenRange=215385:215386
+8	donca	donca	ADV	B	_	16	advmod	_	TokenRange=215387:215392
+9	Alexis	Alexis	PROPN	SP	_	16	nsubj	_	TokenRange=215393:215399
+10	e	e	CCONJ	CC	_	12	cc	_	TokenRange=215400:215401
+11	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	TokenRange=215402:215404
+12	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	TokenRange=215405:215410
+13-14	del	_	_	_	_	_	_	_	TokenRange=215411:215414
+13	di	de	ADP	E	_	15	case	_	_
+14	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Castle	Castle	PROPN	SP	_	12	nmod	_	TokenRange=215415:215421
+16	deciden	decidà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=215422:215429
+17	de	de	ADP	E	_	18	mark	_	TokenRange=215430:215432
+18	sposàss	sposà	VERB	V	VerbForm=Inf	16	xcomp	_	TokenRange=215433:215440
+19	in	in	ADP	E	_	21	case	_	TokenRange=215441:215443
+20	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	TokenRange=215444:215446
+21	cà	cà	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	TokenRange=215447:215449
+22	di	de	ADP	E	_	23	case	_	TokenRange=215450:215452
+23	vacanz	vacanz	NOUN	S	Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No|TokenRange=215453:215459
+24	,	,	PUNCT	FF	_	16	punct	_	TokenRange=215459:215460
+25	poeu	poeu	ADV	B	_	28	advmod	_	TokenRange=215461:215465
+26	el	el	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	TokenRange=215466:215468
+27	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	28	expl	_	TokenRange=215469:215471
+28	bagna	bagnà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	TokenRange=215472:215477
+29	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	TokenRange=215478:215480
+30	vestii	vestio	NOUN	S	Gender=Masc|Number=Plur	28	obj	_	SpaceAfter=No|TokenRange=215481:215487
+31	:	:	PUNCT	FC	_	3	punct	_	TokenRange=215487:215488
+
+# sent_id = lmo-mil-wiki-doc8-s1421
+# text = Per lee l'era squasi on segn, e 'l Castle la ghe dis che tucc i storij pussee bej hinn cont di difficoltà.
+1	Per	per	ADP	E	_	2	case	_	TokenRange=215489:215492
+2	lee	lee	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	obl	_	TokenRange=215493:215496
+3	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No|TokenRange=215497:215499
+4	era	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	TokenRange=215499:215502
+5	squasi	squasi	ADV	B	_	7	advmod	_	TokenRange=215503:215509
+6	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=215510:215512
+7	segn	segn	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=215513:215517
+8	,	,	PUNCT	FF	_	14	punct	_	TokenRange=215517:215518
+9	e	e	CCONJ	CC	_	14	cc	_	TokenRange=215519:215520
+10	'l	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	TokenRange=215521:215523
+11	Castle	Castle	PROPN	SP	_	14	nsubj	_	TokenRange=215524:215530
+12	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	_	TokenRange=215531:215533
+13	ghe	ghe	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	iobj	_	TokenRange=215534:215537
+14	dis	dà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	TokenRange=215538:215541
+15	che	che	SCONJ	CS	_	21	mark	_	TokenRange=215542:215545
+16	tucc	tucc	DET	T	_	18	det:predet	_	TokenRange=215546:215550
+17	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	TokenRange=215551:215552
+18	storij	storia	NOUN	S	Gender=Fem|Number=Plur	21	nsubj	_	TokenRange=215553:215559
+19	pussee	pussee	ADV	A	_	20	advmod	_	TokenRange=215560:215566
+20	bej	bej	ADJ	A	_	18	amod	_	TokenRange=215567:215570
+21	hinn	vesse	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	TokenRange=215571:215575
+22	cont	cont	NOUN	S	_	21	obj	_	TokenRange=215576:215580
+23	di	de	ADP	E	_	24	case	_	TokenRange=215581:215583
+24	difficoltà	difficoltà	NOUN	S	Gender=Fem	22	nmod	_	SpaceAfter=No|TokenRange=215584:215594
+25	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\r\n|TokenRange=215594:215595
+
+# sent_id = lmo-mil-wiki-doc8-s1426
+# text = Quand che l'era dree rivà al matrimoni l'auto del Castle la va in d'on foss, e donca lu el riva no.
+1	Quand	quand	SCONJ	CS	_	6	mark	_	TokenRange=216423:216428
+2	che	che	SCONJ	CS	_	6	mark	_	TokenRange=216429:216432
+3	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No|TokenRange=216433:216435
+4	era	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	TokenRange=216435:216438
+5	dree	dree	NOUN	S	_	6	advcl	_	TokenRange=216439:216443
+6	rivà	rivà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	advcl	_	TokenRange=216444:216448
+7-8	al	_	_	_	_	_	_	_	TokenRange=216449:216451
+7	a	a	ADP	E	_	9	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	matrimoni	matrimone	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	TokenRange=216452:216461
+10	l'	el	DET	RD	Clitic=Yes|Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No|TokenRange=216462:216464
+11	auto	auto	NOUN	S	Gender=Fem	16	nsubj	_	TokenRange=216464:216468
+12-13	del	_	_	_	_	_	_	_	TokenRange=216469:216472
+12	di	de	ADP	E	_	14	case	_	_
+13	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Castle	Castle	PROPN	SP	_	11	nmod	_	TokenRange=216473:216479
+15	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	TokenRange=216480:216482
+16	va	andà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=216483:216485
+17	in	in	ADP	E	_	20	case	_	TokenRange=216486:216488
+18	d'	de	ADP	E	_	17	fixed	_	Clitic=Yes|SpaceAfter=No|TokenRange=216489:216491
+19	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	TokenRange=216491:216493
+20	foss	foss	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No|TokenRange=216494:216498
+21	,	,	PUNCT	FF	_	26	punct	_	TokenRange=216498:216499
+22	e	e	CCONJ	CC	_	26	cc	_	TokenRange=216500:216501
+23	donca	donca	ADV	B	_	26	advmod	_	TokenRange=216502:216507
+24	lu	lu	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	TokenRange=216508:216510
+25	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obj	_	TokenRange=216511:216513
+26	riva	rivà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	TokenRange=216514:216518
+27	no	no	ADV	BN	PronType=Neg	26	advmod	_	SpaceAfter=No|TokenRange=216519:216521
+28	.	.	PUNCT	FS	_	16	punct	_	TokenRange=216521:216522
+
+# sent_id = lmo-mil-wiki-doc8-s1427
+# text = Lee l'è poeu ciamada, e la riva e la ved la macchina che la brusa, e la luccia.
+1	Lee	Lee	PRON	PC	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	TokenRange=216523:216526
+2	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No|TokenRange=216527:216529
+3	è	vesse	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=216529:216530
+4	poeu	poeu	ADV	B	_	5	advmod	_	TokenRange=216531:216535
+5	ciamada	ciamà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|TokenRange=216536:216543
+6	,	,	PUNCT	FF	_	9	punct	_	TokenRange=216543:216544
+7	e	e	CCONJ	CC	_	9	cc	_	TokenRange=216545:216546
+8	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	TokenRange=216547:216549
+9	riva	rivà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	TokenRange=216550:216554
+10	e	e	CCONJ	CC	_	12	cc	_	TokenRange=216555:216556
+11	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	TokenRange=216557:216559
+12	ved	vedè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	TokenRange=216560:216563
+13	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	TokenRange=216564:216566
+14	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	TokenRange=216567:216575
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	TokenRange=216576:216579
+16	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	_	TokenRange=216580:216582
+17	brusa	brusà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No|TokenRange=216583:216588
+18	,	,	PUNCT	FF	_	21	punct	_	TokenRange=216588:216589
+19	e	e	CCONJ	CC	_	21	cc	_	TokenRange=216590:216591
+20	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	obj	_	TokenRange=216592:216594
+21	luccia	luccià	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	SpaceAfter=No|TokenRange=216595:216601
+22	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\r\n|TokenRange=216601:216602
+
+# sent_id = lmo-mil-wiki-doc8-s1429
+# text = Interogaa, i sò informazion menen a di video che mosten che quell che l'ha organizzaa i robb a l'è proppi Castle.
+1	Interogaa	interogà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	SpaceAfter=No|TokenRange=216744:216753
+2	,	,	PUNCT	FF	_	1	punct	_	TokenRange=216753:216754
+3	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	TokenRange=216755:216756
+4	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	TokenRange=216757:216759
+5	informazion	informazion	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	TokenRange=216760:216771
+6	menen	menà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=216772:216777
+7	a	a	ADP	E	_	9	case	_	TokenRange=216778:216779
+8	di	de	ADP	E	_	9	case	_	TokenRange=216780:216782
+9	video	video	NOUN	S	Gender=Masc	6	obl	_	TokenRange=216783:216788
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	TokenRange=216789:216792
+11	mosten	mostà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	TokenRange=216793:216799
+12	che	che	SCONJ	CS	_	24	mark	_	TokenRange=216800:216803
+13	quell	quell	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	22	nsubj	_	TokenRange=216804:216809
+14	che	che	PRON	PR	PronType=Rel	17	nsubj	_	TokenRange=216810:216813
+15	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	17	obj	_	SpaceAfter=No|TokenRange=216814:216816
+16	ha	avè	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	TokenRange=216816:216818
+17	organizzaa	organizzà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	acl:relcl	_	TokenRange=216819:216829
+18	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	TokenRange=216830:216831
+19	robb	robb	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	TokenRange=216832:216836
+20	a	a	ADP	E	_	22	case	_	TokenRange=216837:216838
+21	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	22	obj	_	SpaceAfter=No|TokenRange=216839:216841
+22	è	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	TokenRange=216841:216842
+23	proppi	propi	ADV	B	_	24	advmod	_	TokenRange=216843:216849
+24	Castle	Castle	PROPN	SP	_	22	xcomp	_	SpaceAfter=No|TokenRange=216850:216856
+25	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\r\n|TokenRange=216856:216857
+
+# sent_id = lmo-mil-wiki-doc8-s1431
+# text = Quand che vann de vun di testimoni, descovrissen che l'era in testimon fals, e donca i polee ciappen de noeuv fiducia in luu, dopo avè pensaa che la fuss 'na scusa per sposàlla no.
+1	Quand	quand	SCONJ	CS	_	3	mark	_	TokenRange=217186:217191
+2	che	che	SCONJ	CS	_	3	mark	_	TokenRange=217192:217195
+3	vann	andà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	TokenRange=217196:217200
+4	de	de	ADP	E	_	5	case	_	TokenRange=217201:217203
+5	vun	on	PRON	PI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	3	obl	_	TokenRange=217204:217207
+6	di	di	ADP	E	_	7	case	_	TokenRange=217208:217210
+7	testimoni	testimone	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No|TokenRange=217211:217220
+8	,	,	PUNCT	FF	_	3	punct	_	TokenRange=217220:217221
+9	descovrissen	descovrisre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=217222:217234
+10	che	che	SCONJ	CS	_	14	mark	_	TokenRange=217235:217238
+11	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	14	obj	_	SpaceAfter=No|TokenRange=217239:217241
+12	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	TokenRange=217241:217244
+13	in	in	ADP	E	_	14	case	_	TokenRange=217245:217247
+14	testimon	testimon	NOUN	S	Gender=Masc	9	ccomp	_	TokenRange=217248:217256
+15	fals	fals	ADJ	A	Number=Sing	14	amod	_	SpaceAfter=No|TokenRange=217257:217261
+16	,	,	PUNCT	FF	_	21	punct	_	TokenRange=217261:217262
+17	e	e	CCONJ	CC	_	21	cc	_	TokenRange=217263:217264
+18	donca	donca	ADV	B	_	21	advmod	_	TokenRange=217265:217270
+19	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	TokenRange=217271:217272
+20	polee	polea	NOUN	S	Gender=Masc|Number=Plur	21	nsubj	_	TokenRange=217273:217278
+21	ciappen	ciappenre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	TokenRange=217279:217286
+22	de	de	ADP	E	_	24	case	_	TokenRange=217287:217289
+23	noeuv	noeuv	ADJ	A	Gender=Fem|Number=Sing	24	amod	_	TokenRange=217290:217295
+24	fiducia	fiducia	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	TokenRange=217296:217303
+25	in	in	ADP	E	_	26	case	_	TokenRange=217304:217306
+26	luu	luu	PRON	PE	Foreign=Yes	21	obl	_	SpaceAfter=No|TokenRange=217307:217310
+27	,	,	PUNCT	FF	_	21	punct	_	TokenRange=217310:217311
+28	dopo	dopo	SCONJ	CS	_	30	mark	_	TokenRange=217312:217316
+29	avè	rre	AUX	VA	VerbForm=Inf	30	aux	_	TokenRange=217317:217320
+30	pensaa	pensà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	_	TokenRange=217321:217327
+31	che	che	SCONJ	CS	_	36	mark	_	TokenRange=217328:217331
+32	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	obj	_	TokenRange=217332:217334
+33	fuss	fondere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	36	cop	_	TokenRange=217335:217339
+34	'	'	PUNCT	FB	_	36	punct	_	SpaceAfter=No|TokenRange=217340:217341
+35	na	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	36	det	_	TokenRange=217341:217343
+36	scusa	scusa	NOUN	S	Gender=Fem|Number=Sing	30	ccomp	_	TokenRange=217344:217349
+37	per	per	ADP	E	_	38	mark	_	TokenRange=217350:217353
+38	sposàlla	sposàlla	VERB	V	VerbForm=Inf	36	acl	_	TokenRange=217354:217362
+39	no	no	ADV	BN	PronType=Neg	38	advmod	_	SpaceAfter=No|TokenRange=217363:217365
+40	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\r\n|TokenRange=217365:217366
+
+# sent_id = lmo-mil-wiki-doc8-s1434
+# text = Donca fann ona cerimonia privada, domà cont el papà de la Beckett, l'offizial del Stat Civil, la mamma del Castle e la Alexis.
+1	Donca	donca	ADV	B	_	2	advmod	_	TokenRange=217805:217810
+2	fann	fà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=217811:217815
+3	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	TokenRange=217816:217819
+4	cerimonia	cerimonia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	TokenRange=217820:217829
+5	privada	privado	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No|TokenRange=217830:217837
+6	,	,	PUNCT	FF	_	2	punct	_	TokenRange=217837:217838
+7	domà	domà	ADV	B	_	10	advmod	_	TokenRange=217839:217843
+8	cont	cont	ADP	E	_	10	case	_	TokenRange=217844:217848
+9	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=217849:217851
+10	papà	papà	NOUN	S	Gender=Masc	2	obl	_	TokenRange=217852:217856
+11	de	de	ADP	E	_	13	case	_	TokenRange=217857:217859
+12	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	TokenRange=217860:217862
+13	Beckett	Beckett	PROPN	SP	_	10	nmod	_	SpaceAfter=No|TokenRange=217863:217870
+14	,	,	PUNCT	FF	_	16	punct	_	TokenRange=217870:217871
+15	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No|TokenRange=217872:217874
+16	offizial	offizial	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	TokenRange=217874:217882
+17-18	del	_	_	_	_	_	_	_	TokenRange=217883:217886
+17	di	de	ADP	E	_	19	case	_	_
+18	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	Stat	Stat	NOUN	S	_	16	nmod	_	TokenRange=217887:217891
+20	Civil	Civil	PROPN	SP	_	19	nmod	_	SpaceAfter=No|TokenRange=217892:217897
+21	,	,	PUNCT	FF	_	23	punct	_	TokenRange=217897:217898
+22	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	TokenRange=217899:217901
+23	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	TokenRange=217902:217907
+24-25	del	_	_	_	_	_	_	_	TokenRange=217908:217911
+24	di	de	ADP	E	_	26	case	_	_
+25	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	Castle	Castle	PROPN	SP	_	23	nmod	_	TokenRange=217912:217918
+27	e	e	CCONJ	CC	_	29	cc	_	TokenRange=217919:217920
+28	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	TokenRange=217921:217923
+29	Alexis	Alexis	PROPN	SP	_	10	conj	_	SpaceAfter=No|TokenRange=217924:217930
+30	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\r\n|TokenRange=217930:217931
+
+# sent_id = lmo-mil-wiki-doc8-s1435
+# text = Dopo che se hinn sposaa voreven fà la luna de mel, ma han poduu no perchè lee l'aveva doperaa tucc i sò ferij per cercà lu in quej du mes.
+1	Dopo	dopo	ADV	B	_	5	mark	_	TokenRange=217933:217937
+2	che	che	SCONJ	CS	_	1	fixed	_	TokenRange=217938:217941
+3	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	5	expl	_	TokenRange=217942:217944
+4	hinn	vesse	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=217945:217949
+5	sposaa	sposà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	TokenRange=217950:217956
+6	voreven	vorevà	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	TokenRange=217957:217964
+7	fà	fà	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=217965:217967
+8	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	TokenRange=217968:217970
+9	luna	luna	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	TokenRange=217971:217975
+10	de	de	ADP	E	_	11	case	_	TokenRange=217976:217978
+11	mel	mel	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No|TokenRange=217979:217982
+12	,	,	PUNCT	FF	_	15	punct	_	TokenRange=217982:217983
+13	ma	ma	CCONJ	CC	_	15	cc	_	TokenRange=217984:217986
+14	han	avè	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	TokenRange=217987:217990
+15	poduu	podè	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	TokenRange=217991:217996
+16	no	no	ADV	BN	PronType=Neg	15	advmod	_	TokenRange=217997:217999
+17	perchè	perché	SCONJ	CS	_	21	mark	_	TokenRange=218000:218006
+18	lee	lee	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	TokenRange=218007:218010
+19	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	21	obj	_	SpaceAfter=No|TokenRange=218011:218013
+20	aveva	avè	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	aux	_	TokenRange=218013:218018
+21	doperaa	doperà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	TokenRange=218019:218026
+22	tucc	tucc	DET	T	_	21	obl	_	TokenRange=218027:218031
+23	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	TokenRange=218032:218033
+24	sò	sò	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	25	det:poss	_	TokenRange=218034:218036
+25	ferij	feria	NOUN	S	Gender=Masc	21	obj	_	TokenRange=218037:218042
+26	per	per	ADP	E	_	27	mark	_	TokenRange=218043:218046
+27	cercà	cercà	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	21	advcl	_	TokenRange=218047:218052
+28	lu	lu	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obj	_	TokenRange=218053:218055
+29	in	in	ADP	E	_	32	case	_	TokenRange=218056:218058
+30	quej	quell	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	32	det	_	TokenRange=218059:218063
+31	du	du	NUM	N	NumType=Card	32	nummod	_	TokenRange=218064:218066
+32	mes	mes	NOUN	S	Gender=Masc|Number=Plur	27	obl	_	SpaceAfter=No|TokenRange=218067:218070
+33	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\r\n|TokenRange=218070:218071
+
+# sent_id = lmo-mil-wiki-doc8-s1436
+# text = Però quand che i gh'ha de indagà in su 'n ranch turistich in Arizona troeuven on compromess, ossia indagà longh la vacanza.
+1	Però	però	ADV	B	_	16	advmod	_	TokenRange=218073:218077
+2	quand	quand	SCONJ	CS	_	16	mark	_	TokenRange=218078:218083
+3	che	che	SCONJ	CS	_	6	mark	_	TokenRange=218084:218087
+4	i	el	PRON	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	TokenRange=218088:218089
+5	gh'	gh'	PRON	PC	_	6	nsubj	_	SpaceAfter=No|TokenRange=218090:218093
+6	ha	avè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	TokenRange=218093:218095
+7	de	de	ADP	E	_	8	mark	_	TokenRange=218096:218098
+8	indagà	indagà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	xcomp	_	TokenRange=218099:218105
+9	in	in	ADP	E	_	12	case	_	TokenRange=218106:218108
+10	su	su	ADP	E	_	8	advmod	_	TokenRange=218109:218111
+11	'n	on	PRON	PI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	3	obl	_	TokenRange=218112:218114
+12	ranch	ranch	NOUN	S	Gender=Masc	8	obl	_	TokenRange=218115:218120
+13	turistich	turistich	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	TokenRange=218121:218130
+14	in	in	ADP	E	_	15	case	_	TokenRange=218131:218133
+15	Arizona	Arizona	PROPN	SP	_	12	nmod	_	TokenRange=218134:218141
+16	troeuven	troeuvà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=218142:218150
+17	on	on	DET	DI	Definite=Indef|Gender=Masc|Number=Sing|PronType=Ind	16	obj	_	TokenRange=218151:218153
+18	compromess	compromess	NOUN	S	Gender=Masc	16	obj	_	SpaceAfter=No|TokenRange=218154:218164
+19	,	,	PUNCT	FF	_	21	punct	_	TokenRange=218164:218165
+20	ossia	ossia	CCONJ	CC	_	21	cc	_	TokenRange=218166:218171
+21	indagà	indagà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	conj	_	TokenRange=218172:218178
+22	longh	longh	X	B	_	21	obj	_	TokenRange=218179:218184
+23	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	TokenRange=218185:218187
+24	vacanza	vacanza	NOUN	S	Gender=Fem|Number=Sing	21	obj	_	SpaceAfter=No|TokenRange=218188:218195
+25	.	.	PUNCT	FS	_	16	punct	_	SpacesAfter=\r\n|TokenRange=218195:218196
+
+# sent_id = lmo-mil-wiki-doc8-s1439
+# text = A l'è donca menaa via, però se descovriss che l'è on sosia, operaa anca lu.
+1	A	a	ADP	E	_	5	case	_	TokenRange=218586:218587
+2	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No|TokenRange=218588:218590
+3	è	vesse	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=218590:218591
+4	donca	donca	ADV	B	_	5	advmod	_	TokenRange=218592:218597
+5	menaa	menà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=218598:218603
+6	via	via	ADV	B	_	5	advmod	_	SpaceAfter=No|TokenRange=218604:218607
+7	,	,	PUNCT	FF	_	5	punct	_	TokenRange=218607:218608
+8	però	però	ADV	B	_	10	advmod	_	TokenRange=218609:218613
+9	se	se	SCONJ	CS	_	10	mark	_	TokenRange=218614:218616
+10	descovriss	descovrì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	TokenRange=218617:218627
+11	che	che	SCONJ	CS	_	15	mark	_	TokenRange=218628:218631
+12	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	15	obj	_	SpaceAfter=No|TokenRange=218632:218634
+13	è	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	TokenRange=218634:218635
+14	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	TokenRange=218636:218638
+15	sosia	sosia	NOUN	S	Gender=Fem|Number=Sing	10	ccomp	_	SpaceAfter=No|TokenRange=218639:218644
+16	,	,	PUNCT	FF	_	17	punct	_	TokenRange=218644:218645
+17	operaa	operà	VERB	V	Gender=Fem|Number=Sing	15	conj	_	TokenRange=218646:218652
+18	anca	anca	ADV	B	_	19	advmod	_	TokenRange=218653:218657
+19	lu	lù	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	SpaceAfter=No|TokenRange=218658:218660
+20	.	.	PUNCT	FS	_	5	punct	_	TokenRange=218660:218661
+
+# sent_id = lmo-mil-wiki-doc8-s1442
+# text = Intant Castle e la polizia la rentraccen, e la salven.
+1	Intant	intant	ADV	B	_	7	advmod	_	TokenRange=219123:219129
+2	Castle	Castle	PROPN	SP	_	7	nsubj	_	TokenRange=219130:219136
+3	e	e	CCONJ	CC	_	5	cc	_	TokenRange=219137:219138
+4	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=219139:219141
+5	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	TokenRange=219142:219149
+6	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	TokenRange=219150:219152
+7	rentraccen	rentraccà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=219153:219163
+8	,	,	PUNCT	FF	_	11	punct	_	TokenRange=219163:219164
+9	e	e	CCONJ	CC	_	11	cc	_	TokenRange=219165:219166
+10	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	TokenRange=219167:219169
+11	salven	salvà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	SpaceAfter=No|TokenRange=219170:219176
+12	.	.	PUNCT	FS	_	7	punct	_	TokenRange=219176:219177
+
+# sent_id = lmo-mil-wiki-doc8-s1443
+# text = Poeu el Castle a l'è reintegraa in la Polizia, dopo 'n quaj mes de lontananza per avè collaboraa cont di mafios.
+1	Poeu	poeu	ADV	B	_	7	advmod	_	TokenRange=219178:219182
+2	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=219183:219185
+3	Castle	Castle	PROPN	SP	_	7	nsubj	_	TokenRange=219186:219192
+4	a	a	ADP	E	_	7	case	_	TokenRange=219193:219194
+5	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No|TokenRange=219195:219197
+6	è	vesse	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	TokenRange=219197:219198
+7	reintegraa	reintegrà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=219199:219209
+8	in	in	ADP	E	_	10	case	_	TokenRange=219210:219212
+9	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	TokenRange=219213:219215
+10	Polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=219216:219223
+11	,	,	PUNCT	FF	_	7	punct	_	TokenRange=219223:219224
+12	dopo	dopo	ADP	E	_	16	case	_	TokenRange=219225:219229
+13	'	'	PUNCT	FB	_	16	punct	_	SpaceAfter=No|TokenRange=219230:219231
+14	n	n	ADP	E	_	16	case	_	TokenRange=219231:219232
+15	quaj	qual	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	16	det	_	TokenRange=219233:219237
+16	mes	mes	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	TokenRange=219238:219241
+17	de	de	ADP	E	_	18	case	_	TokenRange=219242:219244
+18	lontananza	lontananza	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	TokenRange=219245:219255
+19	per	per	ADP	E	_	21	mark	_	TokenRange=219256:219259
+20	avè	avè	AUX	VA	VerbForm=Inf	21	aux	_	TokenRange=219260:219263
+21	collaboraa	collaborà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	TokenRange=219264:219274
+22	cont	cont	ADP	B	_	21	mark	_	TokenRange=219275:219279
+23	di	de	ADP	E	_	24	case	_	TokenRange=219280:219282
+24	mafios	mafios	NOUN	S	Gender=Masc|Number=Plur	21	obl	_	SpaceAfter=No|TokenRange=219283:219289
+25	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\r\n|TokenRange=219289:219290
+
+# sent_id = lmo-mil-wiki-doc8-s1446
+# text = El primm di de capitana el Castle la ghe fa on gran cadò:
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=219724:219726
+2	primm	primm	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	10	nsubj	_	TokenRange=219727:219732
+3	di	de	ADP	E	_	5	case	_	TokenRange=219733:219735
+4	de	de	ADP	E	_	3	fixed	_	TokenRange=219736:219738
+5	capitana	capitana	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	TokenRange=219739:219747
+6	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=219748:219750
+7	Castle	Castle	PROPN	SP	_	10	nsubj	_	TokenRange=219751:219757
+8	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	TokenRange=219758:219760
+9	ghe	ghe	PRON	PC	PronType=Prs	10	iobj	_	TokenRange=219761:219764
+10	fa	fà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=219765:219767
+11	on	on	DET	DI	Gender=Masc|Number=Sing	10	obj	_	TokenRange=219768:219770
+12	gran	gran	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	TokenRange=219771:219775
+13	cadò	cadò	NOUN	S	Gender=Masc	10	obj	_	SpaceAfter=No|TokenRange=219776:219780
+14	:	:	PUNCT	FC	_	10	punct	_	TokenRange=219780:219781
+
+# sent_id = lmo-mil-wiki-doc8-s1450
+# text = Cont on'imboscada a l'offizi del Castle menen via anca i alter killer e sequestren i sò telefoni, e descovrissen che riceveven di orden de 'na volta fonzionaria del Procurator, che l'è trovada morta.
+1	Cont	cont	ADP	E	_	3	case	_	TokenRange=220877:220881
+2	on'	on	DET	RI	Clitic=Yes|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|TokenRange=220882:220885
+3	imboscada	imboscada	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	TokenRange=220885:220894
+4	a	a	ADP	E	_	6	case	_	TokenRange=220895:220896
+5	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No|TokenRange=220897:220899
+6	offizi	offizio	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	TokenRange=220899:220905
+7-8	del	_	_	_	_	_	_	_	TokenRange=220906:220909
+7	di	de	ADP	E	_	9	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Castle	Castle	PROPN	SP	_	6	nmod	_	TokenRange=220910:220916
+10	menen	menà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=220917:220922
+11	via	via	ADV	B	_	10	advmod	_	TokenRange=220923:220926
+12	anca	anca	ADV	B	_	15	advmod	_	TokenRange=220927:220931
+13	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	TokenRange=220932:220933
+14	alter	alter	ADJ	A	|Gender=Masc|Number=Plur|	15	amod	_	TokenRange=220934:220939
+15	killer	killer	NOUN	S	_	10	obj	_	TokenRange=220940:220946
+16	e	e	CCONJ	CC	_	17	cc	_	TokenRange=220947:220948
+17	sequestren	sequestrà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	TokenRange=220949:220959
+18	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	TokenRange=220960:220961
+19	sò	sò	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	20	det:poss	_	TokenRange=220962:220964
+20	telefoni	telefono	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	SpaceAfter=No|TokenRange=220965:220973
+21	,	,	PUNCT	FF	_	23	punct	_	TokenRange=220973:220974
+22	e	e	CCONJ	CC	_	23	cc	_	TokenRange=220975:220976
+23	descovrissen	descovrisà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	TokenRange=220977:220989
+24	che	che	SCONJ	CS	_	25	mark	_	TokenRange=220990:220993
+25	riceveven	ricevà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	ccomp	_	TokenRange=220994:221003
+26	di	de	ADP	E	_	27	case	_	TokenRange=221004:221006
+27	orden	orden	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	TokenRange=221007:221012
+28	de	de	ADP	E	_	31	case	_	TokenRange=221013:221015
+29	'	'	PUNCT	FB	_	31	punct	_	SpaceAfter=No|TokenRange=221016:221017
+30	na	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	TokenRange=221017:221019
+31	volta	volta	NOUN	S	Gender=Fem|Number=Sing	25	obl	_	TokenRange=221020:221025
+32	fonzionaria	fonzionaria	NOUN	S	Gender=Fem|Number=Sing	31	amod	_	TokenRange=221026:221037
+33-34	del	_	_	_	_	_	_	_	TokenRange=221038:221041
+33	di	de	ADP	E	_	35	case	_	_
+34	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
+35	Procurator	Procurator	PROPN	SP	_	31	nmod	_	SpaceAfter=No|TokenRange=221042:221052
+36	,	,	PUNCT	FF	_	31	punct	_	TokenRange=221052:221053
+37	che	che	PRON	PR	PronType=Rel	40	nsubj	_	TokenRange=221054:221057
+38	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	40	obj	_	SpaceAfter=No|TokenRange=221058:221060
+39	è	avè	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	aux	_	TokenRange=221060:221061
+40	trovada	trovà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	31	acl:relcl	_	TokenRange=221062:221069
+41	morta	morì	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	40	xcomp	_	SpaceAfter=No|TokenRange=221070:221075
+42	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\r\n|TokenRange=221075:221076
+
+# sent_id = lmo-mil-wiki-doc8-s1453
+# text = Per el primm anniversari l'accetta de andà a cena cont el Castle, e poeu fann l'amor.
+1	Per	per	ADP	E	_	4	case	_	TokenRange=221750:221753
+2	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	TokenRange=221754:221756
+3	primm	primm	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	TokenRange=221757:221762
+4	anniversari	anniversari	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	TokenRange=221763:221774
+5	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No|TokenRange=221775:221777
+6	accetta	accettà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=221777:221784
+7	de	de	ADP	E	_	8	mark	_	TokenRange=221785:221787
+8	andà	andà	VERB	V	VerbForm=Inf	6	xcomp	_	TokenRange=221788:221792
+9	a	a	ADP	E	_	10	case	_	TokenRange=221793:221794
+10	cena	cena	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	TokenRange=221795:221799
+11	cont	cont	ADP	E	_	13	case	_	TokenRange=221800:221804
+12	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	TokenRange=221805:221807
+13	Castle	Castle	PROPN	SP	_	8	obl	_	SpaceAfter=No|TokenRange=221808:221814
+14	,	,	PUNCT	FF	_	17	punct	_	TokenRange=221814:221815
+15	e	e	CCONJ	CC	_	17	cc	_	TokenRange=221816:221817
+16	poeu	poeu	ADV	B	_	17	advmod	_	TokenRange=221818:221822
+17	fann	fà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	TokenRange=221823:221827
+18	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No|TokenRange=221828:221830
+19	amor	amor	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No|TokenRange=221830:221834
+20	.	.	PUNCT	FS	_	6	punct	_	TokenRange=221834:221835
+
+# sent_id = lmo-mil-wiki-doc8-s1456
+# text = Se incontren donca per ciarìss:
+1	Se	se	SCONJ	CS	_	2	mark	_	TokenRange=222304:222306
+2	incontren	incontrà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=222307:222316
+3	donca	donca	ADV	B	_	2	advmod	_	TokenRange=222317:222322
+4	per	per	ADP	E	_	5	case	_	TokenRange=222323:222326
+5	ciarìss	ciarìss	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No|TokenRange=222327:222334
+6	:	:	PUNCT	FC	_	2	punct	_	TokenRange=222334:222335
+
+# sent_id = lmo-mil-wiki-doc8-s1457
+# text = Castle a l'era assee delus, perchè 'l pensava debon che 'l mattrimoni el fuss finii e 'l voreva savèll fin de subit.
+1	Castle	Castle	PROPN	SP	_	6	nsubj	_	TokenRange=222336:222342
+2	a	a	ADP	E	_	6	case	_	TokenRange=222343:222344
+3	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No|TokenRange=222345:222347
+4	era	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	TokenRange=222347:222350
+5	assee	assee	ADV	B	_	6	advmod	_	TokenRange=222351:222356
+6	delus	delus	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=222357:222362
+7	,	,	PUNCT	FF	_	6	punct	_	TokenRange=222362:222363
+8	perchè	perché	SCONJ	CS	_	11	mark	_	TokenRange=222364:222370
+9	'	'	PUNCT	FB	_	11	punct	_	SpaceAfter=No|TokenRange=222371:222372
+10	l	l	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	TokenRange=222372:222373
+11	pensava	pensà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	TokenRange=222374:222381
+12	debon	debon	ADV	B	_	11	advmod	_	TokenRange=222382:222387
+13	che	che	SCONJ	CS	_	19	mark	_	TokenRange=222388:222391
+14	'	'	PUNCT	FB	_	19	punct	_	SpaceAfter=No|TokenRange=222392:222393
+15	l	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	TokenRange=222393:222394
+16	mattrimoni	mattrimone	NOUN	S	Gender=Masc|Number=Plur	19	nsubj	_	TokenRange=222395:222405
+17	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	TokenRange=222406:222408
+18	fuss	vesse	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	aux	_	TokenRange=222409:222413
+19	finii	finì	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	ccomp	_	TokenRange=222414:222419
+20	e	e	CCONJ	CC	_	22	cc	_	TokenRange=222420:222421
+21	'l	la	PRON	PC	Clitic=Yes|PronType=Prs	22	obj	_	TokenRange=222422:222424
+22	voreva	vorè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	conj	_	TokenRange=222425:222431
+23	savèll	savèll	ADJ	A	_	22	xcomp	_	TokenRange=222432:222438
+24	fin	fin	ADV	B	_	26	case	_	TokenRange=222439:222442
+25	de	de	ADP	E	_	24	fixed	_	TokenRange=222443:222445
+26	subit	subit	ADV	B	_	22	advmod	_	SpaceAfter=No|TokenRange=222446:222451
+27	.	.	PUNCT	FS	_	6	punct	_	TokenRange=222451:222452
+
+# sent_id = lmo-mil-wiki-doc8-s1459
+# text = Tucc i proeuv trovaa menen a 'n avocatt de offizi, e 'l se troeuva proppi 'sto avocatt in d'on cas, indova el Castle l'è testimon ocular.
+1	Tucc	tucc	DET	T	Gender=Masc|Number=Plur|PronType=Tot	3	det:predet	_	TokenRange=222791:222795
+2	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	TokenRange=222796:222797
+3	proeuv	proeuv	NOUN	S	Gender=Masc	5	nsubj	_	TokenRange=222798:222804
+4	trovaa	trovà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	amod	_	TokenRange=222805:222811
+5	menen	menà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=222812:222817
+6	a	a	ADP	E	_	8	case	_	TokenRange=222818:222819
+7	'n	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=222820:222822
+8	avocatt	avocatt	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	TokenRange=222823:222830
+9	de	de	ADP	E	_	10	case	_	TokenRange=222831:222833
+10	offizi	offizio	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No|TokenRange=222834:222840
+11	,	,	PUNCT	FF	_	15	punct	_	TokenRange=222840:222841
+12	e	e	CCONJ	CC	_	15	cc	_	TokenRange=222842:222843
+13	'l	la	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	TokenRange=222844:222846
+14	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	15	expl	_	TokenRange=222847:222849
+15	troeuva	troeuvà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	TokenRange=222850:222857
+16	proppi	proppi	ADV	B	_	15	advmod	_	TokenRange=222858:222864
+17	'	'	PUNCT	FB	_	19	punct	_	SpaceAfter=No|TokenRange=222865:222866
+18	sto	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	TokenRange=222866:222869
+19	avocatt	avocatt	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	TokenRange=222870:222877
+20	in	in	ADP	E	_	23	case	_	TokenRange=222878:222880
+21	d'	di	ADP	E	_	20	fixed	_	SpaceAfter=No|TokenRange=222881:222883
+22	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	TokenRange=222883:222885
+23	cas	cas	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No|TokenRange=222886:222889
+24	,	,	PUNCT	FF	_	23	punct	_	TokenRange=222889:222890
+25	indova	indova	ADV	B	_	30	advmod	_	TokenRange=222891:222897
+26	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	TokenRange=222898:222900
+27	Castle	Castle	PROPN	SP	_	30	nsubj	_	TokenRange=222901:222907
+28	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	30	obj	_	SpaceAfter=No|TokenRange=222908:222910
+29	è	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	TokenRange=222910:222911
+30	testimone	testimone	NOUN	S	Gender=Masc|Number=Sing	23	acl:relcl	_	TokenRange=222912:222920
+31	ocular	ocular	ADJ	A	Gender=Masc|Number=Sing	30	amod	_	SpaceAfter=No|TokenRange=222921:222927
+32	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\r\n|TokenRange=222927:222928
+
+# sent_id = lmo-mil-wiki-doc8-s1461
+# text = Capissen poeu che 'l podaria proppi vess el sò pont debol de taccà.
+1	Capissen	capì	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=223206:223214
+2	poeu	poeu	ADV	B	_	1	advmod	_	TokenRange=223215:223219
+3	che	che	SCONJ	CS	_	6	mark	_	TokenRange=223220:223223
+4	'	'	PUNCT	FB	_	6	punct	_	SpaceAfter=No|TokenRange=223224:223225
+5	l	la	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	TokenRange=223225:223226
+6	podaria	podarià	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	TokenRange=223227:223234
+7	proppi	proppi	ADV	B	_	8	advmod	_	TokenRange=223235:223241
+8	vess	vend	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	TokenRange=223242:223246
+9	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	TokenRange=223247:223249
+10	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	TokenRange=223250:223252
+11	pont	pont	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	TokenRange=223253:223257
+12	debol	debol	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	TokenRange=223258:223263
+13	de	de	ADP	E	_	14	case	_	TokenRange=223264:223266
+14	taccà	taccà	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No|TokenRange=223267:223272
+15	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\r\n|TokenRange=223272:223273
+
+# sent_id = lmo-mil-wiki-doc8-s1462
+# text = In l'indagin dopo la gh'ha de indagà in sul fioeu de 'n diplomatich russ, e collaborà cont on poliziott russ.
+1	In	in	ADP	E	_	3	case	_	TokenRange=223275:223277
+2	l'	el	DET	RD	Clitic=Yes|Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|TokenRange=223278:223280
+3	indagin	indagì	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	TokenRange=223280:223287
+4	dopo	dopo	ADV	B	_	3	advmod	_	TokenRange=223288:223292
+5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	TokenRange=223293:223295
+6	gh'	gh'	PRON	B	_	7	nsubj	_	SpaceAfter=No|TokenRange=223296:223299
+7	ha	avè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=223299:223301
+8	de	de	ADP	E	_	9	mark	_	TokenRange=223302:223304
+9	indagà	indagà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	ccomp	_	TokenRange=223305:223311
+10	in	in	ADP	E	_	13	case	_	TokenRange=223312:223314
+11-12	sul	_	_	_	_	_	_	_	TokenRange=223315:223318
+11	su	su	ADP	E	_	10	fixed	_	_
+12	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	fioeu	fioeu	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	TokenRange=223319:223324
+14	de	de	ADP	E	_	16	case	_	TokenRange=223325:223327
+15	'n	'n	PUNCT	RI	_	16	det	_	TokenRange=223328:223330
+16	diplomatich	diplomatich	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	TokenRange=223331:223342
+17	russ	russ	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No|TokenRange=223343:223347
+18	,	,	PUNCT	FF	_	20	punct	_	TokenRange=223347:223348
+19	e	e	CCONJ	CC	_	20	cc	_	TokenRange=223349:223350
+20	collaborà	collaborà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	conj	_	TokenRange=223351:223360
+21	cont	cont	ADP	E	_	23	case	_	TokenRange=223361:223365
+22	on	on	DET	RI	Gender=Masc|Number=Sing|PronType=Ind	23	det	_	TokenRange=223366:223368
+23	poliziott	poliziott	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	TokenRange=223369:223378
+24	russ	russ	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No|TokenRange=223379:223383
+25	.	.	PUNCT	FS	_	7	punct	_	TokenRange=223383:223384
+
+# sent_id = lmo-mil-wiki-doc8-s1465
+# text = Lee 'l ghe dis, in russ, de seguìlla per fà 'na roba pussee bella.
+1	Lee	Lee	PRON	PE	_	4	nsubj	_	TokenRange=223833:223836
+2	'l	'l	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	4	obj	_	TokenRange=223837:223839
+3	ghe	ghe	PRON	PC	_	4	obj	_	TokenRange=223840:223843
+4	dis	dì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=223844:223847
+5	,	,	PUNCT	FF	_	4	punct	_	TokenRange=223847:223848
+6	in	in	ADP	E	_	7	case	_	TokenRange=223849:223851
+7	russ	russ	NOUN	S	Gender=Masc	4	obl	_	SpaceAfter=No|TokenRange=223852:223856
+8	,	,	PUNCT	FF	_	4	punct	_	TokenRange=223856:223857
+9	de	de	ADP	E	_	10	case	_	TokenRange=223858:223860
+10	seguìlla	seguìlla	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	TokenRange=223861:223869
+11	per	per	ADP	E	_	12	mark	_	TokenRange=223870:223873
+12	fà	fà	VERB	V	VerbForm=Inf	4	advcl	_	TokenRange=223874:223876
+13	'	'	PUNCT	FB	_	15	punct	_	SpaceAfter=No|TokenRange=223877:223878
+14	na	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	TokenRange=223878:223880
+15	roba	roba	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	TokenRange=223881:223885
+16	pussee	pussee	ADV	B	_	17	advmod	_	TokenRange=223886:223892
+17	bella	bello	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No|TokenRange=223893:223898
+18	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\r\n|TokenRange=223898:223899
+
+# sent_id = lmo-mil-wiki-doc8-s1467
+# text = Lilinscì la ved che la gh'ha on tatuagg cont on stemma che l'ha trovaa anca in la soa indagin.
+1	Lilinscì	Lilinscì	PROPN	SP	_	3	nsubj	_	TokenRange=224105:224113
+2	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	TokenRange=224114:224116
+3	ved	ved	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=224117:224120
+4	che	che	SCONJ	CS	_	7	mark	_	TokenRange=224121:224124
+5	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=224125:224127
+6	gh'	gh'	NOUN	S	_	7	nsubj	_	SpaceAfter=No|TokenRange=224128:224131
+7	ha	avè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	TokenRange=224131:224133
+8	on	on	DET	RI	Gender=Masc|Number=Sing	9	det	_	TokenRange=224134:224136
+9	tatuagg	tatuagg	NOUN	S	Gender=Masc	7	obj	_	TokenRange=224137:224144
+10	cont	cont	ADP	E	_	12	case	_	TokenRange=224145:224149
+11	on	on	DET	RI	Gender=Masc|Number=Sing	12	det	_	TokenRange=224150:224152
+12	stemma	stemma	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	TokenRange=224153:224159
+13	che	che	PRON	PR	PronType=Rel	16	nsubj	_	TokenRange=224160:224163
+14	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	16	obj	_	SpaceAfter=No|TokenRange=224164:224166
+15	ha	avè	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	TokenRange=224166:224168
+16	trovaa	trovà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	TokenRange=224169:224175
+17	anca	anca	ADV	B	_	16	advmod	_	TokenRange=224176:224180
+18	in	in	ADP	E	_	21	case	_	TokenRange=224181:224183
+19	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	TokenRange=224184:224186
+20	soa	soo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	TokenRange=224187:224190
+21	indagin	indagin	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No|TokenRange=224191:224198
+22	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\r\n|TokenRange=224198:224199
+
+# sent_id = lmo-mil-wiki-doc8-s1473
+# text = In l'indagà descovrissen che de 'n aereo ligaa a Loksat a l'è 'ndaa giò l'avocatt, che 'l descovriss cont ona trappola informatica e la avvert che l'è a ris'c a combatt Loksat.
+1	In	in	ADP	E	_	3	case	_	TokenRange=225429:225431
+2	l'	el	DET	RD	Clitic=Yes|Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|TokenRange=225432:225434
+3	indagà	indagà	NOUN	S	Gender=Fem	4	obl	_	TokenRange=225434:225440
+4	descovrissen	descovrì	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=225441:225453
+5	che	che	SCONJ	CS	_	17	mark	_	TokenRange=225454:225457
+6	de	de	ADP	E	_	9	case	_	TokenRange=225458:225460
+7	'	'	PUNCT	FB	_	9	punct	_	SpaceAfter=No|TokenRange=225461:225462
+8	n	n	DET	RI	Definite=Def|Number=Sing|PronType=Art	9	det	_	TokenRange=225462:225463
+9	aereo	aereo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	TokenRange=225464:225469
+10	ligaa	ligà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	TokenRange=225470:225475
+11	a	a	ADP	E	_	12	case	_	TokenRange=225476:225477
+12	Loksat	Loksat	PROPN	SP	_	10	obl	_	TokenRange=225478:225484
+13	a	a	ADP	E	_	15	expl	_	TokenRange=225485:225486
+14	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	15	obj	_	SpaceAfter=No|TokenRange=225487:225489
+15	è	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	TokenRange=225489:225490
+16	'	'	PUNCT	FB	_	17	punct	_	SpaceAfter=No|TokenRange=225491:225492
+17	ndaa	ndà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	TokenRange=225492:225496
+18	giò	giò	ADV	B	_	17	advmod	_	TokenRange=225497:225500
+19	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No|TokenRange=225501:225503
+20	avocatt	avocatt	NOUN	S	Number=Sing	17	nsubj	_	SpaceAfter=No|TokenRange=225503:225510
+21	,	,	PUNCT	FF	_	20	punct	_	TokenRange=225510:225511
+22	che	che	PRON	PR	PronType=Rel	24	nsubj	_	TokenRange=225512:225515
+23	'l	'l	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	TokenRange=225516:225518
+24	descovriss	descovrì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	TokenRange=225519:225529
+25	cont	cont	ADP	E	_	27	case	_	TokenRange=225530:225534
+26	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	_	TokenRange=225535:225538
+27	trappola	trappola	NOUN	S	Gender=Fem|Number=Sing	24	obl	_	TokenRange=225539:225547
+28	informatica	informatico	ADJ	A	Gender=Fem|Number=Sing	27	amod	_	TokenRange=225548:225559
+29	e	e	CCONJ	CC	_	31	cc	_	TokenRange=225560:225561
+30	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	obj	_	TokenRange=225562:225564
+31	avvert	avvert	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	TokenRange=225565:225571
+32	che	che	SCONJ	CS	_	34	mark	_	TokenRange=225572:225575
+33	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	34	obj	_	SpaceAfter=No|TokenRange=225576:225578
+34	è	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	ccomp	_	TokenRange=225578:225579
+35	a	a	ADP	E	_	36	case	_	TokenRange=225580:225581
+36	ris'c	ris'c	NOUN	S	Gender=Fem	34	obl	_	TokenRange=225582:225587
+37	a	a	ADP	E	_	38	mark	_	TokenRange=225588:225589
+38	combatt	combà	VERB	V	VerbForm=Inf	36	acl	_	TokenRange=225590:225597
+39	Loksat	Loksat	PROPN	SP	_	38	obj	_	SpaceAfter=No|TokenRange=225598:225604
+40	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\r\n|TokenRange=225604:225605
+
+# sent_id = lmo-mil-wiki-doc8-s1474
+# text = Lee però el ghe respond che luu a l'è semper staa onest e che insemma a lee 'l pò tornà a vessél.
+1	Lee	Lee	PROPN	SP	_	5	nsubj	_	TokenRange=225607:225610
+2	però	però	ADV	B	_	5	advmod	_	TokenRange=225611:225615
+3	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	TokenRange=225616:225618
+4	ghe	ghe	PRON	PC	_	5	iobj	_	TokenRange=225619:225622
+5	respond	respond	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=225623:225630
+6	che	che	SCONJ	CS	_	13	mark	_	TokenRange=225631:225634
+7	luu	lù	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	TokenRange=225635:225638
+8	a	a	ADP	E	_	13	case	_	TokenRange=225639:225640
+9	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No|TokenRange=225641:225643
+10	è	vesse	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	TokenRange=225643:225644
+11	semper	semper	ADV	B	_	13	advmod	_	TokenRange=225645:225651
+12	staa	vesse	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	cop	_	TokenRange=225652:225656
+13	onest	onest	ADJ	A	Number=Sing	5	ccomp	_	TokenRange=225657:225662
+14	e	e	CCONJ	CC	_	22	cc	_	TokenRange=225663:225664
+15	che	che	SCONJ	CS	_	22	mark	_	TokenRange=225665:225668
+16	insemma	insemma	ADV	B	_	18	case	_	TokenRange=225669:225676
+17	a	a	ADP	E	_	16	fixed	_	TokenRange=225677:225678
+18	lee	lee	PRON	PE	Number=Sing|Person=3|PronType=Prs	22	obl	_	TokenRange=225679:225682
+19	'	'	PUNCT	FB	_	22	punct	_	SpaceAfter=No|TokenRange=225683:225684
+20	l	el	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	22	obj	_	TokenRange=225684:225685
+21	pò	podè	AUX	VM	_	22	aux	_	TokenRange=225686:225688
+22	tornà	tornà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	conj	_	TokenRange=225689:225694
+23	a	a	ADP	E	_	24	case	_	TokenRange=225695:225696
+24	vessél	vessél	VERB	V	_	22	obl	_	SpaceAfter=No|TokenRange=225697:225703
+25	.	.	PUNCT	FS	_	5	punct	_	TokenRange=225703:225704
+
+# sent_id = lmo-mil-wiki-doc8-s1475
+# text = Lu al principi a l'era dubbios, ma poeu l'accetta de dàgh el telefonin che 'l ciappa i ordin de Loksat.
+1	Lu	lù	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	TokenRange=225705:225707
+2-3	al	_	_	_	_	_	_	_	TokenRange=225708:225710
+2	a	a	ADP	E	_	4	case	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	principi	principi	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	TokenRange=225711:225719
+5	a	a	ADP	E	_	8	case	_	TokenRange=225720:225721
+6	l'	la	PRON	PC	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|TokenRange=225722:225724
+7	era	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	TokenRange=225724:225727
+8	dubbios	dubbios	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=225728:225735
+9	,	,	PUNCT	FF	_	13	punct	_	TokenRange=225735:225736
+10	ma	ma	CCONJ	CC	_	13	cc	_	TokenRange=225737:225739
+11	poeu	poeu	ADV	B	_	13	advmod	_	TokenRange=225740:225744
+12	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No|TokenRange=225745:225747
+13	accetta	accettà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	TokenRange=225747:225754
+14	de	de	ADP	E	_	15	mark	_	TokenRange=225755:225757
+15	dàgh	dà	VERB	V	VerbForm=Inf	13	xcomp	_	TokenRange=225758:225762
+16	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	TokenRange=225763:225765
+17	telefonin	telefonin	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	TokenRange=225766:225775
+18	che	che	PRON	PR	PronType=Rel	21	nsubj	_	TokenRange=225776:225779
+19	'	'	PUNCT	FB	_	21	punct	_	SpaceAfter=No|TokenRange=225780:225781
+20	l	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	TokenRange=225781:225782
+21	ciappa	ciappà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	TokenRange=225783:225789
+22	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	TokenRange=225790:225791
+23	ordin	ordin	NOUN	S	Gender=Masc	21	obj	_	TokenRange=225792:225797
+24	de	de	ADP	E	_	25	case	_	TokenRange=225798:225800
+25	Loksat	Loksat	PROPN	SP	_	23	nmod	_	SpaceAfter=No|TokenRange=225801:225807
+26	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\r\n|TokenRange=225807:225808
+
+# sent_id = lmo-mil-wiki-doc8-s1477
+# text = Intant el ricev 'me cadò 'na soa veggia moto restaurada del Castle.
+1	Intant	intant	ADV	B	_	3	advmod	_	TokenRange=226006:226012
+2	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	TokenRange=226013:226015
+3	ricev	ricev	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=226016:226021
+4	'	'	PUNCT	FB	_	6	punct	_	SpaceAfter=No|TokenRange=226022:226023
+5	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	TokenRange=226023:226025
+6	cadò	cadà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	TokenRange=226026:226030
+7	'	'	PUNCT	FB	_	11	punct	_	SpaceAfter=No|TokenRange=226031:226032
+8	na	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	TokenRange=226032:226034
+9	soa	soo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	TokenRange=226035:226038
+10	veggia	veggio	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	TokenRange=226039:226045
+11	moto	moto	NOUN	S	Gender=Fem	6	obj	_	TokenRange=226046:226050
+12	restaurada	restaurado	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	TokenRange=226051:226061
+13-14	del	_	_	_	_	_	_	_	TokenRange=226062:226065
+13	de	de	ADP	E	_	15	case	_	_
+14	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Castle	Castle	PROPN	SP	_	11	nmod	_	SpaceAfter=No|TokenRange=226066:226072
+16	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\r\n|TokenRange=226072:226073
+
+# sent_id = lmo-mil-wiki-doc8-s1478
+# text = La sira prima de l'operazion de polizia troeuven 'na macchina brusada cont on corp.
+1	La	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=226075:226077
+2	sira	sira	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	TokenRange=226078:226082
+3	prima	prima	ADV	B	_	6	case	_	TokenRange=226083:226088
+4	de	de	ADP	E	_	3	fixed	_	TokenRange=226089:226091
+5	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No|TokenRange=226092:226094
+6	operazion	operazion	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	TokenRange=226094:226103
+7	de	de	ADP	E	_	8	case	_	TokenRange=226104:226106
+8	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	TokenRange=226107:226114
+9	troeuven	troeuvà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=226115:226123
+10	'	'	PUNCT	FB	_	9	punct	_	SpaceAfter=No|TokenRange=226124:226125
+11	na	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	TokenRange=226125:226127
+12	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	TokenRange=226128:226136
+13	brusada	brusado	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	TokenRange=226137:226144
+14	cont	cont	ADP	E	_	16	case	_	TokenRange=226145:226149
+15	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	TokenRange=226150:226152
+16	corp	corp	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No|TokenRange=226153:226157
+17	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\r\n|TokenRange=226157:226158
+
+# sent_id = lmo-mil-wiki-doc8-s1482
+# text = Anca la soa pistola a l'è fermada, ma riessen, anca cont ona sapienta irruzion de la polizia, a menàll via e a salvàj tucc.
+1	Anca	anca	ADV	B	_	4	advmod	_	TokenRange=227061:227065
+2	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	TokenRange=227066:227068
+3	soa	soo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	TokenRange=227069:227072
+4	pistola	pistola	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	TokenRange=227073:227080
+5	a	a	ADP	E	_	8	case	_	TokenRange=227081:227082
+6	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No|TokenRange=227083:227085
+7	è	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	TokenRange=227085:227086
+8	fermada	fermada	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|TokenRange=227087:227094
+9	,	,	PUNCT	FF	_	11	punct	_	TokenRange=227094:227095
+10	ma	ma	CCONJ	CC	_	11	cc	_	TokenRange=227096:227098
+11	riessen	riesà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	SpaceAfter=No|TokenRange=227099:227106
+12	,	,	PUNCT	FF	_	11	punct	_	TokenRange=227106:227107
+13	anca	anca	ADV	B	_	17	advmod	_	TokenRange=227108:227112
+14	cont	cont	ADP	E	_	17	case	_	TokenRange=227113:227117
+15	ona	ono	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	TokenRange=227118:227121
+16	sapienta	sapiento	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	TokenRange=227122:227130
+17	irruzion	irruzion	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	TokenRange=227131:227139
+18	de	de	ADP	E	_	20	case	_	TokenRange=227140:227142
+19	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	TokenRange=227143:227145
+20	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No|TokenRange=227146:227153
+21	,	,	PUNCT	FF	_	11	punct	_	TokenRange=227153:227154
+22	a	a	ADP	E	_	23	mark	_	TokenRange=227155:227156
+23	menàll	menàll	VERB	V	VerbForm=Inf	11	xcomp	_	TokenRange=227157:227163
+24	via	via	ADV	B	_	23	advmod	_	TokenRange=227164:227167
+25	e	e	CCONJ	CC	_	27	cc	_	TokenRange=227168:227169
+26	a	a	ADP	E	_	27	mark	_	TokenRange=227170:227171
+27	salvàj	salvàj	VERB	V	VerbForm=Inf	23	conj	_	TokenRange=227172:227178
+28	tucc	tucc	PRON	PI	_	27	obj	_	SpaceAfter=No|TokenRange=227179:227183
+29	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\r\n|TokenRange=227183:227184
+
+# sent_id = lmo-mil-wiki-doc8-s1484
+# text = Dopo de la sparatoria se ved on scorcc de sett agn innanz, cont lor du anmò insemma e cont trii fioeui.
+1	Dopo	dopo	ADV	B	_	4	case	_	TokenRange=227375:227379
+2	de	de	ADP	E	_	1	fixed	_	TokenRange=227380:227382
+3	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	TokenRange=227383:227385
+4	sparatoria	sparatoria	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	TokenRange=227386:227396
+5	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	6	expl:pass	_	TokenRange=227397:227399
+6	ved	vedè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=227400:227403
+7	on	on	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	8	det	_	TokenRange=227404:227406
+8	scorcc	scorcc	NOUN	S	Gender=Masc	6	obj	_	TokenRange=227407:227413
+9	de	de	ADP	E	_	11	case	_	TokenRange=227414:227416
+10	sett	sett	NUM	N	NumType=Card	11	nummod	_	TokenRange=227417:227421
+11	agn	agn	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	TokenRange=227422:227425
+12	innanz	innanz	ADV	B	_	11	advmod	_	SpaceAfter=No|TokenRange=227426:227432
+13	,	,	PUNCT	FF	_	8	punct	_	TokenRange=227432:227433
+14	cont	cont	ADP	E	_	15	case	_	TokenRange=227434:227438
+15	lor	lor	PRON	PE	Number=Plur|Person=3|PronType=Prs	8	nmod	_	TokenRange=227439:227442
+16	du	du	PRON	PI	_	15	nmod	_	TokenRange=227443:227445
+17	anmò	anmò	ADV	B	_	15	advmod	_	TokenRange=227446:227450
+18	insemma	insemma	ADV	B	_	17	advmod	_	TokenRange=227451:227458
+19	e	e	CCONJ	CC	_	22	cc	_	TokenRange=227459:227460
+20	cont	cont	ADP	E	_	22	case	_	TokenRange=227461:227465
+21	trii	trii	NUM	N	NumType=Card	22	nummod	_	TokenRange=227466:227470
+22	fioeui	fiùu	NOUN	S	Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No|TokenRange=227471:227477
+23	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\r\n|TokenRange=227477:227478
+
+# sent_id = lmo-mil-wiki-doc8-s1485
+# text = A l'è ona donna debon forta, despess minga emozionala per via del colp de la mort de la mader.
+1	A	a	ADP	E	_	5	case	_	TokenRange=227480:227481
+2	l'	lф	PRON	PC	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|TokenRange=227482:227484
+3	è	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	TokenRange=227484:227485
+4	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=227486:227489
+5	donna	donna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	TokenRange=227490:227495
+6	debon	debon	NOUN	S	Gender=Masc	5	compound	_	TokenRange=227496:227501
+7	forta	fort	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No|TokenRange=227502:227507
+8	,	,	PUNCT	FF	_	5	punct	_	TokenRange=227507:227508
+9	despess	despendere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	TokenRange=227509:227516
+10	minga	minga	ADV	B	_	11	advmod	_	TokenRange=227517:227522
+11	emozionala	emozionala	ADJ	A	Gender=Fem|Number=Sing	9	xcomp	_	TokenRange=227523:227533
+12	per	per	ADP	E	_	13	case	_	TokenRange=227534:227537
+13	via	via	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	TokenRange=227538:227541
+14-15	del	_	_	_	_	_	_	_	TokenRange=227542:227545
+14	de	de	ADP	E	_	16	case	_	_
+15	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	colp	colp	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	TokenRange=227546:227550
+17	de	de	ADP	E	_	19	case	_	TokenRange=227551:227553
+18	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	TokenRange=227554:227556
+19	mort	mort	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	TokenRange=227557:227561
+20	de	de	ADP	E	_	22	case	_	TokenRange=227562:227564
+21	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	TokenRange=227565:227567
+22	mader	mader	NOUN	S	_	19	nmod	Gender=Fem|Number=Sing	SpaceAfter=No|TokenRange=227568:227573
+23	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\r\n|TokenRange=227573:227574
+
+# sent_id = lmo-mil-wiki-doc8-s1486
+# text = A l'è assee scettica, e l'ha mai mostraa di sentiment religios, e la smonta semper i teorij irrazionai del Castle.
+1	A	a	ADP	E	_	5	case	_	TokenRange=227576:227577
+2	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No|TokenRange=227578:227580
+3	è	vesse	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	TokenRange=227580:227581
+4	assee	assee	ADV	B	_	5	advmod	_	TokenRange=227582:227587
+5	scettica	scettico	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=227588:227596
+6	,	,	PUNCT	FF	_	11	punct	_	TokenRange=227596:227597
+7	e	e	CCONJ	CC	_	11	cc	_	TokenRange=227598:227599
+8	l'	la	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	11	obj	_	SpaceAfter=No|TokenRange=227600:227602
+9	ha	avè	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	TokenRange=227602:227604
+10	mai	mai	ADV	B	_	11	advmod	_	TokenRange=227605:227608
+11	mostraa	mostrà	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	TokenRange=227609:227616
+12	di	de	ADP	E	_	13	case	_	TokenRange=227617:227619
+13	sentiment	sentiment	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	TokenRange=227620:227629
+14	religios	religios	ADJ	A	Number=Plur	13	amod	_	SpaceAfter=No|TokenRange=227630:227638
+15	,	,	PUNCT	FF	_	18	punct	_	TokenRange=227638:227639
+16	e	e	CCONJ	CC	_	18	cc	_	TokenRange=227640:227641
+17	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	_	TokenRange=227642:227644
+18	smonta	smontà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	TokenRange=227645:227651
+19	semper	semper	ADV	B	_	18	advmod	_	TokenRange=227652:227658
+20	i	el	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	TokenRange=227659:227660
+21	teorij	teoria	NOUN	S	Gender=Masc|Number=Plur	18	obj	_	TokenRange=227661:227667
+22	irrazionai	irrazionaio	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	TokenRange=227668:227678
+23-24	del	_	_	_	_	_	_	_	TokenRange=227679:227682
+23	di	de	ADP	E	_	25	case	_	_
+24	il	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	Castle	Castle	PROPN	SP	_	21	nmod	_	SpaceAfter=No|TokenRange=227683:227689
+26	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\r\n\r\n\r\n|TokenRange=227689:227690
+
+# sent_id = lmo-mil-wiki-doc9-s1490
+# text = Havel el nass in d'ona familia de intellettuaj e imprenditor.
+1	Havel	Havel	PROPN	SP	_	3	nsubj	_	TokenRange=228476:228481
+2	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	TokenRange=228482:228484
+3	nass	nasà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=228485:228489
+4	in	in	ADP	E	_	7	case	_	TokenRange=228490:228492
+5	d'	de	ADP	E	_	4	fixed	_	SpaceAfter=No|TokenRange=228493:228495
+6	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	TokenRange=228495:228498
+7	familia	familia	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	TokenRange=228499:228506
+8	de	de	ADP	E	_	9	case	_	TokenRange=228507:228509
+9	intellettuaj	intellettuall	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	TokenRange=228510:228522
+10	e	e	CCONJ	CC	_	11	cc	_	TokenRange=228523:228524
+11	imprenditor	imprenditor	NOUN	S	Gender=Masc	9	conj	_	SpaceAfter=No|TokenRange=228525:228536
+12	.	.	PUNCT	FS	_	3	punct	_	TokenRange=228536:228537

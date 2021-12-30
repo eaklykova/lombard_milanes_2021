@@ -1,0 +1,1280 @@
+# sent_id = lmo-mil-wiki-doc2-s451
+# text = Poeu, i general de l'esercit leaa (Gandalf, Aragorn, Éomer e Imrahil, pù Legolas, Gimli e i duu fioeu de Elrond) se riunissen per decid 'se fà.
+1	Poeu	poeu	ADV	B	_	30	advmod	_	SpaceAfter=No|TokenRange=63791:63795
+2	,	,	PUNCT	FF	_	1	punct	_	TokenRange=63795:63796
+3	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	4	det	_	TokenRange=63797:63798
+4	general	general	NOUN	S	Gender=Masc	30	nsubj	_	TokenRange=63799:63806
+5	de	de	ADP	E	_	7	case	_	TokenRange=63807:63809
+6	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|TokenRange=63810:63812
+7	esercit	esercit	NOUN	S	Gender=Masc	4	nmod	_	TokenRange=63812:63819
+8	leaa	leaa	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	TokenRange=63820:63824
+9	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No|TokenRange=63825:63826
+10	Gandalf	Gandalf	PROPN	SP	_	4	appos	_	SpaceAfter=No|TokenRange=63826:63833
+11	,	,	PUNCT	FF	_	12	punct	_	TokenRange=63833:63834
+12	Aragorn	Aragorn	PROPN	SP	_	10	conj	_	SpaceAfter=No|TokenRange=63835:63842
+13	,	,	PUNCT	FF	_	14	punct	_	TokenRange=63842:63843
+14	Éomer	Éomer	PROPN	SP	_	10	conj	_	TokenRange=63844:63849
+15	e	e	CCONJ	CC	_	16	cc	_	TokenRange=63850:63851
+16	Imrahil	Imrahil	PROPN	SP	_	10	conj	_	SpaceAfter=No|TokenRange=63852:63859
+17	,	,	PUNCT	FF	_	19	punct	_	TokenRange=63859:63860
+18	pù	pù	ADV	B	_	19	advmod	_	TokenRange=63861:63863
+19	Legolas	Legolas	PROPN	SP	_	10	conj	_	SpaceAfter=No|TokenRange=63864:63871
+20	,	,	PUNCT	FF	_	21	punct	_	TokenRange=63871:63872
+21	Gimli	Gimli	PROPN	SP	_	10	conj	_	TokenRange=63873:63878
+22	e	e	CCONJ	CC	_	25	cc	_	TokenRange=63879:63880
+23	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	TokenRange=63881:63882
+24	duu	duu	NUM	N	NumType=Card	25	amod	_	TokenRange=63883:63886
+25	fioeu	fioeu	NOUN	S	Gender=Masc	10	conj	_	TokenRange=63887:63892
+26	de	de	ADP	E	_	27	case	_	TokenRange=63893:63895
+27	Elrond	Elrond	PROPN	SP	_	25	nmod	_	SpaceAfter=No|TokenRange=63896:63902
+28	)	)	PUNCT	FB	_	10	punct	_	TokenRange=63902:63903
+29	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	30	expl	_	TokenRange=63904:63906
+30	riunissen	riunì	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=63907:63916
+31	per	per	ADP	E	_	32	case	_	TokenRange=63917:63920
+32	decid	decid	VERB	V	VerbForm=Inf	30	advcl	_	TokenRange=63921:63926
+33	'	'	PUNCT	FB	_	35	punct	_	SpaceAfter=No|TokenRange=63927:63928
+34	se	cosa	PRON	PQ	Number=Sing|PronType=Int	35	obj	_	TokenRange=63928:63930
+35	fà	fà	VERB	V	VerbForm=Inf	32	advcl	_	SpaceAfter=No|TokenRange=63931:63933
+36	.	.	PUNCT	FS	_	30	punct	_	TokenRange=63933:63934
+
+# sent_id = lmo-mil-wiki-doc2-s452
+# text = Gandalf el sa ben che l'è stada vinciuda domà ona battalia, minga la guerra; dent a Mordor a gh'è anmò 'na motta de soldaa ai ordin de Sauron.
+1	Gandalf	Gandalf	PROPN	SP	_	3	nsubj	_	TokenRange=63935:63942
+2	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	3	obj	_	TokenRange=63943:63945
+3	sa	savè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=63946:63948
+4	ben	ben	ADV	B	_	3	advmod	_	TokenRange=63949:63952
+5	che	che	SCONJ	CS	_	9	mark	_	TokenRange=63953:63956
+6	l'	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Clit	9	expl	_	SpaceAfter=No|TokenRange=63957:63959
+7	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	TokenRange=63959:63960
+8	stada	vess	AUX	VA	Number=Sing|Tense=Past|VerbForm=Part	9	aux:pass	_	TokenRange=63961:63966
+9	vinciuda	vinc	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	TokenRange=63967:63975
+10	domà	domà	ADV	B	_	9	advmod	_	TokenRange=63976:63980
+11	ona	ono	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	TokenRange=63981:63984
+12	battalia	battalia	NOUN	S	Gender=Fem|Number=Sing	9	nsubj:pass	_	SpaceAfter=No|TokenRange=63985:63993
+13	,	,	PUNCT	FF	_	16	punct	_	TokenRange=63993:63994
+14	minga	minga	ADV	BN	PronType=Neg	16	advmod	_	TokenRange=63995:64000
+15	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	TokenRange=64001:64003
+16	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No|TokenRange=64004:64010
+17	;	;	PUNCT	FC	_	3	punct	_	TokenRange=64010:64011
+18	dent	dent	ADV	B	_	20	case	_	TokenRange=64012:64016
+19	a	a	ADP	E	_	18	fixed	_	TokenRange=64017:64018
+20	Mordor	Mordor	PROPN	SP	_	23	obl	_	TokenRange=64019:64025
+21	a	a	ADP	E	_	23	case	_	TokenRange=64026:64027
+22	gh'	ghe	PRON	PC	Clitic=Yes|PronType=Prs	23	expl	_	SpaceAfter=No|TokenRange=64028:64031
+23	è	vess	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=64031:64032
+24	anmò	anmò	ADV	B	_	23	advmod	_	TokenRange=64033:64037
+25	'	'	PUNCT	FB	_	23	punct	_	SpaceAfter=No|TokenRange=64038:64039
+26	na	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	_	TokenRange=64039:64041
+27	motta	motta	NOUN	S	Gender=Fem|Number=Sing	23	nsubj	_	TokenRange=64042:64047
+28	de	de	ADP	E	_	29	case	_	TokenRange=64048:64050
+29	soldaa	soldaa	NOUN	S	Gender=Masc	27	nmod	_	TokenRange=64051:64057
+30-31	ai	_	_	_	_	_	_	_	TokenRange=64058:64060
+30	a	a	ADP	E	_	32	case	_	_
+31	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	32	det	_	_
+32	ordin	ordin	NOUN	S	Gender=Masc	27	nmod	_	TokenRange=64061:64066
+33	de	de	ADP	E	_	34	case	_	TokenRange=64067:64069
+34	Sauron	Sauron	PROPN	SP	_	32	nmod	_	SpaceAfter=No|TokenRange=64070:64076
+35	.	.	PUNCT	FS	_	3	punct	_	TokenRange=64076:64077
+
+# sent_id = lmo-mil-wiki-doc2-s453
+# text = El problema l'è che con tucc quei Orch a Mordor, Frodo podarà mai rivà a l'Orodruin, la montagna indove 'l gh'ha de buttà giò l'Anell.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=64078:64080
+2	problema	problema	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	TokenRange=64081:64089
+3	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	4	expl	_	SpaceAfter=No|TokenRange=64090:64092
+4	è	vess	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=64092:64093
+5	che	che	SCONJ	CS	_	16	mark	_	TokenRange=64094:64097
+6	con	con	ADP	E	_	9	case	_	TokenRange=64098:64101
+7	tucc	tucc	DET	T	Gender=Masc|Number=Sing|PronType=Tot	9	det:predet	_	TokenRange=64102:64106
+8	quei	quell	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	9	det	_	TokenRange=64107:64111
+9	Orch	Orch	PROPN	SP	_	16	obl	_	TokenRange=64112:64116
+10	a	a	ADP	E	_	11	case	_	TokenRange=64117:64118
+11	Mordor	Mordor	PROPN	SP	_	16	obl	_	SpaceAfter=No|TokenRange=64119:64125
+12	,	,	PUNCT	FF	_	9	punct	_	TokenRange=64125:64126
+13	Frodo	Frodo	PROPN	SP	_	16	nsubj	_	TokenRange=64127:64132
+14	podarà	podè	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	TokenRange=64133:64139
+15	mai	mai	ADV	B	_	16	advmod	_	TokenRange=64140:64143
+16	rivà	rivà	VERB	V	VerbForm=Inf	4	ccomp	_	TokenRange=64144:64148
+17	a	a	ADP	E	_	19	case	_	TokenRange=64149:64150
+18	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No|TokenRange=64151:64153
+19	Orodruin	Orodruin	PROPN	SP	_	16	obl	_	SpaceAfter=No|TokenRange=64153:64161
+20	,	,	PUNCT	FF	_	19	punct	_	TokenRange=64161:64162
+21	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	TokenRange=64163:64165
+22	montagna	montagna	NOUN	S	Gender=Fem|Number=Sing	19	appos	_	TokenRange=64166:64174
+23	indove	indove	ADV	B	_	26	advmod	_	TokenRange=64175:64181
+24	'l	'l	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	26	expl	_	TokenRange=64182:64184
+25	gh'	ghe	PRON	PC	Clitic=Yes|PronType=Prs	26	expl	_	SpaceAfter=No|TokenRange=64185:64188
+26	ha	avè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	TokenRange=64188:64190
+27	de	de	ADP	E	_	28	mark	_	TokenRange=64191:64193
+28	buttà	buttà	VERB	V	VerbForm=Inf	26	xcomp	_	TokenRange=64194:64199
+29	giò	giò	ADV	B	_	28	advmod	_	TokenRange=64200:64203
+30	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	31	det	_	SpaceAfter=No|TokenRange=64204:64206
+31	Anell	Anell	PROPN	SP	_	28	obj	_	SpaceAfter=No|TokenRange=64206:64211
+32	.	.	PUNCT	FS	_	4	punct	_	TokenRange=64211:64212
+
+# sent_id = lmo-mil-wiki-doc2-s454
+# text = Besogna donca svoià Mordor del sò esercit, e i unigh che poden fàll hinn lor.
+1	Besogna	besognà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=64213:64220
+2	donca	donca	ADV	B	_	1	advmod	_	TokenRange=64221:64226
+3	svoià	svoià	VERB	V	VerbForm=Inf	1	csubj	_	TokenRange=64227:64232
+4	Mordor	Mordor	PROPN	SP	_	3	obj	_	TokenRange=64233:64239
+5-6	del	_	_	_	_	_	_	_	TokenRange=64240:64243
+5	di	di	ADP	E	_	8	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	TokenRange=64244:64246
+8	esercit	esercit	NOUN	S	Gender=Masc	3	obl	_	SpaceAfter=No|TokenRange=64247:64254
+9	,	,	PUNCT	FF	_	18	punct	_	TokenRange=64254:64255
+10	e	e	CCONJ	CC	_	18	cc	_	TokenRange=64256:64257
+11	i	il	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	TokenRange=64258:64259
+12	unigh	unigh	ADJ	A	_	18	nsubj	_	TokenRange=64260:64265
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	TokenRange=64266:64269
+14	poden	podè	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	TokenRange=64270:64275
+15-16	fàll	_	_	_	_	_	_	_	TokenRange=64276:64280
+15	fà	fà	VERB	V	VerbForm=Inf	12	acl:relcl	_	_
+16	ll	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+17	hinn	vess	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	TokenRange=64281:64285
+18	lor	lor	PRON	PE	Number=Plur|Person=3|PronType=Prs	1	conj	_	SpaceAfter=No|TokenRange=64286:64289
+19	.	.	PUNCT	FS	_	1	punct	_	TokenRange=64289:64290
+
+# sent_id = lmo-mil-wiki-doc2-s455
+# text = Se tratta donca d'on diversiv, per dàggh on poo de temp anmò a Frodo:
+1	Se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	TokenRange=64291:64293
+2	tratta	trattà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=64294:64300
+3	donca	donca	ADV	B	_	2	advmod	_	TokenRange=64301:64306
+4	d'	di	ADP	E	_	5	case	_	SpaceAfter=No|TokenRange=64307:64309
+5	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=64309:64311
+6	diversiv	diversiv	NOUN	S	Gender=Masc	2	obl	_	SpaceAfter=No|TokenRange=64312:64320
+7	,	,	PUNCT	FF	_	2	punct	_	TokenRange=64320:64321
+8	per	per	ADP	E	_	9	mark	_	TokenRange=64322:64325
+9	dàggh	dàggh	VERB	V	VerbForm=Inf	2	advcl	_	TokenRange=64326:64331
+10	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	TokenRange=64332:64334
+11	poo	poo	ADV	B	_	9	advmod	_	TokenRange=64335:64338
+12	de	de	ADP	E	_	13	case	_	TokenRange=64339:64341
+13	temp	temp	NOUN	S	Gender=Masc	11	nmod	_	TokenRange=64342:64346
+14	anmò	anmò	ADV	B	_	9	advmod	_	TokenRange=64347:64351
+15	a	a	ADP	E	_	16	case	_	TokenRange=64352:64353
+16	Frodo	Frodo	PROPN	SP	_	9	obl	_	SpaceAfter=No|TokenRange=64354:64359
+17	:	:	PUNCT	FC	_	2	punct	_	TokenRange=64359:64360
+
+# sent_id = lmo-mil-wiki-doc2-s456
+# text = e l'è possibil che 'l vaga minga ben.
+1	e	e	CCONJ	CC	_	4	cc	_	TokenRange=64361:64362
+2	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	4	obj	_	SpaceAfter=No|TokenRange=64363:64365
+3	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	TokenRange=64365:64366
+4	possibil	possibil	ADJ	A	Number=Sing	0	root	_	TokenRange=64367:64375
+5	che	che	SCONJ	CS	_	7	mark	_	TokenRange=64376:64379
+6	'l	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	7	expl	_	TokenRange=64381:64382
+7	vaga	andà	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	TokenRange=64383:64387
+8	minga	minga	ADV	BN	PronType=Neg	7	advmod	_	TokenRange=64388:64393
+9	ben	ben	ADV	B	_	7	advmod	_	SpaceAfter=No|TokenRange=64394:64397
+10	.	.	PUNCT	FS	_	4	punct	_	TokenRange=64397:64398
+
+# sent_id = lmo-mil-wiki-doc2-s457
+# text = Tucc i generai accetten e se porten via, in direzion del Morannon, domà sesmila personn (trai quai gh'è anca Pipin - ma minga Merry).
+1	Tucc	tucc	DET	T	Gender=Masc|Number=Plur|PronType=Tot	3	det:predet	_	TokenRange=64399:64403
+2	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	TokenRange=64404:64405
+3	generai	general	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	TokenRange=64406:64413
+4	accetten	accettà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=64414:64422
+5	e	e	CCONJ	CC	_	7	cc	_	TokenRange=64423:64424
+6	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	TokenRange=64425:64427
+7	porten	portà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=64428:64434
+8	via	via	ADV	B	_	7	advmod	_	SpaceAfter=No|TokenRange=64435:64438
+9	,	,	PUNCT	FF	_	7	punct	_	TokenRange=64438:64439
+10	in	in	ADP	E	_	11	case	_	TokenRange=64440:64442
+11	direzion	direzion	NOUN	S	Gender=Fem	7	obl	_	TokenRange=64443:64451
+12-13	del	_	_	_	_	_	_	_	TokenRange=64452:64455
+12	di	di	ADP	E	_	14	case	_	_
+13	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Morannon	Morannon	PROPN	SP	_	11	nmod	_	SpaceAfter=No|TokenRange=64456:64464
+15	,	,	PUNCT	FF	_	7	punct	_	TokenRange=64464:64465
+16	domà	domà	ADV	B	_	18	advmod	_	TokenRange=64466:64470
+17	sesmila	sesmila	NUM	N	NumType=Card	18	nummod	_	TokenRange=64471:64478
+18	personn	persona	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	TokenRange=64479:64486
+19	(	(	PUNCT	FB	_	24	punct	_	SpaceAfter=No|TokenRange=64487:64488
+20-21	trai	_	_	_	_	_	_	_	TokenRange=64488:64492
+20	tra	tra	ADP	E	_	22	case	_	_
+21	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	22	det	_	_
+22	quai	qual	PRON	PR	Number=Plur|PronType=Rel	24	nsubj	_	TokenRange=64493:64497
+23	gh'	ghe	PRON	PC	Clitic=Yes|PronType=Prs	24	expl	_	SpaceAfter=No|TokenRange=64498:64501
+24	è	vess	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	TokenRange=64501:64502
+25	anca	anca	ADV	B	_	26	advmod	_	TokenRange=64503:64507
+26	Pipin	Pipin	PROPN	SP	_	24	nsubj	_	TokenRange=64508:64513
+27	-	-	PUNCT	FF	_	26	punct	_	TokenRange=64514:64515
+28	ma	ma	CCONJ	CC	_	30	cc	_	TokenRange=64516:64518
+29	minga	minga	ADV	BN	PronType=Neg	30	advmod	_	TokenRange=64519:64524
+30	Merry	Merry	PROPN	SP	_	26	conj	_	SpaceAfter=No|TokenRange=64525:64530
+31	)	)	PUNCT	FB	_	24	punct	_	SpaceAfter=No|TokenRange=64530:64531
+32	.	.	PUNCT	FS	_	4	punct	_	TokenRange=64531:64532
+
+# sent_id = lmo-mil-wiki-doc2-s458
+# text = Rivaa al Cancell Negher, Aragorn (che l'eva giamò sfidaa Sauron col palantír) l'invita el Scior de la Terra Negra de vegnì foeura.
+1	Rivaa	rivà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	20	advcl	_	TokenRange=64533:64538
+2-3	al	_	_	_	_	_	_	_	TokenRange=64539:64541
+2	a	a	ADP	E	_	4	case	_	_
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Cancell	Cancell	PROPN	SP	_	1	obl	_	TokenRange=64542:64549
+5	Negher	Negher	PROPN	SP	_	4	flat:name	_	SpaceAfter=No|TokenRange=64550:64556
+6	,	,	PUNCT	FF	_	1	punct	_	TokenRange=64556:64557
+7	Aragorn	Aragorn	PROPN	SP	_	20	nsubj	_	TokenRange=64558:64565
+8	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No|TokenRange=64566:64567
+9	che	che	PRON	PR	PronType=Rel	13	nsubj	_	TokenRange=64567:64570
+10	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	11	expl	_	SpaceAfter=No|TokenRange=64571:64573
+11	eva	avè	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	TokenRange=64573:64576
+12	giamò	giamò	ADV	B	_	13	advmod	_	TokenRange=64577:64582
+13	sfidaa	sfidà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	TokenRange=64583:64589
+14	Sauron	Sauron	PROPN	SP	_	13	nsubj	_	TokenRange=64590:64596
+15-16	col	_	_	_	_	_	_	_	TokenRange=64597:64600
+15	con	con	ADP	E	_	17	case	_	_
+16	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	palantír	palantír	NOUN	S	Gender=Masc	13	obl	_	SpaceAfter=No|TokenRange=64601:64609
+18	)	)	PUNCT	FB	_	13	punct	_	TokenRange=64609:64610
+19	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	20	expl	_	SpaceAfter=No|TokenRange=64611:64613
+20	invita	invitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=64613:64619
+21	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	TokenRange=64620:64622
+22	Scior	Scior	PROPN	SP	_	20	obj	_	TokenRange=64623:64628
+23	de	de	ADP	E	_	25	case	_	TokenRange=64629:64631
+24	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	TokenRange=64632:64634
+25	Terra	Terra	PROPN	SP	_	22	nmod	_	TokenRange=64635:64640
+26	Negra	Negra	PROPN	SP	_	25	flat:name	_	TokenRange=64641:64646
+27	de	de	ADP	E	_	28	mark	_	TokenRange=64647:64649
+28	vegnì	vegnì	VERB	V	VerbForm=Inf	20	xcomp	_	TokenRange=64650:64655
+29	foeura	foeura	ADV	B	_	28	advmod	_	SpaceAfter=No|TokenRange=64656:64662
+30	.	.	PUNCT	FS	_	20	punct	_	TokenRange=64662:64663
+
+# sent_id = lmo-mil-wiki-doc2-s459
+# text = I armad de Sauron circonden forz del Ben.
+1	I	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	TokenRange=64664:64665
+2	armad	armada	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	TokenRange=64666:64671
+3	de	de	ADP	E	_	4	case	_	TokenRange=64672:64674
+4	Sauron	Sauron	PROPN	SP	_	2	nmod	_	TokenRange=64675:64681
+5	circonden	circondà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=64682:64691
+6	forz	forza	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	TokenRange=64692:64696
+7-8	del	_	_	_	_	_	_	_	TokenRange=64697:64700
+7	di	di	ADP	E	_	9	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Ben	Ben	PROPN	SP	_	6	nmod	_	SpaceAfter=No|TokenRange=64701:64704
+10	.	.	PUNCT	FS	_	5	punct	_	TokenRange=64704:64705
+
+# sent_id = lmo-mil-wiki-doc2-s461
+# text = Disperaa, i Omen se preparen a la battalia, convinciuu che la sia l'ultima.
+1	Disperaa	disperaa	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	SpaceAfter=No|TokenRange=64859:64867
+2	,	,	PUNCT	FF	_	1	punct	_	TokenRange=64867:64868
+3	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	4	det	_	TokenRange=64869:64870
+4	Omen	Omen	PROPN	SP	_	6	nsubj	_	TokenRange=64871:64875
+5	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	TokenRange=64876:64878
+6	preparen	preparà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	TokenRange=64879:64887
+7	a	a	ADP	E	_	9	case	_	TokenRange=64888:64889
+8	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	TokenRange=64890:64892
+9	battalia	battalia	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=64893:64901
+10	,	,	PUNCT	FF	_	6	punct	_	TokenRange=64901:64902
+11	convinciuu	convincс	ADJ	V	Number=Plur|Tense=Past|VerbForm=Part	6	advcl	_	TokenRange=64903:64913
+12	che	che	SCONJ	CS	_	16	mark	_	TokenRange=64914:64917
+13	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Clit	14	expl	_	TokenRange=64918:64920
+14	sia	vess	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	TokenRange=64921:64924
+15	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No|TokenRange=64925:64927
+16	ultima	ultimo	ADJ	NO	Gender=Fem|Number=Sing	11	ccomp	_	SpaceAfter=No|TokenRange=64927:64933
+17	.	.	PUNCT	FS	_	6	punct	_	TokenRange=64933:64934
+
+# sent_id = lmo-mil-wiki-doc2-s462
+# text = Combatten durament, ajuttaa di Aquil che lotten contra i besti di Nazgûl.
+1	Combatten	combattà	VERB	V	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=64935:64944
+2	durament	durament	ADV	B	_	1	advmod	_	SpaceAfter=No|TokenRange=64945:64953
+3	,	,	PUNCT	FF	_	4	punct	_	TokenRange=64953:64954
+4	ajuttaa	ajuttà	VERB	V	Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	TokenRange=64955:64962
+5	di	di	ADP	E	_	6	case	_	TokenRange=64963:64965
+6	Aquil	Aquil	PROPN	SP	_	4	obl	_	TokenRange=64966:64971
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	TokenRange=64972:64975
+8	lotten	lottà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	TokenRange=64976:64982
+9	contra	contra	ADP	E	_	11	case	_	TokenRange=64983:64989
+10	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	TokenRange=64990:64991
+11	besti	bestia	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	TokenRange=64992:64997
+12	di	di	ADP	E	_	13	case	_	TokenRange=64998:65000
+13	Nazgûl	Nazgûl	PROPN	SP	_	11	nmod	_	SpaceAfter=No|TokenRange=65001:65007
+14	.	.	PUNCT	FS	_	1	punct	_	TokenRange=65007:65008
+
+# sent_id = lmo-mil-wiki-doc2-s463
+# text = Ma el par ciar che la ghe sia minga speranza.
+1	Ma	ma	CCONJ	CC	_	3	cc	_	TokenRange=65009:65011
+2	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	3	expl	_	TokenRange=65012:65014
+3	par	parè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=65015:65018
+4	ciar	ciar	ADJ	A	Gender=Masc|Number=Sing	3	xcomp	_	TokenRange=65019:65023
+5	che	che	SCONJ	CS	_	8	mark	_	TokenRange=65024:65027
+6	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Clit	8	expl	_	TokenRange=65028:65030
+7	ghe	ghe	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	TokenRange=65031:65034
+8	sia	vess	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	TokenRange=65035:65038
+9	minga	minga	ADV	BN	PronType=Neg	8	advmod	_	TokenRange=65039:65044
+10	speranza	speranza	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No|TokenRange=65045:65053
+11	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\r\n|TokenRange=65053:65054
+
+# sent_id = lmo-mil-wiki-doc2-s465
+# text = Vun di capp di Orch (Gorbag) l'è staa mazzaa de l'alter (Shagrat).
+1	Vun	vuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj:pass	_	TokenRange=65263:65266
+2	di	di	ADP	E	_	3	case	_	TokenRange=65267:65269
+3	capp	capp	NOUN	S	Gender=Masc	1	nmod	_	TokenRange=65270:65274
+4	di	di	ADP	E	_	5	case	_	TokenRange=65275:65277
+5	Orch	Orch	PROPN	SP	_	3	nmod	_	TokenRange=65278:65282
+6	(	(	PUNCT	FB	_	7	punct	_	SpaceAfter=No|TokenRange=65283:65284
+7	Gorbag	Gorbag	PROPN	SP	_	3	appos	_	SpaceAfter=No|TokenRange=65284:65290
+8	)	)	PUNCT	FB	_	7	punct	_	TokenRange=65290:65291
+9	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	12	expl	_	SpaceAfter=No|TokenRange=65292:65294
+10	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	TokenRange=65294:65295
+11	staa	vess	AUX	VA	Number=Sing|Tense=Past|VerbForm=Part	12	aux:pass	_	TokenRange=65296:65300
+12	mazzaa	mazzà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=65301:65307
+13	de	de	ADP	E	_	15	case	_	TokenRange=65308:65310
+14	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No|TokenRange=65311:65313
+15	alter	alter	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	obl:agent	_	TokenRange=65313:65318
+16	(	(	PUNCT	FB	_	17	punct	_	SpaceAfter=No|TokenRange=65319:65320
+17	Shagrat	Shagrat	PROPN	SP	_	15	appos	_	SpaceAfter=No|TokenRange=65320:65327
+18	)	)	PUNCT	FB	_	17	punct	_	SpaceAfter=No|TokenRange=65327:65328
+19	.	.	PUNCT	FS	_	12	punct	_	TokenRange=65328:65329
+
+# sent_id = lmo-mil-wiki-doc2-s467
+# text = Ma intrattant Sam el riess a liberà Frodo, che però l'è anca lù senza speranza, perchè 'l pensa che ghe abbien portaa via l'Anell.
+1	Ma	ma	CCONJ	CC	_	5	cc	_	TokenRange=65462:65464
+2	intrattant	intrattant	ADV	B	_	5	advmod	_	TokenRange=65465:65475
+3	Sam	Sam	PROPN	SP	_	5	nsubj	_	TokenRange=65476:65479
+4	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	5	expl	_	TokenRange=65480:65482
+5	riess	riessì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=65483:65488
+6	a	a	ADP	E	_	7	mark	_	TokenRange=65489:65490
+7	liberà	liberà	VERB	V	VerbForm=Inf	5	xcomp	_	TokenRange=65491:65497
+8	Frodo	Frodo	PROPN	SP	_	7	obj	_	SpaceAfter=No|TokenRange=65498:65503
+9	,	,	PUNCT	FF	_	8	punct	_	TokenRange=65503:65504
+10	che	che	PRON	PR	PronType=Rel	13	nsubj	_	TokenRange=65505:65508
+11	però	però	ADV	B	_	13	advmod	_	TokenRange=65509:65513
+12	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	13	expl	_	SpaceAfter=No|TokenRange=65514:65516
+13	è	vess	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	TokenRange=65516:65517
+14	anca	anca	ADV	B	_	15	advmod	_	TokenRange=65518:65522
+15	lù	lù	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	TokenRange=65523:65525
+16	senza	senza	ADP	E	_	17	case	_	TokenRange=65526:65531
+17	speranza	speranza	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No|TokenRange=65532:65540
+18	,	,	PUNCT	FF	_	13	punct	_	TokenRange=65540:65541
+19	perchè	perchè	SCONJ	CS	_	21	mark	_	TokenRange=65542:65548
+20	'l	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	21	expl	_	TokenRange=65549:65551
+21	pensa	pensà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	TokenRange=65552:65557
+22	che	che	SCONJ	CS	_	25	mark	_	TokenRange=65558:65561
+23	ghe	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	iobj	_	TokenRange=65562:65565
+24	abbien	avè	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	TokenRange=65566:65572
+25	portaa	portà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	21	ccomp	_	TokenRange=65573:65579
+26	via	via	ADV	B	_	25	advmod	_	TokenRange=65580:65583
+27	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	28	det	_	SpaceAfter=No|TokenRange=65584:65586
+28	Anell	Anell	PROPN	SP	_	25	obj	_	SpaceAfter=No|TokenRange=65586:65591
+29	.	.	PUNCT	FS	_	5	punct	_	TokenRange=65591:65592
+
+# sent_id = lmo-mil-wiki-doc2-s468
+# text = Ma Sam el ghe dis che l'eva ciappaa lù.
+1	Ma	ma	CCONJ	CC	_	5	cc	_	TokenRange=65593:65595
+2	Sam	Sam	PROPN	SP	_	5	nsubj	_	TokenRange=65596:65599
+3	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	5	expl	_	TokenRange=65600:65602
+4	ghe	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	TokenRange=65603:65606
+5	dis	dì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=65607:65610
+6	che	che	SCONJ	CS	_	9	mark	_	TokenRange=65611:65614
+7	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	9	expl	_	SpaceAfter=No|TokenRange=65615:65617
+8	eva	avè	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	TokenRange=65617:65620
+9	ciappaa	ciappà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	TokenRange=65621:65628
+10	lù	lù	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No|TokenRange=65629:65631
+11	.	.	PUNCT	FS	_	5	punct	_	TokenRange=65631:65632
+
+# sent_id = lmo-mil-wiki-doc2-s469
+# text = Frodo, ormai quasi s'ciav de l'Anell, in d'on primm moment el se inrabiss on poo, ma poeu el ghe domanda scusa a Sam.
+1	Frodo	Frodo	PROPN	SP	_	18	nsubj	_	SpaceAfter=No|TokenRange=65633:65638
+2	,	,	PUNCT	FF	_	1	punct	_	TokenRange=65638:65639
+3	ormai	ormai	ADV	B	_	6	advmod	_	TokenRange=65640:65645
+4	quasi	quasi	ADV	B	_	6	advmod	_	TokenRange=65646:65651
+5	s'	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	SpaceAfter=No|TokenRange=65652:65654
+6	ciav	ciavà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	TokenRange=65654:65658
+7	de	de	ADP	E	_	9	case	_	TokenRange=65659:65661
+8	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No|TokenRange=65662:65664
+9	Anell	Anell	PROPN	SP	_	6	obl	_	SpaceAfter=No|TokenRange=65664:65669
+10	,	,	PUNCT	FF	_	6	punct	_	TokenRange=65669:65670
+11	in	in	ADP	E	_	15	case	_	TokenRange=65671:65673
+12	d'	di	ADP	E	_	11	fixed	_	SpaceAfter=No|TokenRange=65674:65676
+13	on	on	DET	RI	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	TokenRange=65676:65678
+14	primm	primm	ADJ	NO	Number=Sing|NumType=Ord	15	amod	_	TokenRange=65679:65684
+15	moment	moment	NOUN	S	Gender=Masc	18	obl	_	TokenRange=65685:65691
+16	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	18	expl	_	TokenRange=65692:65694
+17	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	TokenRange=65695:65697
+18	inrabiss	inrabià	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=65698:65706
+19	on	on	DET	RI	Gender=Masc|Number=Sing|PronType=Ind	20	det	_	TokenRange=65707:65709
+20	poo	poo	ADV	B	_	18	advmod	_	SpaceAfter=No|TokenRange=65710:65713
+21	,	,	PUNCT	FF	_	26	punct	_	TokenRange=65713:65714
+22	ma	ma	CCONJ	CC	_	26	cc	_	TokenRange=65715:65717
+23	poeu	poeu	ADV	B	_	26	advmod	_	TokenRange=65718:65722
+24	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	26	expl	_	TokenRange=65723:65725
+25	ghe	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	iobj	_	TokenRange=65726:65729
+26	domanda	domandà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	TokenRange=65730:65737
+27	scusa	scusa	NOUN	S	Gender=Fem|Number=Sing	26	obj	_	TokenRange=65738:65743
+28	a	a	ADP	E	_	29	case	_	TokenRange=65744:65745
+29	Sam	Sam	PROPN	SP	_	26	obl	_	SpaceAfter=No|TokenRange=65746:65749
+30	.	.	PUNCT	FS	_	18	punct	_	TokenRange=65749:65750
+
+# sent_id = lmo-mil-wiki-doc2-s470
+# text = Dòpo avè ciappaa di uniform di Orch, i duu hobbit entren denter a Mordor, in direzion de l'Orodruin.
+1	Dòpo	dòpo	SCONJ	CS	_	3	mark	_	TokenRange=65751:65755
+2	avè	avè	AUX	VA	VerbForm=Inf	3	aux	_	TokenRange=65756:65759
+3	ciappaa	ciappà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	TokenRange=65760:65767
+4	di	di	ADP	E	_	5	case	_	TokenRange=65768:65770
+5	uniform	uniform	NOUN	S	Gender=Masc	3	obl	_	TokenRange=65771:65778
+6	di	di	ADP	E	_	7	case	_	TokenRange=65779:65781
+7	Orch	Orch	PROPN	SP	_	5	nmod	_	SpaceAfter=No|TokenRange=65782:65786
+8	,	,	PUNCT	FF	_	3	punct	_	TokenRange=65786:65787
+9	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	TokenRange=65788:65789
+10	duu	duu	NUM	N	NumType=Card	11	nummod	_	TokenRange=65790:65793
+11	hobbit	hobbit	NOUN	S	Gender=Masc	12	nsubj	_	TokenRange=65794:65800
+12	entren	entrà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=65801:65807
+13	denter	denter	ADV	B	_	15	case	_	TokenRange=65808:65814
+14	a	a	ADP	E	_	15	case	_	TokenRange=65815:65816
+15	Mordor	Mordor	PROPN	SP	_	12	obl	_	SpaceAfter=No|TokenRange=65817:65823
+16	,	,	PUNCT	FF	_	12	punct	_	TokenRange=65823:65824
+17	in	in	ADP	E	_	18	case	_	TokenRange=65825:65827
+18	direzion	direzion	NOUN	S	Gender=Fem	12	obl	_	TokenRange=65828:65836
+19	de	de	ADP	E	_	21	case	_	TokenRange=65837:65839
+20	l'	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No|TokenRange=65840:65842
+21	Orodruin	Orodruin	PROPN	SP	_	18	nmod	_	SpaceAfter=No|TokenRange=65842:65850
+22	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\r\n|TokenRange=65850:65851
+
+# sent_id = lmo-mil-wiki-doc2-s471
+# text = La strada l'è longa e fadigosa, e i duu ris'cen anca de andà a la battalia del Morannon, vist che hinn vestii 'me Orch.
+1	La	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=65853:65855
+2	strada	strada	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	TokenRange=65856:65862
+3	l'	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Clit	5	expl	_	SpaceAfter=No|TokenRange=65863:65865
+4	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	TokenRange=65865:65866
+5	longa	longo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	TokenRange=65867:65872
+6	e	e	CCONJ	CC	_	7	cc	_	TokenRange=65873:65874
+7	fadigosa	fadigoso	ADJ	A	Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No|TokenRange=65875:65883
+8	,	,	PUNCT	FF	_	12	punct	_	TokenRange=65883:65884
+9	e	e	CCONJ	CC	_	12	cc	_	TokenRange=65885:65886
+10	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	TokenRange=65887:65888
+11	duu	duu	NUM	N	NumType=Card	12	nsubj	_	TokenRange=65889:65892
+12	ris'cen	ris’cià'	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No|TokenRange=65893:65900
+13	anca	anca	ADV	B	_	12	advmod	_	TokenRange=65901:65905
+14	de	de	ADP	E	_	15	mark	_	TokenRange=65906:65908
+15	andà	andà	VERB	V	VerbForm=Inf	12	xcomp	_	TokenRange=65909:65913
+16	a	a	ADP	E	_	18	case	_	TokenRange=65914:65915
+17	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	TokenRange=65916:65918
+18	battalia	battalia	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	TokenRange=65919:65927
+19-20	del	_	_	_	_	_	_	_	TokenRange=65928:65931
+19	di	di	ADP	E	_	21	case	_	_
+20	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	Morannon	Morannon	PROPN	SP	_	18	nmod	_	SpaceAfter=No|TokenRange=65932:65940
+22	,	,	PUNCT	FF	_	15	punct	_	TokenRange=65940:65941
+23	vist	vedè	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	TokenRange=65942:65946
+24	che	che	SCONJ	CS	_	26	mark	_	TokenRange=65947:65950
+25	hinn	vess	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	TokenRange=65951:65955
+26	vestii	vestì	VERB	V	Number=Plur|Tense=Past|VerbForm=Part	23	ccomp	_	TokenRange=65956:65962
+27	'me	'me	ADP	E	_	28	case	_	SpaceAfter=No|TokenRange=65963:65966
+28	Orch	Orch	PROPN	SP	_	26	obl	_	SpaceAfter=No|TokenRange=65967:65971
+29	.	.	PUNCT	FS	_	5	punct	_	TokenRange=65971:65972
+
+# sent_id = lmo-mil-wiki-doc2-s472
+# text = Ma per fortuna riessen a scappà.
+1	Ma	ma	CCONJ	CC	_	4	cc	_	TokenRange=65973:65975
+2	per	per	ADP	E	_	3	case	_	TokenRange=65976:65979
+3	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	TokenRange=65980:65987
+4	riessen	riessì	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=65988:65995
+5	a	a	ADP	E	_	6	mark	_	TokenRange=65996:65997
+6	scappà	scappà	VERB	V	VerbForm=Inf	4	xcomp	_	SpaceAfter=No|TokenRange=65998:66004
+7	.	.	PUNCT	FS	_	4	punct	_	TokenRange=66004:66005
+
+# sent_id = lmo-mil-wiki-doc2-s474
+# text = Sam l'ajutta come 'l pò, savendo che 'l pò minga portàll lù l'Anell.
+1	Sam	Sam	PROPN	SP	_	3	nsubj	_	TokenRange=66148:66151
+2	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	3	obj	_	SpaceAfter=No|TokenRange=66152:66154
+3	ajutta	ajuttà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=66154:66160
+4	come	come	ADV	B	_	6	advmod	_	TokenRange=66161:66165
+5	'l	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	6	expl	_	TokenRange=66166:66168
+6	pò	podè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No|TokenRange=66169:66171
+7	,	,	PUNCT	FF	_	3	punct	_	TokenRange=66171:66172
+8	savendo	savè	VERB	V	VerbForm=Ger	3	advcl	_	TokenRange=66173:66180
+9	che	che	SCONJ	CS	_	13	mark	_	TokenRange=66181:66184
+10	'l	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	11	expl	_	TokenRange=66185:66187
+11	pò	podè	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	TokenRange=66188:66190
+12	minga	minga	ADV	BN	PronType=Neg	13	advmod	_	TokenRange=66191:66196
+13-14	portàll	_	_	_	_	_	_	_	TokenRange=66197:66204
+13	portà	portà	VERB	V	VerbForm=Inf	8	ccomp	_	TokenRange=66197:66204
+14	ll	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3| PronType=Prs	13	obj	_	TokenRange=66197:66204
+15	lù	lù	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	TokenRange=66205:66207
+16	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No|TokenRange=66208:66210
+17	Anell	Anell	PROPN	SP	_	13	obj	_	SpaceAfter=No|TokenRange=66210:66215
+18	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\r\n|TokenRange=66215:66216
+
+# sent_id = lmo-mil-wiki-doc2-s475
+# text = Finalment, dòpo 'n bell poo riessen a rivà a la Montagna:
+1	Finalment	finalment	ADV	B	_	7	advmod	_	SpaceAfter=No|TokenRange=66218:66227
+2	,	,	PUNCT	FF	_	1	punct	_	TokenRange=66227:66228
+3	dòpo	dòpo	ADP	E	_	6	case	_	TokenRange=66229:66233
+4	'n	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=66234:66236
+5	bell	bell	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	TokenRange=66237:66241
+6	poo	poo	ADV	B	_	7	advmod	_	TokenRange=66242:66245
+7	riessen	riessì	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=66246:66253
+8	a	a	ADP	E	_	9	mark	_	TokenRange=66254:66255
+9	rivà	rivà	VERB	V	VerbForm=Inf	7	xcomp	_	TokenRange=66256:66260
+10	a	a	ADP	E	_	12	case	_	TokenRange=66261:66262
+11	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	TokenRange=66263:66265
+12	Montagna	Montagna	PROPN	SP	_	9	obl	_	SpaceAfter=No|TokenRange=66266:66274
+13	:	:	PUNCT	FC	_	7	punct	_	TokenRange=66274:66275
+
+# sent_id = lmo-mil-wiki-doc2-s476
+# text = la fin de on viagg longh quatter mes (hinn partii de Imladris el 25 dicember, e adess l'è 'l 25 de marz).
+1	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=66276:66278
+2	fin	fin	NOUN	S	Gender=Fem	0	root	_	TokenRange=66279:66282
+3	de	de	ADP	E	_	5	case	_	TokenRange=66283:66285
+4	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	TokenRange=66286:66288
+5	viagg	viagg	NOUN	S	Gender=Masc	2	nmod	_	TokenRange=66289:66294
+6	longh	longh	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	TokenRange=66295:66300
+7	quatter	quatter	NUM	N	NumType=Card	8	nummod	_	TokenRange=66301:66308
+8	mes	mes	NOUN	S	Gender=Masc	5	nmod	_	TokenRange=66309:66312
+9	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No|TokenRange=66313:66314
+10	hinn	vess	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	TokenRange=66314:66318
+11	partii	partì	VERB	V	Number=Plur|Tense=Past|VerbForm=Part	2	parataxis	_	TokenRange=66319:66325
+12	de	de	ADP	E	_	13	case	_	TokenRange=66326:66328
+13	Imladris	Imladris	PROPN	SP	_	11	obl	_	TokenRange=66329:66337
+14	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	TokenRange=66338:66340
+15	25	25	NUM	N	NumType=Card	11	obl	_	TokenRange=66341:66343
+16	dicember	dicember	NOUN	S	Gender=Masc	15	flat	_	SpaceAfter=No|TokenRange=66344:66352
+17	,	,	PUNCT	FF	_	21	punct	_	TokenRange=66352:66353
+18	e	e	CCONJ	CC	_	21	cc	_	TokenRange=66354:66355
+19	adess	adess	ADV	B	_	21	advmod	_	TokenRange=66356:66361
+20	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	21	expl	_	SpaceAfter=No|TokenRange=66362:66364
+21	è	vess	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	TokenRange=66364:66365
+22	'l	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	TokenRange=66366:66368
+23	25	25	NUM	N	NumType=Card	21	obl	_	TokenRange=66369:66371
+24	de	de	ADP	E	_	25	case	_	TokenRange=66372:66374
+25	marz	marz	NOUN	S	Gender=Masc	23	nmod	_	SpaceAfter=No|TokenRange=66375:66379
+26	)	)	PUNCT	FB	_	11	punct	_	SpaceAfter=No|TokenRange=66379:66380
+27	.	.	PUNCT	FS	_	2	punct	_	TokenRange=66380:66381
+
+# sent_id = lmo-mil-wiki-doc2-s478
+# text = Ma per el moment, el riess minga a ciappàll.
+1	Ma	ma	CCONJ	CC	_	7	cc	_	TokenRange=66521:66523
+2	per	per	ADP	E	_	4	case	_	TokenRange=66524:66527
+3	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	TokenRange=66528:66530
+4	moment	moment	NOUN	S	Gender=Masc	7	obl	_	SpaceAfter=No|TokenRange=66531:66537
+5	,	,	PUNCT	FF	_	4	punct	_	TokenRange=66537:66538
+6	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	7	expl	_	TokenRange=66539:66541
+7	riess	riessì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=66542:66547
+8	minga	minga	ADV	BN	PronType=Neg	7	advmod	_	TokenRange=66548:66553
+9	a	a	ADP	E	_	10	mark	_	TokenRange=66554:66555
+10-11	ciappàll	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=66556:66564
+10	ciappà	ciappà	VERB	V	VerbForm=Inf	7	xcomp	_	_
+11	ll	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3| PronType=Prs	10	obj	_	_
+12	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\r\n|TokenRange=66564:66565
+
+# sent_id = lmo-mil-wiki-doc2-s479
+# text = I duu hobbit riven dent a la Montagna, grazzie a on passagg faa sù de Sauron on'era prima.
+1	I	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	TokenRange=66567:66568
+2	duu	duu	NUM	N	NumType=Card	3	nummod	_	TokenRange=66569:66572
+3	hobbit	hobbit	NOUN	S	Gender=Masc	4	nsubj	_	TokenRange=66573:66579
+4	riven	rivà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=66580:66585
+5	dent	dent	ADV	B	_	8	case	_	TokenRange=66586:66590
+6	a	a	ADP	E	_	8	case	_	TokenRange=66591:66592
+7	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	TokenRange=66593:66595
+8	Montagna	montagna	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No|TokenRange=66596:66604
+9	,	,	PUNCT	FF	_	4	punct	_	TokenRange=66604:66605
+10	grazzie	grazzie	NOUN	S	_	13	case	_	TokenRange=66606:66613
+11	a	a	ADP	E	_	10	fixed	_	TokenRange=66614:66615
+12	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	TokenRange=66616:66618
+13	passagg	passagg	NOUN	S	Gender=Masc	4	obl	_	TokenRange=66619:66626
+14	faa	fà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	TokenRange=66627:66630
+15	sù	sù	ADV	B	_	14	advmod	_	TokenRange=66631:66633
+16	de	de	ADP	E	_	17	case	_	TokenRange=66634:66636
+17	Sauron	Sauron	PROPN	SP	_	14	obl	_	TokenRange=66637:66643
+18	on'	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	advmod	_	SpaceAfter=No|TokenRange=66644:66647
+19	era	era	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	TokenRange=66647:66650
+20	prima	prima	ADV	B	_	19	advmod	_	SpaceAfter=No|TokenRange=66651:66656
+21	.	.	PUNCT	FS	_	4	punct	_	TokenRange=66656:66657
+
+# sent_id = lmo-mil-wiki-doc2-s480
+# text = E lì, finalment, Frodo el gh'avariss l'occasion de liberàss de l'Anell e salvà el Mond.
+1	E	e	CCONJ	CC	_	9	cc	_	TokenRange=66658:66659
+2	lì	lì	ADV	B	_	9	advmod	_	SpaceAfter=No|TokenRange=66660:66662
+3	,	,	PUNCT	FF	_	2	punct	_	TokenRange=66662:66663
+4	finalment	finalment	ADV	B	_	9	advmod	_	SpaceAfter=No|TokenRange=66664:66673
+5	,	,	PUNCT	FF	_	4	punct	_	TokenRange=66673:66674
+6	Frodo	Frodo	PROPN	SP	_	9	nsubj	_	TokenRange=66675:66680
+7	el	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Clit	9	expl	_	TokenRange=66681:66683
+8	gh'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	SpaceAfter=No|TokenRange=66684:66687
+9	avariss	avarì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=66687:66694
+10	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No|TokenRange=66695:66697
+11	occasion	occasion	NOUN	S	Gender=Fem	9	obj	_	TokenRange=66697:66705
+12	de	de	ADP	E	_	13	mark	_	TokenRange=66706:66708
+13-14	liberàss	_	_	_	_	_	_	_	TokenRange=66709:66717
+13	liberà	liberà	VERB	V	VerbForm=Inf	11	acl	_	_
+14	ss	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+15	de	de	ADP	E	_	17	case	_	TokenRange=66718:66720
+16	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No|TokenRange=66721:66723
+17	Anell	Anell	PROPN	SP	_	13	obl	_	TokenRange=66723:66728
+18	e	e	CCONJ	CC	_	19	cc	_	TokenRange=66729:66730
+19	salvà	salvà	VERB	V	VerbForm=Inf	13	conj	_	TokenRange=66731:66736
+20	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	TokenRange=66737:66739
+21	Mond	Mond	NOUN	S	Gender=Masc	19	obj	_	SpaceAfter=No|TokenRange=66740:66744
+22	.	.	PUNCT	FS	_	9	punct	_	TokenRange=66744:66745
+
+# sent_id = lmo-mil-wiki-doc2-s482
+# text = L'è totalment stremii, e 'l ciama i sò Nazgûl per mandài a l'Orodruin.
+1	L'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	4	expl	_	SpaceAfter=No|TokenRange=67015:67017
+2	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	TokenRange=67017:67018
+3	totalment	totalment	ADV	B	_	4	advmod	_	TokenRange=67019:67028
+4	stremii	stremì	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|TokenRange=67029:67036
+5	,	,	PUNCT	FF	_	8	punct	_	TokenRange=67036:67037
+6	e	e	CCONJ	CC	_	8	cc	_	TokenRange=67038:67039
+7	'l	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	8	expl	_	TokenRange=67040:67042
+8	ciama	ciamà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=67043:67048
+9	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	TokenRange=67049:67050
+10	sò	sò	DET	AP	Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	TokenRange=67051:67053
+11	Nazgûl	Nazgûl	PROPN	SP	_	8	obj	_	TokenRange=67054:67060
+12	per	per	ADP	E	_	13	mark	_	TokenRange=67061:67064
+13-14	mandài	_	_	_	_	_	_	_	TokenRange=67065:67071
+13	mandài	mandà	VERB	V	VerbForm=Inf	8	advcl	_	TokenRange=67065:67071
+14	i	el	PRON	PC	Clitic=Yes|Number=Plur|Person=3|PronType=Prs	13	obj	_	TokenRange=67065:67071
+15	a	a	ADP	E	_	17	case	_	TokenRange=67072:67073
+16	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No|TokenRange=67074:67076
+17	Orodruin	Orodruin	PROPN	SP	_	13	obl	_	SpaceAfter=No|TokenRange=67076:67084
+18	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\r\n|TokenRange=67084:67085
+
+# sent_id = lmo-mil-wiki-doc2-s485
+# text = Gollum l'è tornaa in possess del sò tesor.
+1	Gollum	Gollum	PROPN	SP	_	4	nsubj	_	TokenRange=67367:67373
+2	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	4	expl	_	SpaceAfter=No|TokenRange=67374:67376
+3	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=67376:67377
+4	tornaa	tornà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=67378:67384
+5	in	in	ADP	E	_	6	case	_	TokenRange=67385:67387
+6	possess	possess	NOUN	S	Gender=Fem	4	obl	_	TokenRange=67388:67395
+7-8	del	_	_	_	_	_	_	_	TokenRange=67396:67399
+7	di	di	ADP	E	_	10	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	TokenRange=67400:67402
+10	tesor	tesor	NOUN	S	Gender=Masc	6	nmod	_	SpaceAfter=No|TokenRange=67403:67408
+11	.	.	PUNCT	FS	_	4	punct	_	TokenRange=67408:67409
+
+# sent_id = lmo-mil-wiki-doc2-s487
+# text = Sauron, perduu la font de tutt el sò poder, senza pù forza, el moeur;
+1	Sauron	Sauron	PROPN	SP	_	17	nsubj	_	SpaceAfter=No|TokenRange=67542:67548
+2	,	,	PUNCT	FF	_	1	punct	_	TokenRange=67548:67549
+3	perduu	pèrd	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	TokenRange=67550:67556
+4	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=67557:67559
+5	font	font	NOUN	S	Gender=Fem	3	obj	_	TokenRange=67560:67564
+6	de	de	ADP	E	_	10	case	_	TokenRange=67565:67567
+7	tutt	tutt	DET	T	Gender=Masc|Number=Sing|PronType=Tot	10	det:predet	_	TokenRange=67568:67572
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=67573:67575
+9	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	TokenRange=67576:67578
+10	poder	poder	NOUN	S	Gender=Masc	5	nmod	_	SpaceAfter=No|TokenRange=67579:67584
+11	,	,	PUNCT	FF	_	3	punct	_	TokenRange=67584:67585
+12	senza	senza	ADP	E	_	14	case	_	TokenRange=67586:67591
+13	pù	pù	ADV	B	_	14	advmod	_	TokenRange=67592:67594
+14	forza	forza	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No|TokenRange=67595:67600
+15	,	,	PUNCT	FF	_	3	punct	_	TokenRange=67600:67601
+16	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	17	expl	_	TokenRange=67602:67604
+17	moeur	murì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=67605:67610
+18	;	;	PUNCT	FC	_	17	punct	_	TokenRange=67610:67611
+
+# sent_id = lmo-mil-wiki-doc2-s488
+# text = la soa torr (Barad-dûr) la croda giò; i Nazgûl, mòrt el sò padron, sparissen in del Nagott;
+1	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	TokenRange=67612:67614
+2	soa	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	TokenRange=67615:67618
+3	torr	torr	NOUN	S	Gender=Fem	10	nsubj	_	TokenRange=67619:67623
+4	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No|TokenRange=67624:67625
+5	Barad	Barad	PROPN	SP	_	3	nmod	_	SpaceAfter=No|TokenRange=67625:67630
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No|TokenRange=67630:67631
+7	dûr	dûr	X	SW	_	5	compound	_	SpaceAfter=No|TokenRange=67631:67634
+8	)	)	PUNCT	FB	_	5	punct	_	TokenRange=67634:67635
+9	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Clit	10	expl	_	TokenRange=67636:67638
+10	croda	crodà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=67639:67644
+11	giò	giò	ADV	B	_	10	advmod	_	SpaceAfter=No|TokenRange=67645:67648
+12	;	;	PUNCT	FC	_	10	punct	_	TokenRange=67648:67649
+13	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	14	det	_	TokenRange=67650:67651
+14	Nazgûl	Nazgûl	PROPN	SP	_	21	nsubj	_	SpaceAfter=No|TokenRange=67652:67658
+15	,	,	PUNCT	FF	_	14	punct	_	TokenRange=67658:67659
+16	mòrt	murì	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	TokenRange=67660:67664
+17	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	TokenRange=67665:67667
+18	sò	sò	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	TokenRange=67668:67670
+19	padron	padron	NOUN	S	Gender=Masc	16	obj	_	SpaceAfter=No|TokenRange=67671:67677
+20	,	,	PUNCT	FF	_	14	punct	_	TokenRange=67677:67678
+21	sparissen	sparì	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	TokenRange=67679:67688
+22	in	in	ADP	E	_	25	case	_	TokenRange=67689:67691
+23-24	del	_	_	_	_	_	_	_	TokenRange=67692:67695
+23	di	di	ADP	E	_	22	fixed	_	_
+24	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	Nagott	Nagott	PROPN	SP	_	21	obl	_	SpaceAfter=No|TokenRange=67696:67702
+26	;	;	PUNCT	FC	_	10	punct	_	TokenRange=67702:67703
+
+# sent_id = lmo-mil-wiki-doc2-s489
+# text = i soldaa de Mordor perden la soa guida e scappen via stremii del camp de battalia, menter i Omen ne coppen ona motta.
+1	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	TokenRange=67704:67705
+2	soldaa	soldaa	NOUN	S	Gender=Masc	5	nsubj	_	TokenRange=67706:67712
+3	de	de	ADP	E	_	4	case	_	TokenRange=67713:67715
+4	Mordor	Mordor	PROPN	SP	_	2	nmod	_	TokenRange=67716:67722
+5	perden	pèrd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=67723:67729
+6	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	TokenRange=67730:67732
+7	soa	sò	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	TokenRange=67733:67736
+8	guida	guida	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	TokenRange=67737:67742
+9	e	e	CCONJ	CC	_	10	cc	_	TokenRange=67743:67744
+10	scappen	scappà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	TokenRange=67745:67752
+11	via	via	ADV	B	_	10	advmod	_	TokenRange=67753:67756
+12	stremii	stremì	ADJ	A	Gender=Masc|Number=Plur	10	xcomp	_	TokenRange=67757:67764
+13-14	del	_	_	_	_	_	_	_	TokenRange=67765:67768
+13	di	di	ADP	E	_	15	case	_	_
+14	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	camp	camp	NOUN	S	Gender=Masc	12	obl	_	TokenRange=67769:67773
+16	de	de	ADP	E	_	17	case	_	TokenRange=67774:67776
+17	battalia	battalia	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No|TokenRange=67777:67785
+18	,	,	PUNCT	FF	_	10	punct	_	TokenRange=67785:67786
+19	menter	menter	SCONJ	CS	_	23	mark	_	TokenRange=67787:67793
+20	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	21	det	_	TokenRange=67794:67795
+21	Omen	Omen	PROPN	SP	_	23	nsubj	_	TokenRange=67796:67800
+22	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	23	iobj	_	TokenRange=67801:67803
+23	coppen	coppà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	SpacesAfter=\s\s|TokenRange=67804:67810
+24	ona	on	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	TokenRange=67812:67815
+25	motta	motta	NOUN	S	Gender=Fem|Number=Sing	23	obj	_	SpaceAfter=No|TokenRange=67816:67821
+26	.	.	PUNCT	FS	_	5	punct	_	TokenRange=67821:67822
+
+# sent_id = lmo-mil-wiki-doc2-s490
+# text = Sauron l'è mòrt, l'Anell el gh'è pù, la Guerra de l'Anell l'è stada vinta.
+1	Sauron	Sauron	PROPN	SP	_	4	nsubj	_	TokenRange=67823:67829
+2	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	4	expl	_	SpaceAfter=No|TokenRange=67830:67832
+3	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=67832:67833
+4	mòrt	murì	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|TokenRange=67834:67838
+5	,	,	PUNCT	FF	_	10	punct	_	TokenRange=67838:67839
+6	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|TokenRange=67840:67842
+7	Anell	Anell	PROPN	SP	_	11	nsubj	_	TokenRange=67842:67847
+8	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	7	expl	_	TokenRange=67848:67850
+9	gh'	gh'	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	SpaceAfter=No|TokenRange=67851:67854
+10	è	vess	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=67854:67855
+11	pù	pù	ADV	B	_	4	conj	_	SpaceAfter=No|TokenRange=67856:67858
+12	,	,	PUNCT	FF	_	21	punct	_	TokenRange=67858:67859
+13	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	TokenRange=67860:67862
+14	Guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	21	nsubj:pass	_	TokenRange=67863:67869
+15	de	de	ADP	E	_	17	case	_	TokenRange=67870:67872
+16	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No|TokenRange=67873:67875
+17	Anell	Anell	PROPN	SP	_	14	nmod	_	TokenRange=67875:67880
+18	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	21	expl	_	SpaceAfter=No|TokenRange=67881:67883
+19	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	TokenRange=67883:67884
+20	stada	vess	AUX	VA	Number=Sing|Tense=Past|VerbForm=Part	21	aux:pass	_	TokenRange=67885:67890
+21	vinta	vincc	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	SpaceAfter=No|TokenRange=67891:67896
+22	.	.	PUNCT	FS	_	4	punct	_	TokenRange=67896:67897
+
+# sent_id = lmo-mil-wiki-doc2-s491
+# text = Ma Frodo e Sam se troeuven denter a on mont che l'è dree a saltà per aria.
+1	Ma	ma	CCONJ	CC	_	6	cc	_	TokenRange=67898:67900
+2	Frodo	Frodo	PROPN	SP	_	6	nsubj	_	TokenRange=67901:67906
+3	e	e	CCONJ	CC	_	4	cc	_	TokenRange=67907:67908
+4	Sam	Sam	PROPN	SP	_	2	conj	_	TokenRange=67909:67912
+5	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	TokenRange=67913:67915
+6	troeuven	trovà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=67916:67924
+7	denter	denter	ADV	B	_	10	case	_	TokenRange=67925:67931
+8	a	a	ADP	E	_	10	case	_	TokenRange=67932:67933
+9	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=67934:67936
+10	mont	mont	NOUN	S	Gender=Masc	6	obl	_	TokenRange=67937:67941
+11	che	che	PRON	PR	PronType=Rel	14	nsubj	_	TokenRange=67942:67945
+12	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	14	expl	_	SpaceAfter=No|TokenRange=67946:67948
+13	è	vess	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	TokenRange=67948:67949
+14	dree	dree	ADV	B	_	13	advmod	_	TokenRange=67950:67954
+15	a	a	ADP	E	_	16	mark	_	TokenRange=67955:67956
+16	saltà	saltà	VERB	V	VerbForm=Inf	13	ccomp	_	TokenRange=67957:67962
+17	per	per	ADP	E	_	18	case	_	TokenRange=67963:67966
+18	aria	aria	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No|TokenRange=67967:67971
+19	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\r\n|TokenRange=67971:67972
+
+# sent_id = lmo-mil-wiki-doc2-s492
+# text = Frodo e Sam se desseden on quai dì dopo a Gondor.
+1	Frodo	Frodo	PROPN	SP	_	5	nsubj	_	TokenRange=67974:67979
+2	e	e	CCONJ	CC	_	3	cc	_	TokenRange=67980:67981
+3	Sam	Sam	PROPN	SP	_	1	conj	_	TokenRange=67982:67985
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	TokenRange=67986:67988
+5	desseden	dessedà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	TokenRange=67989:67997
+6	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=67998:68000
+7	quai	quai	DET	DI	Number=Sing|PronType=Ind	8	det	_	TokenRange=68001:68005
+8	dì	dì	NOUN	S	Gender=Masc	5	obl	_	TokenRange=68006:68008
+9	dopo	dopo	ADV	B	_	8	advmod	_	TokenRange=68009:68013
+10	a	a	ADP	E	_	11	case	_	TokenRange=68014:68015
+11	Gondor	Gondor	PROPN	SP	_	5	obl	_	SpaceAfter=No|TokenRange=68016:68022
+12	.	.	PUNCT	FS	_	5	punct	_	TokenRange=68022:68023
+
+# sent_id = lmo-mil-wiki-doc2-s493
+# text = Hinn staa salvaa di Aquil che, sotta la guida de Gandalf, hann sgoraa sora Mordor per cercài.
+1	Hinn	vess	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	TokenRange=68024:68028
+2	staa	vess	AUX	VA	Number=Plur|Tense=Past|VerbForm=Part	3	aux:pass	_	TokenRange=68029:68033
+3	salvaa	salvà	VERB	V	Number=Plur|Tense=Past|VerbForm=Part	0	root	_	TokenRange=68034:68040
+4	di	di	ADP	E	_	5	case	_	TokenRange=68041:68043
+5	Aquil	Aquil	PROPN	SP	_	3	obl	_	TokenRange=68044:68049
+6	che	che	PRON	PR	PronType=Rel	15	nsubj	_	SpaceAfter=No|TokenRange=68050:68053
+7	,	,	PUNCT	FF	_	6	punct	_	TokenRange=68053:68054
+8	sotta	sotta	ADP	E	_	10	case	_	TokenRange=68055:68060
+9	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	TokenRange=68061:68063
+10	guida	guida	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	TokenRange=68064:68069
+11	de	de	ADP	E	_	12	case	_	TokenRange=68070:68072
+12	Gandalf	Gandalf	PROPN	SP	_	10	nmod	_	SpaceAfter=No|TokenRange=68073:68080
+13	,	,	PUNCT	FF	_	10	punct	_	TokenRange=68080:68081
+14	hann	vess	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	TokenRange=68082:68086
+15	sgoraa	sgoraare	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	TokenRange=68087:68093
+16	sora	sora	ADP	E	_	15	advmod	_	TokenRange=68094:68098
+17	Mordor	Mordor	PROPN	SP	_	17	case	_	TokenRange=68099:68105
+18	per	per	ADP	E	_	19	mark	_	TokenRange=68106:68109
+19-20	cercài	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=68110:68116
+19	cercà	cercà	VERB	V	VerbForm=Inf	15	advcl	_	SpaceAfter=No|TokenRange=68110:68116
+20	i	el	PRON	PC	Clitic=Yes|Number=Plur|Person=3|PronType=Prs	19	obj	_	SpaceAfter=No|TokenRange=68110:68116
+21	.	.	PUNCT	FS	_	3	punct	_	TokenRange=68116:68117
+
+# sent_id = lmo-mil-wiki-doc2-s494
+# text = A Gondor incontren tucc i sò vegg amis:
+1	A	a	ADP	E	_	2	case	_	TokenRange=68118:68119
+2	Gondor	Gondor	PROPN	SP	_	3	obl	_	TokenRange=68120:68126
+3	incontren	incontrà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=68127:68136
+4	tucc	tucc	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	TokenRange=68137:68141
+5	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	TokenRange=68142:68143
+6	sò	sò	DET	AP	Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	TokenRange=68144:68146
+7	vegg	vegg	ADJ	A	_	8	amod	_	TokenRange=68147:68151
+8	amis	amis	NOUN	S	Gender=Masc	3	obj	_	SpaceAfter=No|TokenRange=68152:68156
+9	:	:	PUNCT	FC	_	3	punct	_	TokenRange=68156:68157
+
+# sent_id = lmo-mil-wiki-doc2-s495
+# text = Gandalf (che lor credeven anmò che 'l fuss mòrt a Moria), Merry, Pipin, Aragorn, Legolas, Gimli e Faramir (che in di Cà de Guarigion el s'è namoraa de Éowyn).
+1	Gandalf	Gandalf	PROPN	SP	_	0	root	_	TokenRange=68158:68165
+2	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No|TokenRange=68166:68167
+3	che	che	PRON	PR	PronType=Rel	5	obj	_	TokenRange=68167:68170
+4	lor	lor	PRON	PE	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	TokenRange=68171:68174
+5	credeven	cred	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	acl:relcl	_	TokenRange=68175:68183
+6	anmò	anmò	ADV	B	_	5	advmod	_	TokenRange=68184:68188
+7	che	che	SCONJ	CS	_	10	mark	_	TokenRange=68189:68192
+8	'l	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	10	expl	_	TokenRange=68193:68195
+9	fuss	vess	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	TokenRange=68196:68200
+10	mòrt	murì	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	TokenRange=68201:68205
+11	a	a	ADP	E	_	12	case	_	TokenRange=68206:68207
+12	Moria	Moria	PROPN	SP	_	10	obl	_	SpaceAfter=No|TokenRange=68208:68213
+13	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No|TokenRange=68213:68214
+14	,	,	PUNCT	FF	_	15	punct	_	TokenRange=68214:68215
+15	Merry	Merry	PROPN	SP	_	1	conj	_	SpaceAfter=No|TokenRange=68216:68221
+16	,	,	PUNCT	FF	_	17	punct	_	TokenRange=68221:68222
+17	Pipin	Pipin	PROPN	SP	_	1	conj	_	SpaceAfter=No|TokenRange=68223:68228
+18	,	,	PUNCT	FF	_	19	punct	_	TokenRange=68228:68229
+19	Aragorn	Aragorn	PROPN	SP	_	1	conj	_	SpaceAfter=No|TokenRange=68230:68237
+20	,	,	PUNCT	FF	_	21	punct	_	TokenRange=68237:68238
+21	Legolas	Legolas	PROPN	SP	_	1	conj	_	SpaceAfter=No|TokenRange=68239:68246
+22	,	,	PUNCT	FF	_	23	punct	_	TokenRange=68246:68247
+23	Gimli	Gimli	PROPN	SP	_	1	conj	_	TokenRange=68248:68253
+24	e	e	CCONJ	CC	_	25	cc	_	TokenRange=68254:68255
+25	Faramir	Faramir	PROPN	SP	_	1	conj	_	TokenRange=68256:68263
+26	(	(	PUNCT	FB	_	36	punct	_	SpaceAfter=No|TokenRange=68264:68265
+27	che	che	PRON	PR	PronType=Rel	36	nsubj	_	TokenRange=68265:68268
+28	in	in	ADP	E	_	30	case	_	TokenRange=68269:68271
+29	di	di	ADP	E	_	30	case	_	TokenRange=68272:68274
+30	Cà	Cà	PROPN	SP	_	36	obl	_	TokenRange=68275:68277
+31	de	de	ADP	E	_	32	case	_	TokenRange=68278:68280
+32	Guarigion	Guarigion	PROPN	SP	_	30	nmod	_	TokenRange=68281:68290
+33	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	36	expl	_	TokenRange=68291:68293
+34	s'	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	36	expl	_	SpaceAfter=No|TokenRange=68294:68296
+35	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	aux	_	TokenRange=68296:68297
+36	namoraa	namorà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	25	acl:relcl	_	TokenRange=68298:68305
+37	de	de	ADP	E	_	38	case	_	TokenRange=68306:68308
+38	Éowyn	Éowyn	PROPN	SP	_	36	obl	_	SpaceAfter=No|TokenRange=68309:68314
+39	)	)	PUNCT	FB	_	36	punct	_	SpaceAfter=No|TokenRange=68314:68315
+40	.	.	PUNCT	FS	_	1	punct	_	TokenRange=68315:68316
+
+# sent_id = lmo-mil-wiki-doc2-s499
+# text = Al matrimoni vegnen anca Galadriel e 'l sò marì Celeborn.
+1-2	Al	_	_	_	_	_	_	_	TokenRange=68802:68804
+1	A	a	ADP	E	_	3	case	_	_
+2	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	matrimoni	matrimoni	NOUN	S	Gender=Masc	4	obl	_	TokenRange=68805:68814
+4	vegnen	vegnì	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=68815:68821
+5	anca	anca	ADV	B	_	6	advmod	_	TokenRange=68822:68826
+6	Galadriel	Galadriel	PROPN	SP	_	4	nsubj	_	TokenRange=68827:68836
+7	e	e	CCONJ	CC	_	10	cc	_	TokenRange=68837:68838
+8	'l	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=68839:68841
+9	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	TokenRange=68842:68844
+10	marì	marì	NOUN	S	Gender=Masc	6	conj	_	TokenRange=68845:68849
+11	Celeborn	Celeborn	PROPN	SP	_	10	nmod	_	SpaceAfter=No|TokenRange=68850:68858
+12	.	.	PUNCT	FS	_	4	punct	_	TokenRange=68858:68859
+
+# sent_id = lmo-mil-wiki-doc2-s506
+# text = Ma Saruman el refuda e je maledis e, per minga andà con lor, el cambia direzion.
+1	Ma	ma	CCONJ	CC	_	4	cc	_	TokenRange=69691:69693
+2	Saruman	Saruman	PROPN	SP	_	4	nsubj	_	TokenRange=69694:69701
+3	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	TokenRange=69702:69704
+4	refuda	refudà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=69705:69711
+5	e	e	CCONJ	CC	_	7	cc	_	TokenRange=69712:69713
+6	je	lor	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	TokenRange=69714:69716
+7	maledis	maledì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=69717:69724
+8	e	e	CCONJ	CC	_	17	cc	_	SpaceAfter=No|TokenRange=69725:69726
+9	,	,	PUNCT	FF	_	17	punct	_	TokenRange=69726:69727
+10	per	per	ADP	E	_	12	mark	_	TokenRange=69728:69731
+11	minga	minga	ADV	BN	PronType=Neg	12	advmod	_	TokenRange=69732:69737
+12	andà	andà	VERB	V	VerbForm=Inf	17	advcl	_	TokenRange=69738:69742
+13	con	con	ADP	E	_	14	case	_	TokenRange=69743:69746
+14	lor	lor	PRON	PE	Number=Plur|Person=3|PronType=Prs	12	obl	_	SpaceAfter=No|TokenRange=69747:69750
+15	,	,	PUNCT	FF	_	12	punct	_	TokenRange=69750:69751
+16	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	17	expl	_	TokenRange=69752:69754
+17	cambia	cambià	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=69755:69761
+18	direzion	direzion	NOUN	S	Gender=Fem	17	obj	_	SpaceAfter=No|TokenRange=69762:69770
+19	.	.	PUNCT	FS	_	4	punct	_	TokenRange=69770:69771
+
+# sent_id = lmo-mil-wiki-doc2-s507
+# text = Galadriel e Celeborn a on bell moment se separen di alter per andà a cà soa, a Lórien.
+1	Galadriel	Galadriel	PROPN	SP	_	9	nsubj	_	TokenRange=69772:69781
+2	e	e	CCONJ	CC	_	3	cc	_	TokenRange=69782:69783
+3	Celeborn	Celeborn	PROPN	SP	_	1	conj	_	TokenRange=69784:69792
+4	a	a	ADP	E	_	7	case	_	TokenRange=69793:69794
+5	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=69795:69797
+6	bell	bell	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	TokenRange=69798:69802
+7	moment	moment	NOUN	S	Gender=Masc	9	obl	_	TokenRange=69803:69809
+8	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	TokenRange=69810:69812
+9	separen	separà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=69813:69820
+10	di	di	ADP	E	_	11	case	_	TokenRange=69821:69823
+11	alter	alter	PRON	PI	PronType=Ind	9	obl	_	TokenRange=69824:69829
+12	per	per	ADP	E	_	13	mark	_	TokenRange=69830:69833
+13	andà	andà	VERB	V	VerbForm=Inf	9	advcl	_	TokenRange=69834:69838
+14	a	a	ADP	E	_	15	case	_	TokenRange=69839:69840
+15	cà	cà	NOUN	S	Gender=Fem	13	obl	_	TokenRange=69841:69843
+16	soa	sò	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	SpaceAfter=No|TokenRange=69844:69847
+17	,	,	PUNCT	FF	_	13	punct	_	TokenRange=69847:69848
+18	a	a	ADP	E	_	19	case	_	TokenRange=69849:69850
+19	Lórien	Lórien	PROPN	SP	_	13	obl	_	SpaceAfter=No|TokenRange=69851:69857
+20	.	.	PUNCT	FS	_	9	punct	_	TokenRange=69857:69858
+
+# sent_id = lmo-mil-wiki-doc2-s508
+# text = I alter riven a Imladris, indove incontren Bilbo (che, senza l'Anell, l'è vegnuu vegg de brutt):
+1	I	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	TokenRange=69859:69860
+2	alter	alter	PRON	PI	PronType=Ind	3	nsubj	_	TokenRange=69861:69866
+3	riven	rivà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=69867:69872
+4	a	a	ADP	E	_	5	case	_	TokenRange=69873:69874
+5	Imladris	Imladris	PROPN	SP	_	3	obl	_	SpaceAfter=No|TokenRange=69875:69883
+6	,	,	PUNCT	FF	_	3	punct	_	TokenRange=69883:69884
+7	indove	indove	ADV	B	_	8	advmod	_	TokenRange=69885:69891
+8	incontren	incontrà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	_	TokenRange=69892:69901
+9	Bilbo	Bilbo	PROPN	SP	_	8	obj	_	TokenRange=69902:69907
+10	(	(	PUNCT	FB	_	19	punct	_	SpaceAfter=No|TokenRange=69908:69909
+11	che	che	PRON	PR	PronType=Rel	19	nsubj	_	SpaceAfter=No|TokenRange=69909:69912
+12	,	,	PUNCT	FF	_	11	punct	_	TokenRange=69912:69913
+13	senza	senza	ADP	E	_	15	case	_	TokenRange=69914:69919
+14	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No|TokenRange=69920:69922
+15	Anell	Anell	PROPN	SP	_	19	obl	_	SpaceAfter=No|TokenRange=69922:69927
+16	,	,	PUNCT	FF	_	15	punct	_	TokenRange=69927:69928
+17	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	19	expl	_	SpaceAfter=No|TokenRange=69929:69931
+18	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	TokenRange=69931:69932
+19	vegnuu	vegnì	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	TokenRange=69933:69939
+20	vegg	vegg	ADJ	A	Gender=Masc|Number=Sing	19	xcomp	_	TokenRange=69940:69944
+21	de	de	ADP	E	_	22	case	_	TokenRange=69945:69947
+22	brutt	brutt	ADJ	A	Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No|TokenRange=69948:69953
+23	)	)	PUNCT	FB	_	19	punct	_	SpaceAfter=No|TokenRange=69953:69954
+24	:	:	PUNCT	FC	_	3	punct	_	TokenRange=69954:69955
+
+# sent_id = lmo-mil-wiki-doc2-s509
+# text = chì ghe cunten sù tutta la storia e passen di bei moment.
+1	chì	chel	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	TokenRange=69956:69959
+2	ghe	ghe	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	TokenRange=69960:69963
+3	cunten	cuntà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=69964:69970
+4	sù	sù	ADP	E	_	7	case	_	TokenRange=69971:69973
+5	tutta	tutt	DET	T	Gender=Fem|Number=Sing|PronType=Tot	7	det:predet	_	TokenRange=69974:69979
+6	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	TokenRange=69980:69982
+7	storia	storia	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	TokenRange=69983:69989
+8	e	e	CCONJ	CC	_	9	cc	_	TokenRange=69990:69991
+9	passen	passà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=69992:69998
+10	di	di	ADP	E	_	12	case	_	TokenRange=69999:70001
+11	bei	bell	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	TokenRange=70002:70005
+12	moment	moment	NOUN	S	Gender=Masc	9	obl	_	SpaceAfter=No|TokenRange=70006:70012
+13	.	.	PUNCT	FS	_	3	punct	_	TokenRange=70012:70013
+
+# sent_id = lmo-mil-wiki-doc2-s511
+# text = El dì dopo, Gandalf je saluda e 'l partiss.
+1	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=70395:70397
+2	dì	dì	NOUN	S	Gender=Masc	7	obl	_	TokenRange=70398:70400
+3	dopo	dopo	ADV	B	_	2	advmod	_	SpaceAfter=No|TokenRange=70401:70405
+4	,	,	PUNCT	FF	_	2	punct	_	TokenRange=70405:70406
+5	Gandalf	Gandalf	PROPN	SP	_	7	nsubj	_	TokenRange=70407:70414
+6	je	lor	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	TokenRange=70415:70417
+7	saluda	saludà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=70418:70424
+8	e	e	CCONJ	CC	_	10	cc	_	TokenRange=70425:70426
+9	'l	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	10	expl	_	TokenRange=70427:70429
+10	partiss	partì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	SpaceAfter=No|TokenRange=70430:70437
+11	.	.	PUNCT	FS	_	7	punct	_	TokenRange=70437:70438
+
+# sent_id = lmo-mil-wiki-doc2-s512
+# text = I quatter entren in la Contea e veden che l'è cambiada on bell poo:
+1	I	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	TokenRange=70439:70440
+2	quatter	quatter	NUM	N	NumType=Card	3	nsubj	_	TokenRange=70441:70448
+3	entren	entrà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=70449:70455
+4	in	in	ADP	E	_	6	case	_	TokenRange=70456:70458
+5	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=70459:70461
+6	Contea	Contea	PROPN	SP	_	3	obl	_	TokenRange=70462:70468
+7	e	e	CCONJ	CC	_	8	cc	_	TokenRange=70469:70470
+8	veden	vedè	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=70471:70476
+9	che	che	SCONJ	CS	_	12	mark	_	TokenRange=70477:70480
+10	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	12	expl	_	SpaceAfter=No|TokenRange=70481:70483
+11	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	TokenRange=70483:70484
+12	cambiada	cambià	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	TokenRange=70485:70493
+13	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	TokenRange=70494:70496
+14	bell	bell	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	TokenRange=70497:70501
+15	poo	poo	ADV	B	_	12	advmod	_	SpaceAfter=No|TokenRange=70502:70505
+16	:	:	PUNCT	FC	_	3	punct	_	TokenRange=70505:70506
+
+# sent_id = lmo-mil-wiki-doc2-s513
+# text = on fracch de alber e cà hinn staa traa giò per fàggh sù di alter cà de preja orrend.
+1	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=70507:70509
+2	fracch	fracch	NOUN	S	Gender=Masc	9	nsubj:pass	_	TokenRange=70510:70516
+3	de	de	ADP	E	_	4	case	_	TokenRange=70517:70519
+4	alber	alber	NOUN	S	Gender=Masc	2	nmod	_	TokenRange=70520:70525
+5	e	e	CCONJ	CC	_	6	cc	_	TokenRange=70526:70527
+6	cà	cà	NOUN	S	Gender=Fem	4	conj	_	TokenRange=70528:70530
+7	hinn	vess	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	TokenRange=70531:70535
+8	staa	vess	AUX	VA	Number=Sing|Tense=Past|VerbForm=Part	9	aux:pass	_	TokenRange=70536:70540
+9	traa	trà	VERB	V	Number=Plur|Tense=Past|VerbForm=Part	0	root	_	TokenRange=70541:70545
+10	giò	giò	ADV	B	_	9	advmod	_	TokenRange=70546:70549
+11	per	per	ADP	E	_	12	mark	_	TokenRange=70550:70553
+12-13	fàggh	_	_	_	_	_	_	_	TokenRange=70554:70559
+12	fà	fà	VERB	V	VerbForm=Inf	9	advcl	_	TokenRange=70554:70559
+13	ggh	ghe	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	TokenRange=70554:70559
+14	sù	sù	ADV	B	_	12	advmod	_	TokenRange=70560:70562
+15	di	di	ADP	E	_	14	fixed	_	TokenRange=70563:70565
+16	alter	alter	DET	DI	PronType=Ind	17	det	_	TokenRange=70566:70571
+17	cà	cà	NOUN	S	Gender=Fem	12	obl	_	TokenRange=70572:70574
+18	de	de	ADP	E	_	19	case	_	TokenRange=70575:70577
+19	preja	preja	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	TokenRange=70578:70583
+20	orrend	orrend	ADJ	A	_	19	amod	_	SpaceAfter=No|TokenRange=70584:70590
+21	.	.	PUNCT	FS	_	9	punct	_	TokenRange=70590:70591
+
+# sent_id = lmo-mil-wiki-doc2-s514
+# text = Inoltra i hobbit hinn sotta al domini de on omm ciamaa Sharkey, che 'l viv a Cà Baggins.
+1	Inoltra	inoltra	ADV	B	_	8	advmod	_	TokenRange=70592:70599
+2	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	TokenRange=70600:70601
+3	hobbit	hobbit	NOUN	S	Gender=Masc	8	nsubj	_	TokenRange=70602:70608
+4	hinn	vess	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	TokenRange=70609:70613
+5	sotta	sotta	ADV	B	_	8	case	_	TokenRange=70614:70619
+6-7	al	_	_	_	_	_	_	_	TokenRange=70620:70622
+6	a	a	ADP	E	_	5	fixed	_	_
+7	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	domini	domini	NOUN	S	Gender=Masc	0	root	_	TokenRange=70623:70629
+9	de	de	ADP	E	_	11	case	_	TokenRange=70630:70632
+10	on	on	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	TokenRange=70633:70635
+11	omm	omm	NOUN	S	Gender=Masc	8	nmod	_	TokenRange=70636:70639
+12	ciamaa	ciamà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	TokenRange=70640:70646
+13	Sharkey	Sharkey	PROPN	SP	_	12	xcomp	_	SpaceAfter=No|TokenRange=70647:70654
+14	,	,	PUNCT	FF	_	11	punct	_	TokenRange=70654:70655
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	TokenRange=70656:70659
+16	'l	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	17	expl	_	TokenRange=70660:70662
+17	viv	viv	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	TokenRange=70663:70666
+18	a	a	ADP	E	_	19	case	_	TokenRange=70667:70668
+19	Cà	Cà	PROPN	SP	_	17	obl	_	TokenRange=70669:70671
+20	Baggins	Baggins	PROPN	SP	_	19	flat:name	_	SpaceAfter=No|TokenRange=70672:70679
+21	.	.	PUNCT	FS	_	5	punct	_	TokenRange=70679:70680
+
+# sent_id = lmo-mil-wiki-doc2-s517
+# text = Battuu ancamò 'na voeulta, Saruman el partiss, ma dopo avè insultaa Lenguadervermen, l'è coppaa de quest chì.
+1	Battuu	batt	VERB	V	Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	TokenRange=70987:70993
+2	ancamò	ancamò	ADV	B	_	3	advmod	_	TokenRange=70994:71000
+3	'na	ona	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No|TokenRange=71001:71004
+4	voeulta	voeulta	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No|TokenRange=71005:71012
+5	,	,	PUNCT	FF	_	1	punct	_	TokenRange=71012:71013
+6	Saruman	Saruman	PROPN	SP	_	8	nsubj	_	TokenRange=71014:71021
+7	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	8	expl	_	TokenRange=71022:71024
+8	partiss	partì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=71025:71032
+9	,	,	PUNCT	FF	_	18	punct	_	TokenRange=71032:71033
+10	ma	ma	CCONJ	CC	_	18	cc	_	TokenRange=71034:71036
+11	dopo	dopo	SCONJ	CS	_	13	mark	_	TokenRange=71037:71041
+12	avè	avè	AUX	VA	VerbForm=Inf	13	aux	_	TokenRange=71042:71045
+13	insultaa	insultà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	18	advcl	_	TokenRange=71046:71054
+14	Lenguadervermen	Lenguadervermen	PROPN	SP	_	13	obj	_	SpaceAfter=No|TokenRange=71055:71070
+15	,	,	PUNCT	FF	_	13	punct	_	TokenRange=71070:71071
+16	l'	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	18	expl	_	SpaceAfter=No|TokenRange=71072:71074
+17	è	vess	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	TokenRange=71074:71075
+18	coppaa	coppà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	TokenRange=71076:71082
+19	de	de	ADP	E	_	20	case	_	TokenRange=71083:71085
+20	quest	quest	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	18	obl	_	TokenRange=71086:71091
+21	chì	chì	ADV	B	_	18	advmod	_	SpaceAfter=No|TokenRange=71092:71095
+22	.	.	PUNCT	FS	_	8	punct	_	TokenRange=71095:71096
+
+# sent_id = lmo-mil-wiki-doc2-s518
+# text = Lenguadevermen però el ven coppaa de tre frecc di hobbit.
+1	Lenguadevermen	Lenguadevermen	PROPN	SP	_	5	nsubj:pass	_	TokenRange=71097:71111
+2	però	però	ADV	B	_	5	advmod	_	TokenRange=71112:71116
+3	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	5	expl	_	TokenRange=71117:71119
+4	ven	vegnì	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	TokenRange=71120:71123
+5	coppaa	coppà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=71124:71130
+6	de	de	ADP	E	_	8	case	_	TokenRange=71131:71133
+7	tre	tre	NUM	N	NumType=Card	8	nummod	_	TokenRange=71134:71137
+8	frecc	frecc	NOUN	S	Gender=Masc	5	obl:agent	_	TokenRange=71138:71143
+9	di	di	ADP	E	_	10	case	_	TokenRange=71144:71146
+10	hobbit	hobbit	NOUN	S	Gender=Masc	8	nmod	_	SpaceAfter=No|TokenRange=71147:71153
+11	.	.	PUNCT	FS	_	5	punct	_	TokenRange=71153:71154
+
+# sent_id = lmo-mil-wiki-doc2-s521
+# text = Frodo intant el scriv tutt i sò avventur e 'l ciama el liber El Scior di Anei.
+1	Frodo	Frodo	PROPN	SP	_	4	nsubj	_	TokenRange=71466:71471
+2	intant	intant	ADV	B	_	4	advmod	_	TokenRange=71472:71478
+3	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	4	expl	_	TokenRange=71479:71481
+4	scriv	scriv	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=71482:71487
+5	tutt	tutt	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	TokenRange=71488:71492
+6	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	TokenRange=71493:71494
+7	sò	sò	DET	AP	Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	TokenRange=71495:71497
+8	avventur	avventur	NOUN	S	Gender=Masc	4	obj	_	TokenRange=71498:71506
+9	e	e	CCONJ	CC	_	11	cc	_	TokenRange=71507:71508
+10	'l	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	11	expl	_	TokenRange=71510:71511
+11	ciama	ciamà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=71512:71517
+11	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	TokenRange=71518:71520
+13	liber	liber	NOUN	S	Gender=Masc	11	xcomp	_	TokenRange=71521:71526
+14	El	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	TokenRange=71527:71529
+15	Scior	Scior	PROPN	SP	_	13	nmod	_	TokenRange=71530:71535
+16	di	di	ADP	E	_	17	case	_	TokenRange=71536:71538
+17	Anei	Anei	PROPN	SP	_	15	nmod	_	SpaceAfter=No|TokenRange=71539:71543
+18	.	.	PUNCT	FS	_	4	punct	_	TokenRange=71543:71544
+
+# sent_id = lmo-mil-wiki-doc2-s522
+# text = Ma i ferid del cortell del Nazgûl e de Shelob hinn tropp pesant per podèi sopportà anmò a longh.
+1	Ma	ma	CCONJ	CC	_	15	cc	_	TokenRange=71545:71547
+2	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	3	det	_	TokenRange=71548:71549
+3	ferid	ferid	NOUN	S	Gender=Fem	15	nsubj	_	TokenRange=71550:71555
+4-5	del	_	_	_	_	_	_	_	TokenRange=71556:71559
+4	di	di	ADP	E	_	6	case	_	_
+5	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	cortell	cortell	NOUN	S	Gender=Masc	3	nmod	_	TokenRange=71560:71567
+7-8	del	_	_	_	_	_	_	_	TokenRange=71568:71571
+7	di	di	ADP	E	_	9	case	_	_
+8	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Nazgûl	Nazgûl	PROPN	SP	_	6	nmod	_	TokenRange=71572:71578
+10	e	e	CCONJ	CC	_	12	cc	_	TokenRange=71579:71580
+11	de	de	ADP	E	_	12	case	_	TokenRange=71581:71583
+12	Shelob	Shelob	PROPN	SP	_	9	conj	_	TokenRange=71584:71590
+13	hinn	vess	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	TokenRange=71591:71595
+14	tropp	tropp	ADV	B	_	15	advmod	_	TokenRange=71596:71601
+15	pesant	pesant	ADJ	A	_	0	root	_	TokenRange=71602:71608
+16	per	per	ADP	E	_	17	mark	_	TokenRange=71609:71612
+17-18	podèi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=71613:716198
+17	podè	podè	VERB	V	VerbForm=Inf	19	aux	_	_
+18	i	el	PRON	PC	Clitic=Yes|Number=Plur|Person=3|PronType=Prs	19	obj	_	_
+19	sopportà	sopportà	VERB	V	VerbForm=Inf	15	advcl	_	TokenRange=71619:71627
+20	anmò	anmò	ADV	B	_	19	advmod	_	TokenRange=71628:71632
+21	a	a	ADP	E	_	22	case	_	TokenRange=71633:71634
+22	longh	longh	ADV	B	Gender=Masc	19	obl	_	SpaceAfter=No|TokenRange=71635:71640
+23	.	.	PUNCT	FS	_	15	punct	_	TokenRange=71640:71641
+
+# sent_id = lmo-mil-wiki-doc2-s524
+# text = Sam el capiss minga subit la robba, ma quand ghe riva anca lù el tacca a caragnà.
+1	Sam	Sam	PROPN	SP	_	3	nsubj	_	TokenRange=71787:71790
+2	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	3	expl	_	TokenRange=71791:71793
+3	capiss	capì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=71794:71800
+4	minga	minga	ADV	BN	PronType=Neg	3	advmod	_	TokenRange=71801:71806
+5	subit	subit	ADV	B	_	3	advmod	_	TokenRange=71807:71812
+6	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	TokenRange=71813:71815
+7	robba	robba	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=71816:71821
+8	,	,	PUNCT	FF	_	16	punct	_	TokenRange=71821:71822
+9	ma	ma	CCONJ	CC	_	16	cc	_	TokenRange=71823:71825
+10	quand	quand	SCONJ	CS	_	12	mark	_	TokenRange=71826:71831
+11	ghe	ghe	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	TokenRange=71832:71835
+12	riva	rivà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	TokenRange=71836:71840
+13	anca	anca	ADV	B	_	14	advmod	_	TokenRange=71841:71845
+14	lù	lù	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	TokenRange=71846:71848
+15	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	16	expl	_	TokenRange=71849:71851
+16	tacca	taccà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=71852:71857
+17	a	a	ADP	E	_	18	case	_	TokenRange=71858:71859
+18	caragnà	caragnà	VERB	V	VerbForm=Inf	16	xcomp	_	SpaceAfter=No|TokenRange=71860:71867
+19	.	.	PUNCT	FS	_	3	punct	_	TokenRange=71867:71868
+
+# sent_id = lmo-mil-wiki-doc2-s525
+# text = Intant hinn rivaa anca Merry e Pipin, che saluden per l'ultima voeulta el sò amis.
+1	Intant	intant	ADV	B	_	3	advmod	_	TokenRange=71869:71875
+2	hinn	vess	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	TokenRange=71876:71880
+3	rivaa	rivà	VERB	V	Number=Plur|Tense=Past|VerbForm=Part	0	root	_	TokenRange=71881:71886
+4	anca	anca	ADV	B	_	5	advmod	_	TokenRange=71887:71891
+5	Merry	Merry	PROPN	SP	_	3	nsubj	_	TokenRange=71892:71897
+6	e	e	CCONJ	CC	_	7	cc	_	TokenRange=71898:71899
+7	Pipin	Pipin	PROPN	SP	_	5	conj	_	SpaceAfter=No|TokenRange=71900:71905
+8	,	,	PUNCT	FF	_	5	punct	_	TokenRange=71905:71906
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	TokenRange=71907:71910
+10	saluden	saludà	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	TokenRange=71911:71918
+11	per	per	ADP	E	_	14	case	_	TokenRange=71919:71922
+12	l'	el	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No|TokenRange=71923:71925
+13	ultima	ultimo	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	TokenRange=71925:71931
+14	voeulta	voeulta	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	TokenRange=71932:71939
+15	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	TokenRange=71940:71942
+16	sò	sò	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	TokenRange=71943:71945
+17	amis	amis	NOUN	S	Gender=Masc	10	obj	_	SpaceAfter=No|TokenRange=71946:71950
+18	.	.	PUNCT	FS	_	3	punct	_	TokenRange=71950:71951
+
+# sent_id = lmo-mil-wiki-doc2-s538
+# text = Elendil e i sò duu fioeu (Anárion e Isildur) fonden duu regn in la Terra de Mezz:
+1	Elendil	Elendil	PROPN	SP	_	12	nsubj	_	TokenRange=73788:73795
+2	e	e	CCONJ	CC	_	6	cc	_	TokenRange=73796:73797
+3	i	el	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	TokenRange=73798:73799
+4	sò	sò	DET	AP	Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	TokenRange=73800:73802
+5	duu	duu	NUM	N	NumType=Card	6	nummod	_	TokenRange=73803:73806
+6	fioeu	fioeu	NOUN	S	Gender=Masc	1	conj	_	TokenRange=73807:73812
+7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No|TokenRange=73813:73814
+8	Anárion	Anárion	PROPN	SP	_	6	appos	_	TokenRange=73814:73821
+9	e	e	CCONJ	CC	_	10	cc	_	TokenRange=73822:73823
+10	Isildur	Isildur	PROPN	SP	_	8	conj	_	SpaceAfter=No|TokenRange=73824:73831
+11	)	)	PUNCT	FB	_	8	punct	_	TokenRange=73831:73832
+12	fonden	fondà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=73833:73839
+13	duu	duu	NUM	N	NumType=Card	14	nummod	_	TokenRange=73840:73843
+14	regn	regn	NOUN	S	Gender=Masc	12	obj	_	TokenRange=73844:73848
+15	in	in	ADP	E	_	17	case	_	TokenRange=73849:73851
+16	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	TokenRange=73852:73854
+17	Terra	Terra	PROPN	SP	_	14	nmod	_	TokenRange=73855:73860
+18	de	de	ADP	E	_	19	case	_	TokenRange=73861:73863
+19	Mezz	Mezz	PROPN	SP	_	17	nmod	_	SpaceAfter=No|TokenRange=73864:73868
+20	:	:	PUNCT	FC	_	12	punct	_	TokenRange=73868:73869
+
+# sent_id = lmo-mil-wiki-doc2-s539
+# text = Isildur a nord el fonda el regn de Anor, Anárion a sud el fonda Gondor.
+1	Isildur	Isildur	PROPN	SP	_	5	nsubj	_	TokenRange=73870:73877
+2	a	a	ADP	E	_	3	case	_	TokenRange=73878:73879
+3	nord	nord	NOUN	S	Gender=Masc	1	nmod	_	TokenRange=73880:73884
+4	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	5	expl	_	TokenRange=73885:73887
+5	fonda	fondà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=73888:73893
+6	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=73894:73896
+7	regn	regn	NOUN	S	Gender=Masc	5	obj	_	TokenRange=73897:73901
+8	de	de	ADP	E	_	9	case	_	TokenRange=73902:73904
+9	Anor	Anor	PROPN	SP	_	7	nmod	_	SpaceAfter=No|TokenRange=73905:73909
+10	,	,	PUNCT	FF	_	15	punct	_	TokenRange=73909:73910
+11	Anárion	Anárion	PROPN	SP	_	15	nsubj	_	TokenRange=73911:73918
+12	a	a	ADP	E	_	13	case	_	TokenRange=73919:73920
+13	sud	sud	NOUN	S	Gender=Masc	15	obl	_	TokenRange=73921:73924
+14	el	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	15	expl	_	TokenRange=73925:73927
+15	fonda	fondà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	TokenRange=73928:73933
+16	Gondor	Gondor	PROPN	SP	_	15	obj	_	SpaceAfter=No|TokenRange=73934:73940
+17	.	.	PUNCT	FS	_	5	punct	_	TokenRange=73940:73941
+
+# sent_id = lmo-mil-wiki-doc2-s541
+# text = Infin, la ven cuntada sù la longa e difficil storia d'amor tra Aragorn e Arwen.
+1	Infin	infin	ADV	B	_	5	advmod	_	SpaceAfter=No|TokenRange=74268:74273
+2	,	,	PUNCT	FF	_	1	punct	_	TokenRange=74273:74274
+3	la	el	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Clit	5	expl	_	TokenRange=74275:74277
+4	ven	vegnì	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	TokenRange=74278:74281
+5	cuntada	cuntà	VERB	V	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=74282:74289
+6	sù	sù	ADP	E	_	11	case	_	TokenRange=74290:74292
+7	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	TokenRange=74293:74295
+8	longa	longo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	TokenRange=74296:74301
+9	e	e	CCONJ	CC	_	10	cc	_	TokenRange=74302:74303
+10	difficil	difficil	ADJ	A	Number=Sing	8	conj	_	TokenRange=74304:74312
+11	storia	storia	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	TokenRange=74313:74319
+12	d'	di	ADP	E	_	13	case	_	SpaceAfter=No|TokenRange=74320:74322
+13	amor	amor	NOUN	S	Gender=Masc	11	nmod	_	TokenRange=74322:74326
+14	tra	tra	ADP	E	_	15	case	_	TokenRange=74327:74330
+15	Aragorn	Aragorn	PROPN	SP	_	11	nmod	_	TokenRange=74331:74338
+16	e	e	CCONJ	CC	_	17	cc	_	TokenRange=74339:74340
+17	Arwen	Arwen	PROPN	SP	_	15	conj	_	SpaceAfter=No|TokenRange=74341:74346
+18	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\r\n|TokenRange=74346:74347
+
+# sent_id = lmo-mil-wiki-doc2-s542
+# text = Poeu la gh'è la storia di Re de Rohan, a partì del primm re Eorl el Giovin fina a Éomer.
+1	Poeu	poeu	ADV	B	_	4	advmod	_	TokenRange=74349:74353
+2	la	el	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Clit	3	expl	_	TokenRange=74354:74356
+3	gh'	ghe	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No|TokenRange=74357:74360
+4	è	vess	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=74360:74361
+5	la	el	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=74362:74364
+6	storia	storia	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	TokenRange=74365:74371
+7	di	di	ADP	E	_	8	case	_	TokenRange=74372:74374
+8	Re	re	NOUN	S	Gender=Masc	6	nmod	_	TokenRange=74375:74377
+9	de	de	ADP	E	_	10	case	_	TokenRange=74378:74380
+10	Rohan	Rohan	PROPN	SP	_	8	nmod	_	SpaceAfter=No|TokenRange=74381:74386
+11	,	,	PUNCT	FF	_	8	punct	_	TokenRange=74386:74387
+12	a	a	ADP	E	_	13	mark	_	TokenRange=74388:74389
+13	partì	partì	VERB	V	VerbForm=Inf	4	advcl	_	TokenRange=74390:74395
+14-15	del	_	_	_	_	_	_	_	TokenRange=74396:74399
+14	di	di	ADP	E	_	17	case	_	_
+15	el	el	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	primm	primm	ADJ	NO	NumType=Ord	17	amod	_	TokenRange=74400:74405
+17	re	re	NOUN	S	Gender=Masc	13	nmod	_	TokenRange=74406:74408
+18	Eorl	Eorl	PROPN	SP	_	17	nmod	_	TokenRange=74409:74413
+19	el	el	PROPN	SP	_	18	flat:name	_	TokenRange=74414:74416
+20	Giovin	Giovin	PROPN	SP	_	18	flat:name	_	TokenRange=74417:74423
+21	fina	fina	ADV	B	_	23	case	_	TokenRange=74424:74428
+22	a	a	ADP	E	_	21	fixed	_	TokenRange=74429:74430
+23	Éomer	Éomer	PROPN	SP	_	17	nmod	_	SpaceAfter=No|TokenRange=74431:74436
+24	.	.	PUNCT	FS	_	4	punct	_	TokenRange=74436:74437
