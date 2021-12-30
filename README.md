@@ -31,4 +31,4 @@ C. Beretta. Grammatica del dialetto milanese. 1998.
 [Dizionario dei dialetti (Dialettando.com)](https://www.dialettando.com/dizionario/dizionario.lasso)  
 [Ломбардско-итальянский словарь (Glosbe)](https://glosbe.com/lmo/it)
 
-Moscow, Russia. 2021.
+HSE, Moscow, December 2021.
