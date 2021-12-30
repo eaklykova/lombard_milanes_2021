@@ -1,7 +1,6 @@
 # West Lombard (Milanese dialect)
 
 #### This project was conducted by 4th year students of the National Research University "Higher School of Economics".
-Moscow, Russia, 2021.
 
 ## About the dataset
 The dataset consists of Wikipedia articles in the Lombard language.  
@@ -28,6 +27,8 @@ We started by obtaining the article metadata via PetScan, after which 200 longes
 * Zlata Shkut'ko
 
 ## Bibliography & References
-C. Beretta. Grammatica del dialetto milanese. 1998.
-[Dizionario dei dialetti (Dialettando.com)](https://www.dialettando.com/dizionario/dizionario.lasso)
+C. Beretta. Grammatica del dialetto milanese. 1998.  
+[Dizionario dei dialetti (Dialettando.com)](https://www.dialettando.com/dizionario/dizionario.lasso)  
 [Ломбардско-итальянский словарь (Glosbe)](https://glosbe.com/lmo/it)
+
+Moscow, Russia. 2021.
