@@ -38,4 +38,3 @@ The first 1 650 sentences were evenly distributed between 11 annotators, and eac
 Any questions about the project are welcome at eaklykova@edu.hse.ru.
 
 *HSE, Moscow, Russia, December 2021.*
-up
